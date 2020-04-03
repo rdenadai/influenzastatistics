@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,1,2007-01-01,2007-01-07,,26,0,,0,,2,2,,,0,0,2,24,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,2,2007-01-08,2007-01-14,,39,0,,0,,0,0,0,3,1,4,4,35,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,3,2007-01-15,2007-01-21,,66,0,,0,,0,0,0,1,1,2,2,64,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,4,2007-01-22,2007-01-28,,27,0,,0,,0,0,0,0,0,0,0,27,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,5,2007-01-29,2007-02-04,,54,0,,0,,1,1,0,1,0,1,2,52,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,6,2007-02-05,2007-02-11,,45,0,,0,,1,1,,,0,0,1,44,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,7,2007-02-12,2007-02-18,,54,0,,0,,0,0,2,,0,2,2,52,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,8,2007-02-19,2007-02-25,,46,0,,0,,0,0,,,0,0,0,46,No Activity
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,9,2007-02-26,2007-03-04,,78,0,,0,,0,0,,,0,0,0,78,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,10,2007-03-05,2007-03-11,,76,0,,0,,0,0,,,0,0,0,76,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,11,2007-03-12,2007-03-18,,64,0,,0,,0,0,,,0,0,0,64,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,12,2007-03-19,2007-03-25,,143,0,,0,,0,0,,,1,1,1,142,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,13,2007-03-26,2007-04-01,,105,0,,0,,0,0,,,0,0,0,105,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,14,2007-04-02,2007-04-08,,53,0,,2,,0,2,,,0,0,2,51,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,15,2007-04-09,2007-04-15,,111,0,,2,,0,2,,,0,0,2,109,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,16,2007-04-16,2007-04-22,,108,0,,0,,1,1,,,0,0,1,107,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,17,2007-04-23,2007-04-29,,87,4,,0,,0,4,,,0,0,4,83,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,18,2007-04-30,2007-05-06,,96,0,,0,,0,0,,,0,0,0,96,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,19,2007-05-07,2007-05-13,,114,0,,4,,0,4,,,0,0,4,110,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,20,2007-05-14,2007-05-20,,113,4,,5,,11,20,,,0,0,20,93,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,21,2007-05-21,2007-05-27,,105,2,,0,,8,10,,,1,1,11,94,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,22,2007-05-28,2007-06-03,,86,0,,1,,0,1,,,0,0,1,85,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,23,2007-06-04,2007-06-10,,126,0,,0,,1,1,,,0,0,1,125,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,24,2007-06-11,2007-06-17,,91,0,,1,,2,3,,,0,0,3,88,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,25,2007-06-18,2007-06-24,,81,0,,0,,2,2,,,0,0,2,79,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,26,2007-06-25,2007-07-01,,123,0,,0,,0,0,,,0,0,0,123,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,27,2007-07-02,2007-07-08,,91,0,,0,,0,0,,,0,0,0,91,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,28,2007-07-09,2007-07-15,,123,0,,0,,2,2,,,0,0,2,121,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,29,2007-07-16,2007-07-22,,103,0,,0,,1,1,,,0,0,1,102,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,30,2007-07-23,2007-07-29,,73,0,,0,,0,0,,,0,0,0,73,Widespread Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,31,2007-07-30,2007-08-05,,63,0,,0,,0,0,,,0,0,0,63,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,32,2007-08-06,2007-08-12,,128,0,,0,,0,0,,,0,0,0,128,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,33,2007-08-13,2007-08-19,,87,0,,0,,0,0,,,0,0,0,87,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,34,2007-08-20,2007-08-26,,105,0,,0,,0,0,,,0,0,0,105,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,35,2007-08-27,2007-09-02,,136,0,,0,,0,0,,,1,1,1,135,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,36,2007-09-03,2007-09-09,,67,0,,0,,0,0,,,0,0,0,67,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,37,2007-09-10,2007-09-16,,108,0,,0,,0,0,,,1,1,1,107,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,38,2007-09-17,2007-09-23,,40,0,,0,,0,0,,,0,0,0,40,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,39,2007-09-24,2007-09-30,,99,0,,0,,1,1,,,1,1,2,97,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,40,2007-10-01,2007-10-07,,106,0,,0,,0,0,,,0,0,0,106,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,41,2007-10-08,2007-10-14,,116,0,,0,,0,0,,,0,0,0,116,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,42,2007-10-15,2007-10-21,,57,0,,0,,0,0,,,0,0,0,57,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,43,2007-10-22,2007-10-28,,27,0,,0,,0,0,,,0,0,0,27,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,44,2007-10-29,2007-11-04,,83,0,,0,,0,0,,,0,0,0,83,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,45,2007-11-05,2007-11-11,,68,0,,0,,0,0,,,0,0,0,68,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,46,2007-11-12,2007-11-18,,48,0,,0,,0,0,,,0,0,0,48,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,47,2007-11-19,2007-11-25,,71,0,,0,,0,0,,,1,1,1,70,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,48,2007-11-26,2007-12-02,,36,0,,0,,0,0,,,3,3,3,33,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,49,2007-12-03,2007-12-09,,26,0,,0,,0,0,,,0,0,0,26,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,50,2007-12-10,2007-12-16,,32,0,,0,,0,0,,,0,0,0,32,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,51,2007-12-17,2007-12-23,,27,0,,0,,0,0,,,0,0,0,27,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2007,52,2007-12-24,2007-12-30,,15,0,,0,,0,0,,,4,4,4,11,Sporadic
+
+

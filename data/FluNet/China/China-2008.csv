@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,1,2007-01-01,2007-01-07,,820,66,,128,,1,195,,,32,32,227,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,2,2007-01-08,2007-01-14,,1618,109,,313,,7,429,,,68,68,497,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,3,2007-01-15,2007-01-21,,1808,103,,373,,9,485,,,49,49,534,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,4,2007-01-22,2007-01-28,,1698,75,,326,,4,405,,,55,55,460,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,5,2007-01-29,2007-02-04,,1311,33,,300,,11,344,,,41,41,385,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,6,2007-02-05,2007-02-11,,1069,29,,275,,6,310,,,32,32,342,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,7,2007-02-12,2007-02-18,,658,17,,233,,14,264,,,39,39,303,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,8,2007-02-19,2007-02-25,,254,9,,129,,11,149,,,15,15,164,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,9,2007-02-26,2007-03-04,,698,11,,321,,20,352,,,33,33,385,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,10,2007-03-05,2007-03-11,,690,17,,345,,30,392,,,39,39,431,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,11,2007-03-12,2007-03-18,,914,12,,312,,10,334,,,107,107,441,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,12,2007-03-19,2007-03-25,,769,10,,290,,7,308,,,84,84,392,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,13,2007-03-26,2007-04-01,,798,19,,226,,10,255,,,77,77,332,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,14,2007-04-02,2007-04-08,,,2,,143,,3,148,,,45,45,193,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,15,2007-04-09,2007-04-15,,,0,,82,,10,92,,,25,25,117,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,16,2007-04-16,2007-04-22,,,1,,108,,10,119,,,43,43,162,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,17,2007-04-23,2007-04-29,,,0,,92,,3,95,,,36,36,131,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,18,2007-04-30,2007-05-06,,,0,,66,,0,66,,,36,36,102,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,19,2007-05-07,2007-05-13,,,4,,74,,10,88,,,41,41,129,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,20,2007-05-14,2007-05-20,,,1,,39,,3,43,,,52,52,95,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,21,2007-05-21,2007-05-27,,,1,,22,,6,29,,,31,31,60,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,22,2007-05-28,2007-06-03,,,2,,43,,8,53,,,28,28,81,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,23,2007-06-04,2007-06-10,,,1,,45,,2,48,,,27,27,75,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,24,2007-06-11,2007-06-17,,,2,,56,,3,61,,,44,44,105,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,25,2007-06-18,2007-06-24,,,0,,130,,4,134,,,42,42,176,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,26,2007-06-25,2007-07-01,,,3,,274,,6,283,,,74,74,357,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,27,2007-07-02,2007-07-08,,,1,,373,,4,378,,,46,46,424,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,28,2007-07-09,2007-07-15,,,9,,395,,9,413,,,86,86,499,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,29,2007-07-16,2007-07-22,,,3,,336,,16,355,,,80,80,435,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,30,2007-07-23,2007-07-29,,,0,,172,,15,187,,,53,53,240,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,31,2007-07-30,2007-08-05,,,5,,134,,10,149,,,43,43,192,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,32,2007-08-06,2007-08-12,,,4,,62,,11,77,,,39,39,116,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,33,2007-08-13,2007-08-19,,,2,,25,,11,38,,,31,31,69,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,34,2007-08-20,2007-08-26,,,5,,11,,3,19,,,41,41,60,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,35,2007-08-27,2007-09-02,,,2,,18,,4,24,,,28,28,52,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,36,2007-09-03,2007-09-09,,,3,,20,,3,26,,,36,36,62,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,37,2007-09-10,2007-09-16,,,4,,18,,4,26,,,23,23,49,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,38,2007-09-17,2007-09-23,,,1,,12,,3,16,,,22,22,38,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,39,2007-09-24,2007-09-30,,,4,,11,,0,15,,,19,19,34,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,40,2007-10-01,2007-10-07,,71,3,,11,,1,15,,,29,29,44,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,41,2007-10-08,2007-10-14,,320,4,,13,,2,19,,,34,34,53,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,42,2007-10-15,2007-10-21,,469,1,,30,,2,33,,,40,40,73,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,43,2007-10-22,2007-10-28,,412,3,,7,,0,10,,,33,33,43,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,44,2007-10-29,2007-11-04,,478,2,,10,,2,14,,,32,32,46,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,45,2007-11-05,2007-11-11,,476,2,,21,,1,24,,,55,55,79,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,46,2007-11-12,2007-11-18,,572,6,,4,,6,16,,,44,44,60,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,47,2007-11-19,2007-11-25,,761,6,,8,,3,17,,,51,51,68,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,48,2007-11-26,2007-12-02,,406,0,,0,,4,4,,,32,32,36,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,49,2007-12-03,2007-12-09,,825,1,,19,,1,21,,,84,84,105,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,50,2007-12-10,2007-12-16,,991,0,,26,,3,29,,,141,141,170,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,51,2007-12-17,2007-12-23,,605,1,,15,,2,18,,,124,124,142,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2007,52,2007-12-24,2007-12-30,,394,4,,10,,2,16,,,43,43,59,,Sporadic
+
+

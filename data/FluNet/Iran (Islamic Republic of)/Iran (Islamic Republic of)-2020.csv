@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,1,2018-12-31,2019-01-06,1097,1097,,5,274,0,38,317,0,0,2,2,319,778,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,2,2019-01-07,2019-01-13,1306,1306,,5,319,0,63,387,0,0,1,1,388,918,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,3,2019-01-14,2019-01-20,1159,1159,,7,248,0,79,334,0,0,1,1,335,824,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,4,2019-01-21,2019-01-27,1035,1035,,4,186,0,61,251,0,0,1,1,252,783,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,5,2019-01-28,2019-02-03,889,889,,4,116,0,49,169,0,0,4,4,173,716,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,6,2019-02-04,2019-02-10,580,580,,5,59,0,17,81,0,0,2,2,83,487,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,7,2019-02-11,2019-02-17,377,377,,0,53,0,5,58,0,0,0,0,58,319,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,8,2019-02-18,2019-02-24,478,478,,3,25,0,13,41,0,0,0,0,41,437,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,9,2019-02-25,2019-03-03,270,270,,3,11,0,7,21,0,0,2,2,23,247,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,10,2019-03-04,2019-03-10,266,266,,1,25,0,0,26,0,0,1,1,27,239,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,11,2019-03-11,2019-03-17,202,202,,3,12,0,5,20,0,0,4,4,24,178,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,12,2019-03-18,2019-03-24,43,43,,3,1,0,0,4,0,0,0,0,4,39,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,13,2019-03-25,2019-03-31,116,116,,4,2,0,0,6,0,0,1,1,7,109,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,14,2019-04-01,2019-04-07,55,55,,3,0,0,0,3,0,0,0,0,3,52,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,15,2019-04-08,2019-04-14,116,116,,1,0,0,0,1,0,0,0,0,1,115,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,16,2019-04-15,2019-04-21,94,94,,1,2,0,0,3,0,0,0,0,3,91,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,17,2019-04-22,2019-04-28,95,95,,0,1,0,0,1,0,0,0,0,1,94,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,18,2019-04-29,2019-05-05,75,75,,0,0,0,0,0,0,0,0,0,0,75,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,19,2019-05-06,2019-05-12,118,118,,0,0,0,0,0,0,0,1,1,1,117,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,20,2019-05-13,2019-05-19,73,73,,0,1,0,0,1,0,0,0,0,1,72,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,21,2019-05-20,2019-05-26,76,76,,0,0,0,0,0,0,0,1,1,1,75,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,22,2019-05-27,2019-06-02,51,51,,0,0,0,0,0,0,0,0,0,0,51,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,23,2019-06-03,2019-06-09,54,54,,0,0,0,0,0,0,0,0,0,0,54,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,24,2019-06-10,2019-06-16,80,80,,0,0,0,0,0,0,0,2,2,2,78,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,25,2019-06-17,2019-06-23,70,70,,0,0,0,0,0,0,0,0,0,0,70,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,26,2019-06-24,2019-06-30,36,36,,0,0,0,0,0,0,0,1,1,1,35,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,27,2019-07-01,2019-07-07,64,64,,0,0,0,0,0,0,0,0,0,0,64,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,28,2019-07-08,2019-07-14,28,28,,0,0,0,0,0,0,0,0,0,0,28,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,29,2019-07-15,2019-07-21,31,31,,0,0,0,0,0,0,0,0,0,0,31,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,30,2019-07-22,2019-07-28,52,52,,0,0,0,0,0,0,0,0,0,0,52,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,31,2019-07-29,2019-08-04,49,49,,0,0,0,0,0,0,0,0,0,0,49,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,32,2019-08-05,2019-08-11,29,29,,0,0,0,0,0,0,0,1,1,1,28,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,33,2019-08-12,2019-08-18,29,29,,0,0,0,0,0,0,0,2,2,2,27,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,34,2019-08-19,2019-08-25,70,70,,8,2,0,0,10,0,0,1,1,11,69,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,35,2019-08-26,2019-09-01,101,101,,6,2,0,0,8,0,0,0,0,8,93,Sporadic
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,36,2019-09-02,2019-09-08,116,116,,1,0,0,0,1,0,0,0,0,1,115,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,37,2019-09-09,2019-09-15,107,107,,3,1,0,0,4,0,0,0,0,4,103,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,38,2019-09-16,2019-09-22,165,165,,3,0,0,0,3,0,0,3,3,6,159,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,39,2019-09-23,2019-09-29,159,159,,2,0,0,2,4,0,0,0,0,4,155,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,40,2019-09-30,2019-10-06,183,183,,5,0,0,21,26,0,0,0,0,26,157,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,41,2019-10-07,2019-10-13,224,224,,7,2,0,3,12,0,0,0,0,12,212,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,42,2019-10-14,2019-10-20,411,411,,61,6,0,39,106,0,0,2,2,108,303,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,43,2019-10-21,2019-10-27,883,883,,143,13,0,57,213,0,0,5,5,218,665,Local Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,44,2019-10-28,2019-11-03,1167,1167,,159,22,0,82,263,0,0,6,6,269,898,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,45,2019-11-04,2019-11-10,1340,1340,,292,9,0,119,420,0,0,12,12,432,908,Regional Outbreak
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,46,2019-11-11,2019-11-17,,1788,,393,10,,168,571,,,2,2,573,1215,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,47,2019-11-18,2019-11-24,,2651,,533,,,312,845,,,6,6,851,1800,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,48,2019-11-25,2019-12-01,,2192,,537,2,0,374,913,0,0,8,8,921,1363,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,49,2019-12-02,2019-12-08,,2583,,408,3,0,564,975,0,0,42,42,1017,1566,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,50,2019-12-09,2019-12-15,,2075,,292,5,0,282,579,0,0,133,133,712,1271,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,51,2019-12-16,2019-12-22,,1257,,157,5,0,79,241,0,0,72,72,313,944,No Report
+
+Iran (Islamic Republic of),Eastern Mediterranean Region of WHO,Southern Asia,2019,52,2019-12-23,2019-12-29,,728,,57,1,0,42,100,0,0,50,50,150,578,No Report
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,1,2005-01-03,2005-01-09,,102,0,,0,,0,0,,,0,0,0,102,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,2,2005-01-10,2005-01-16,,149,0,,0,,0,0,,,0,0,0,149,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,3,2005-01-17,2005-01-23,,155,0,,0,,0,0,,,0,0,0,155,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,4,2005-01-24,2005-01-30,,164,0,,0,,0,0,,,0,0,0,164,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,5,2005-01-31,2005-02-06,,163,0,,0,,0,0,,,0,0,0,163,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,6,2005-02-07,2005-02-13,,140,0,,0,,0,0,,,0,0,0,140,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,7,2005-02-14,2005-02-20,,141,0,,1,,0,1,,,0,0,1,140,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,8,2005-02-21,2005-02-27,,150,0,,0,,0,0,,,0,0,0,150,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,9,2005-02-28,2005-03-06,,154,0,,1,,0,1,,,0,0,1,153,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,10,2005-03-07,2005-03-13,,147,0,,,,1,1,,,0,0,1,146,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,11,2005-03-14,2005-03-20,,140,0,,1,,0,1,,,0,0,1,139,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,12,2005-03-21,2005-03-27,,157,0,,0,,0,0,,,0,0,0,157,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,13,2005-03-28,2005-04-03,,150,0,,0,,1,1,,,0,0,1,149,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,14,2005-04-04,2005-04-10,,201,0,,1,,1,2,,,0,0,2,199,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,15,2005-04-11,2005-04-17,,213,0,,0,,4,4,,,0,0,4,209,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,16,2005-04-18,2005-04-24,,196,0,,1,,1,2,,,0,0,2,194,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,17,2005-04-25,2005-05-01,,203,0,,3,,2,5,,,0,0,5,198,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,18,2005-05-02,2005-05-08,,417,0,,4,,3,7,,,0,0,7,410,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,19,2005-05-09,2005-05-15,,483,,,11,,7,18,,,0,0,18,465,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,20,2005-05-16,2005-05-22,,532,0,,12,,13,25,,,0,0,25,507,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,21,2005-05-23,2005-05-29,,463,0,,7,,19,26,,,1,1,27,436,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,22,2005-05-30,2005-06-05,,837,0,,29,,8,37,,,3,3,40,797,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,23,2005-06-06,2005-06-12,,1017,0,,39,,29,68,,,2,2,70,947,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,24,2005-06-13,2005-06-19,,964,0,,68,,3,71,,,3,3,74,890,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,25,2005-06-20,2005-06-26,,1077,,,43,,35,78,,,3,3,81,996,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,26,2005-06-27,2005-07-03,,1249,,,46,,55,101,,,2,2,103,1146,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,27,2005-07-04,2005-07-10,,1190,,,51,,46,97,,,12,12,109,1081,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,28,2005-07-11,2005-07-17,,1318,,,28,,29,57,,,6,6,63,1255,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,29,2005-07-18,2005-07-24,,1146,0,,44,,22,66,,,4,4,70,1076,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,30,2005-07-25,2005-07-31,,1028,,,14,,2,16,,,7,7,23,1005,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,31,2005-08-01,2005-08-07,,850,0,,4,,12,16,,,4,4,20,830,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,32,2005-08-08,2005-08-14,,774,0,,3,,9,12,,,3,3,15,759,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,33,2005-08-15,2005-08-21,,564,0,,2,,4,6,,,6,6,12,552,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,34,2005-08-22,2005-08-28,,780,0,,5,,0,5,,,2,2,7,773,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,35,2005-08-29,2005-09-04,,587,,,2,,3,5,,,5,5,10,577,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,36,2005-09-05,2005-09-11,,595,,,2,,1,3,,,6,6,9,586,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,37,2005-09-12,2005-09-18,,659,0,,5,,,5,,,6,6,11,648,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,38,2005-09-19,2005-09-25,,721,,,5,,3,8,,,5,5,13,708,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,39,2005-09-26,2005-10-02,,620,0,,4,,0,4,,,5,5,9,611,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,40,2005-10-03,2005-10-09,,503,0,,,,,0,,,1,1,1,502,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,41,2005-10-10,2005-10-16,,302,,,,,,0,,,6,6,6,296,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,42,2005-10-17,2005-10-23,,264,0,,,,,0,,,1,1,1,263,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,43,2005-10-24,2005-10-30,,199,0,,,,,0,,,2,2,2,197,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,44,2005-10-31,2005-11-06,,128,0,,0,,0,0,,,0,0,0,128,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,45,2005-11-07,2005-11-13,,,,,,,,,,,,,,,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,46,2005-11-14,2005-11-20,,91,0,,0,,0,0,,,0,0,0,91,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,47,2005-11-21,2005-11-27,,19,0,,0,,0,0,,,0,0,0,19,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,48,2005-11-28,2005-12-04,,60,0,,0,,0,0,,,0,0,0,60,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,49,2005-12-05,2005-12-11,,0,0,,0,,0,0,,,0,0,0,,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,50,2005-12-12,2005-12-18,,0,0,,0,,0,0,,,0,0,0,,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,51,2005-12-19,2005-12-25,,0,0,,0,,0,0,,,0,0,0,,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2005,52,2005-12-26,2006-01-01,,0,0,,0,,0,0,,,0,0,0,,No Activity
+
+

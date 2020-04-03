@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,1,2012-12-31,2013-01-06,287,287,0,0,1,0,0,1,4,4,1,9,10,277,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,2,2013-01-07,2013-01-13,316,316,0,0,2,0,0,2,4,3,1,8,10,306,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,3,2013-01-14,2013-01-20,301,301,0,0,1,0,0,1,2,2,0,4,5,296,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,4,2013-01-21,2013-01-27,293,293,0,1,3,0,1,5,1,0,1,2,7,286,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,5,2013-01-28,2013-02-03,290,298,0,0,4,0,0,4,1,1,0,2,6,292,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,6,2013-02-04,2013-02-10,272,272,0,1,0,0,0,1,0,0,0,0,1,271,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,7,2013-02-11,2013-02-17,260,262,0,1,1,0,0,2,0,0,0,0,2,260,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,8,2013-02-18,2013-02-24,271,271,0,0,2,0,0,2,0,0,0,0,2,269,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,9,2013-02-25,2013-03-03,279,279,0,0,2,0,0,2,0,0,1,1,3,276,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,10,2013-03-04,2013-03-10,294,294,0,2,3,0,0,5,2,0,0,2,7,287,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,11,2013-03-11,2013-03-17,355,355,0,0,0,0,0,0,1,0,0,1,1,354,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,12,2013-03-18,2013-03-24,492,492,0,2,4,0,0,6,0,0,0,0,6,486,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,13,2013-03-25,2013-03-31,442,442,0,0,1,0,0,1,1,0,0,1,2,440,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,14,2013-04-01,2013-04-07,509,509,0,2,1,0,0,3,1,1,0,2,5,504,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,15,2013-04-08,2013-04-14,520,521,0,6,3,0,0,9,0,1,0,1,10,511,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,16,2013-04-15,2013-04-21,569,568,0,10,2,0,1,13,3,3,0,6,19,549,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,17,2013-04-22,2013-04-28,543,543,0,11,2,0,0,13,4,4,0,8,21,522,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,18,2013-04-29,2013-05-05,610,610,0,20,3,0,0,23,4,2,0,6,29,581,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,19,2013-05-06,2013-05-12,685,685,0,28,3,0,4,35,3,1,1,5,40,645,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,20,2013-05-13,2013-05-19,739,739,0,35,15,0,12,62,2,1,0,3,65,674,Regional Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,21,2013-05-20,2013-05-26,899,899,0,59,8,0,12,79,0,1,3,4,83,816,Regional Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,22,2013-05-27,2013-06-02,1148,1148,0,80,8,0,24,112,5,0,0,5,117,1031,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,23,2013-06-03,2013-06-09,1286,1286,0,145,20,0,3,168,1,3,2,6,174,1112,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,24,2013-06-10,2013-06-16,1471,1470,0,174,17,0,1,192,3,0,2,5,197,1273,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,25,2013-06-17,2013-06-23,1616,1616,0,151,16,0,6,173,0,8,7,15,188,1428,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,26,2013-06-24,2013-06-30,1747,1751,0,151,14,0,10,175,4,10,8,22,197,1554,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,27,2013-07-01,2013-07-07,1838,1838,0,140,24,0,3,167,3,8,7,18,185,1653,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,28,2013-07-08,2013-07-14,2089,2090,0,146,38,0,0,184,8,4,9,21,205,1885,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,29,2013-07-15,2013-07-21,1994,1996,0,88,22,0,1,111,8,3,0,11,122,1874,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,30,2013-07-22,2013-07-28,,1660,0,36,21,,5,62,7,5,4,16,78,1582,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,31,2013-07-29,2013-08-04,,1567,0,27,21,,10,58,6,9,2,17,75,1492,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,32,2013-08-05,2013-08-11,,1438,0,13,28,,4,45,4,7,2,13,58,1380,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,33,2013-08-12,2013-08-18,,1522,0,12,19,,5,36,9,8,1,18,54,1468,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,34,2013-08-19,2013-08-25,,1684,0,7,27,,7,41,1,16,3,20,61,1623,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,35,2013-08-26,2013-09-01,,1536,0,3,24,,4,31,6,9,3,18,49,1487,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,36,2013-09-02,2013-09-08,,1353,0,6,21,,5,32,9,9,2,20,52,1301,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,37,2013-09-09,2013-09-15,,1249,0,4,14,,1,19,9,11,1,21,40,1209,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,38,2013-09-16,2013-09-22,,676,0,1,5,,5,11,2,4,0,6,17,659,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,39,2013-09-23,2013-09-29,,1093,0,2,20,,1,23,8,13,0,21,44,1049,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,40,2013-09-30,2013-10-06,,829,0,0,12,,7,19,8,12,1,21,40,789,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,41,2013-10-07,2013-10-13,,827,0,0,6,,2,8,13,9,1,23,31,796,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,42,2013-10-14,2013-10-20,,861,0,0,13,,2,15,14,13,1,28,43,818,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,43,2013-10-21,2013-10-27,,740,0,1,7,,0,8,15,12,1,28,36,704,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,44,2013-10-28,2013-11-03,,482,0,0,3,,3,6,5,5,1,11,17,465,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,45,2013-11-04,2013-11-10,,692,0,0,4,,0,4,18,13,3,34,38,654,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,46,2013-11-11,2013-11-17,,619,0,0,3,,2,5,11,10,1,22,27,592,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,47,2013-11-18,2013-11-24,,658,0,0,5,,2,7,9,8,0,17,24,634,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,48,2013-11-25,2013-12-01,,622,0,0,8,,1,9,14,7,0,21,30,592,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,49,2013-12-02,2013-12-08,,612,0,2,0,,1,3,9,6,1,16,19,593,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,50,2013-12-09,2013-12-15,,566,0,0,3,,3,6,7,12,0,19,25,541,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,51,2013-12-16,2013-12-22,,493,0,0,2,,0,2,6,4,3,13,15,478,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2013,52,2013-12-23,2013-12-29,,399,0,1,2,,1,4,1,1,2,4,8,391,No Report
+
+

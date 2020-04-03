@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ghana,African Region of WHO,Western Africa,2010,1,2010-01-04,2010-01-10,42,42,0,0,1,0,1,2,0,0,0,0,2,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,2,2010-01-11,2010-01-17,28,28,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Ghana,African Region of WHO,Western Africa,2010,3,2010-01-18,2010-01-24,51,51,0,0,9,0,0,9,0,0,0,0,9,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,4,2010-01-25,2010-01-31,29,29,1,0,3,0,1,5,0,0,0,0,5,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,5,2010-02-01,2010-02-07,34,34,0,0,4,0,0,4,0,0,0,0,4,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,6,2010-02-08,2010-02-14,38,38,0,0,6,0,0,6,0,0,0,0,6,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,7,2010-02-15,2010-02-21,42,42,0,1,4,0,0,5,0,0,0,0,5,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,8,2010-02-22,2010-02-28,61,61,0,15,2,0,0,17,0,0,0,0,17,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,9,2010-03-01,2010-03-07,49,49,0,16,5,0,1,22,0,0,0,0,22,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,10,2010-03-08,2010-03-14,83,83,0,15,4,0,0,19,0,0,0,0,19,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,11,2010-03-15,2010-03-21,408,408,0,61,7,0,0,68,0,0,0,0,68,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,12,2010-03-22,2010-03-28,466,466,0,125,8,0,1,134,0,0,0,0,134,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,13,2010-03-29,2010-04-04,549,549,0,194,9,0,0,203,0,0,0,0,203,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,14,2010-04-05,2010-04-11,449,449,0,116,16,0,5,137,1,0,2,3,140,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,15,2010-04-12,2010-04-18,331,331,0,79,7,0,0,86,0,0,26,26,112,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,16,2010-04-19,2010-04-25,237,237,0,44,14,0,0,58,0,0,1,1,59,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,17,2010-04-26,2010-05-02,162,162,0,17,4,0,0,21,0,0,0,0,21,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,18,2010-05-03,2010-05-09,70,70,0,4,3,0,0,7,0,0,2,2,9,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,19,2010-05-10,2010-05-16,81,18,0,13,0,0,0,13,0,0,0,0,13,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,20,2010-05-17,2010-05-23,126,126,0,22,0,0,0,22,0,0,0,0,22,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,21,2010-05-24,2010-05-30,109,109,0,14,1,0,0,15,0,0,0,0,15,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,22,2010-05-31,2010-06-06,122,122,0,20,1,0,0,21,0,0,0,0,21,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,23,2010-06-07,2010-06-13,170,170,0,39,4,0,0,43,0,0,0,0,43,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,24,2010-06-14,2010-06-20,90,90,0,22,2,0,0,24,0,0,0,0,24,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,25,2010-06-21,2010-06-27,72,72,0,24,0,0,0,24,0,0,0,0,24,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,26,2010-06-28,2010-07-04,25,25,0,9,1,0,0,10,0,0,0,0,10,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,27,2010-07-05,2010-07-11,58,58,0,14,1,0,0,15,0,0,0,0,15,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,28,2010-07-12,2010-07-18,59,59,0,23,0,0,0,23,0,0,0,0,23,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,29,2010-07-19,2010-07-25,78,78,0,20,0,0,0,20,0,0,0,0,20,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,30,2010-07-26,2010-08-01,38,38,0,7,0,0,0,7,0,0,0,0,7,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,31,2010-08-02,2010-08-08,29,29,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,32,2010-08-09,2010-08-15,24,24,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,33,2010-08-16,2010-08-22,6,6,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,34,2010-08-23,2010-08-29,69,69,0,30,0,0,0,30,0,0,0,0,30,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,35,2010-08-30,2010-09-05,82,82,0,21,0,0,1,22,0,0,0,0,22,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,36,2010-09-06,2010-09-12,22,22,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2010,37,2010-09-13,2010-09-19,42,42,0,2,2,0,0,4,0,0,0,0,4,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,38,2010-09-20,2010-09-26,24,24,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2010,39,2010-09-27,2010-10-03,26,26,0,2,1,0,0,3,0,0,0,0,3,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,40,2010-10-04,2010-10-10,20,20,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2010,41,2010-10-11,2010-10-17,26,26,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2010,42,2010-10-18,2010-10-24,40,40,0,1,1,0,0,2,0,0,0,0,2,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,43,2010-10-25,2010-10-31,27,27,0,1,1,0,0,2,0,0,0,0,2,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,44,2010-11-01,2010-11-07,22,22,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,45,2010-11-08,2010-11-14,22,22,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,46,2010-11-15,2010-11-21,20,20,0,1,5,0,0,6,0,0,0,0,6,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,47,2010-11-22,2010-11-28,24,24,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,48,2010-11-29,2010-12-05,37,37,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,49,2010-12-06,2010-12-12,36,36,0,1,4,0,0,5,0,0,0,0,5,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,50,2010-12-13,2010-12-19,37,37,0,2,2,0,0,4,0,0,0,0,4,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,51,2010-12-20,2010-12-26,28,28,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2010,52,2010-12-27,2011-01-02,24,24,0,1,3,0,0,4,0,0,0,0,4,,Sporadic
+
+

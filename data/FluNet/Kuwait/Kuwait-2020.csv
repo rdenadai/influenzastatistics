@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,1,2018-12-31,2019-01-06,237,237,,21,17,,1,39,,,4,4,43,194,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,2,2019-01-07,2019-01-13,241,241,,24,18,,,42,,,12,12,54,187,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,3,2019-01-14,2019-01-20,201,201,,34,19,,,53,,,15,15,68,133,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,4,2019-01-21,2019-01-27,239,239,,43,14,,,57,,,12,12,69,170,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,5,2019-01-28,2019-02-03,273,273,,37,12,,,56,,,8,8,64,209,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,6,2019-02-04,2019-02-10,282,282,,39,10,,,49,,,19,19,68,214,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,7,2019-02-11,2019-02-17,279,279,,46,10,,,56,,,15,15,71,208,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,8,2019-02-18,2019-02-24,280,280,,36,8,,,44,,,14,14,58,222,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,9,2019-02-25,2019-03-03,262,262,,29,5,,,34,,,19,19,53,209,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,10,2019-03-04,2019-03-10,314,314,,31,14,,,45,,,11,11,56,257,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,11,2019-03-11,2019-03-17,301,301,,37,11,,,48,,,18,18,66,235,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,12,2019-03-18,2019-03-24,284,284,,46,8,,,54,,,29,29,83,201,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,13,2019-03-25,2019-03-31,251,251,,40,9,,,49,,,12,12,61,202,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,14,2019-04-01,2019-04-07,249,249,,22,5,,,27,,,26,26,53,196,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,15,2019-04-08,2019-04-14,176,176,,26,4,,,30,,,19,19,49,127,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,16,2019-04-15,2019-04-21,158,158,,29,7,,,36,5,4,9,18,54,113,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,17,2019-04-22,2019-04-28,213,213,,18,3,,,21,7,10,17,34,55,175,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,18,2019-04-29,2019-05-05,132,132,,17,3,,,20,7,3,10,20,40,102,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,19,2019-05-06,2019-05-12,117,117,,12,1,,,13,10,6,16,32,45,88,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,20,2019-05-13,2019-05-19,80,80,,10,4,,,14,2,4,6,12,26,60,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,21,2019-05-20,2019-05-26,87,87,,6,3,,,9,2,4,6,12,21,72,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,22,2019-05-27,2019-06-02,93,93,,12,11,,,23,0,8,8,16,39,62,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,23,2019-06-03,2019-06-09,49,49,,3,2,,,5,1,1,2,4,9,42,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,24,2019-06-10,2019-06-16,90,90,,7,4,,,11,3,3,6,12,23,73,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,25,2019-06-17,2019-06-23,70,70,,5,5,,,10,0,4,4,8,18,56,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,26,2019-06-24,2019-06-30,61,61,,2,2,,,4,2,1,3,6,10,54,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,27,2019-07-01,2019-07-07,57,57,,1,0,,,1,1,2,3,6,7,53,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,28,2019-07-08,2019-07-14,74,74,,1,0,,,1,2,0,2,4,5,71,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,29,2019-07-15,2019-07-21,83,83,,3,1,,,4,1,6,7,14,18,72,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,30,2019-07-22,2019-07-28,78,78,,0,2,,,2,1,2,3,6,8,73,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,31,2019-07-29,2019-08-04,65,65,,1,0,,,1,0,1,1,2,3,63,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,32,2019-08-05,2019-08-11,56,56,,3,1,,,4,0,2,2,4,8,50,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,33,2019-08-12,2019-08-18,48,48,,2,2,,,4,0,3,3,6,10,41,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,34,2019-08-19,2019-08-25,51,51,,2,1,,,3,0,3,3,6,9,45,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,35,2019-08-26,2019-09-01,65,65,,6,2,,,8,0,4,4,8,16,53,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,36,2019-09-02,2019-09-08,68,68,,4,1,,,5,0,3,3,6,11,60,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,37,2019-09-09,2019-09-15,78,78,,6,3,,,9,1,9,10,20,29,59,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,38,2019-09-16,2019-09-22,117,117,,12,3,,,15,0,27,27,54,69,75,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,39,2019-09-23,2019-09-29,185,185,,25,8,,,33,0,36,36,72,105,116,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,40,2019-09-30,2019-10-06,326,326,,47,16,,,63,0,48,48,96,159,214,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,41,2019-10-07,2019-10-13,312,312,,58,20,,,78,0,64,64,128,206,230,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,42,2019-10-14,2019-10-20,470,470,,85,29,,,114,0,50,50,100,214,306,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,43,2019-10-21,2019-10-27,510,510,,87,44,,,131,0,85,85,170,301,294,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,44,2019-10-28,2019-11-03,584,584,,160,68,,,228,0,76,76,152,380,280,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,45,2019-11-04,2019-11-10,749,749,,220,148,,,368,0,80,80,160,528,301,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,46,2019-11-11,2019-11-17,993,993,,,,,529,529,,,104,104,633,360,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,47,2019-11-18,2019-11-24,1132,1132,,,,,654,654,,,95,95,749,383,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,48,2019-11-25,2019-12-01,1093,1093,,,,,655,655,,,92,92,747,346,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,49,2019-12-02,2019-12-08,898,898,,,,,431,431,,,83,83,514,384,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,50,2019-12-09,2019-12-15,739,739,,,,,271,271,,,54,54,325,414,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,51,2019-12-16,2019-12-22,610,610,,,,,162,162,,,41,41,203,407,No Report
+
+Kuwait,Eastern Mediterranean Region of WHO,Western Asia,2019,52,2019-12-23,2019-12-29,405,405,,,,,63,63,,,25,25,88,340,No Report
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,1,2011-01-03,2011-01-09,17,15,0,0,0,0,0,0,0,0,0,0,0,15,No Activity
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,2,2011-01-10,2011-01-16,22,12,0,0,0,0,0,0,0,0,0,0,0,12,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,3,2011-01-17,2011-01-23,19,28,0,0,0,0,0,0,0,0,0,0,0,28,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,4,2011-01-24,2011-01-30,20,30,0,0,2,0,0,2,0,0,0,0,2,28,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,5,2011-01-31,2011-02-06,30,22,0,0,0,0,0,0,0,0,0,0,0,22,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,6,2011-02-07,2011-02-13,32,26,0,0,0,0,0,0,0,0,0,0,0,26,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,7,2011-02-14,2011-02-20,22,25,0,0,0,0,0,0,0,0,0,0,0,25,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,8,2011-02-21,2011-02-27,31,31,0,0,0,0,0,0,0,0,0,0,0,31,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,9,2011-02-28,2011-03-06,18,7,0,0,0,0,0,0,0,0,0,0,0,7,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,10,2011-03-07,2011-03-13,16,29,0,0,0,0,0,0,0,0,0,0,0,29,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,11,2011-03-14,2011-03-20,32,21,0,0,0,0,0,0,0,0,0,0,0,21,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,12,2011-03-21,2011-03-27,21,20,0,0,0,0,0,0,0,0,0,0,0,20,No Activity
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,13,2011-03-28,2011-04-03,25,24,0,0,0,0,0,0,0,0,0,0,0,24,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,14,2011-04-04,2011-04-10,21,28,0,0,0,0,0,0,0,0,0,0,0,28,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,15,2011-04-11,2011-04-17,26,16,0,1,0,0,0,1,0,0,0,0,1,15,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,16,2011-04-18,2011-04-24,10,18,0,0,0,0,0,0,0,0,0,0,0,18,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,17,2011-04-25,2011-05-01,35,27,0,0,0,0,0,0,0,0,0,0,0,27,No Activity
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,18,2011-05-02,2011-05-08,21,33,0,0,0,0,0,0,0,0,0,0,0,33,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,19,2011-05-09,2011-05-15,28,21,0,0,0,0,0,0,0,0,0,0,0,21,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,20,2011-05-16,2011-05-22,24,27,0,0,0,0,0,0,0,0,0,0,0,27,No Report
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,21,2011-05-23,2011-05-29,26,28,0,0,0,0,0,0,0,0,0,0,0,28,No Report
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,22,2011-05-30,2011-06-05,34,20,0,0,0,0,0,0,0,0,0,0,0,20,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,23,2011-06-06,2011-06-12,23,38,0,3,0,0,0,3,0,0,0,0,3,35,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,24,2011-06-13,2011-06-19,36,27,0,0,0,0,0,0,0,0,0,0,0,27,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,25,2011-06-20,2011-06-26,39,34,0,0,0,0,0,0,0,0,0,0,0,34,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,26,2011-06-27,2011-07-03,47,62,0,0,0,0,0,0,0,0,0,0,0,62,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,27,2011-07-04,2011-07-10,58,55,0,1,0,0,0,1,0,0,0,0,1,54,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,28,2011-07-11,2011-07-17,46,44,0,1,0,0,0,1,0,0,0,0,1,43,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,29,2011-07-18,2011-07-24,36,30,0,1,0,0,0,1,0,0,0,0,1,29,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,30,2011-07-25,2011-07-31,56,32,0,2,0,0,0,2,0,0,0,0,2,30,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,31,2011-08-01,2011-08-07,54,37,0,1,0,0,0,1,0,0,0,0,1,36,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,32,2011-08-08,2011-08-14,59,32,0,1,0,0,0,1,0,0,0,0,1,31,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,33,2011-08-15,2011-08-21,27,24,0,4,0,0,0,4,0,0,0,0,4,20,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,34,2011-08-22,2011-08-28,37,28,0,3,0,0,0,3,0,0,0,0,3,25,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,35,2011-08-29,2011-09-04,38,8,0,3,0,0,0,3,0,0,0,0,3,5,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,36,2011-09-05,2011-09-11,13,23,0,1,0,0,0,1,0,0,0,0,1,22,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,37,2011-09-12,2011-09-18,25,24,0,3,0,0,0,3,0,0,0,0,3,21,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,38,2011-09-19,2011-09-25,43,35,0,9,0,0,0,9,0,0,0,0,9,26,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,39,2011-09-26,2011-10-02,40,23,0,2,0,0,0,2,0,0,0,0,2,21,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,40,2011-10-03,2011-10-09,38,18,0,0,0,0,0,0,0,0,0,0,0,18,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,41,2011-10-10,2011-10-16,15,16,0,0,0,0,0,0,0,0,0,0,0,16,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,42,2011-10-17,2011-10-23,22,18,0,2,0,0,0,2,0,0,0,0,2,16,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,43,2011-10-24,2011-10-30,17,14,0,1,0,0,0,1,0,0,0,0,1,13,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,44,2011-10-31,2011-11-06,25,5,0,0,0,0,0,0,0,0,0,0,0,5,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,45,2011-11-07,2011-11-13,3,4,0,0,0,0,0,0,0,0,0,0,0,4,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,46,2011-11-14,2011-11-20,11,7,0,0,0,0,0,0,0,0,0,0,0,7,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,47,2011-11-21,2011-11-27,15,8,0,2,0,0,0,2,0,0,0,0,2,6,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,48,2011-11-28,2011-12-04,17,11,0,1,0,0,0,1,0,0,0,0,1,10,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,49,2011-12-05,2011-12-11,22,10,0,0,0,0,0,0,0,0,0,0,0,10,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,50,2011-12-12,2011-12-18,8,4,0,0,0,0,0,0,0,0,0,0,0,4,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,51,2011-12-19,2011-12-25,12,9,0,0,0,0,0,0,0,0,0,0,0,9,Sporadic
+
+Panama,Region of the Americas of WHO,Central America and Caribbean,2011,52,2011-12-26,2012-01-01,6,3,0,0,0,0,0,0,0,0,0,0,0,3,Sporadic
+
+

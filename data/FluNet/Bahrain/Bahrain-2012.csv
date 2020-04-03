@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,1,2011-01-03,2011-01-09,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,2,2011-01-10,2011-01-16,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,3,2011-01-17,2011-01-23,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,4,2011-01-24,2011-01-30,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,5,2011-01-31,2011-02-06,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,6,2011-02-07,2011-02-13,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,7,2011-02-14,2011-02-20,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,8,2011-02-21,2011-02-27,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,9,2011-02-28,2011-03-06,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,10,2011-03-07,2011-03-13,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,11,2011-03-14,2011-03-20,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,12,2011-03-21,2011-03-27,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,13,2011-03-28,2011-04-03,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,14,2011-04-04,2011-04-10,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,15,2011-04-11,2011-04-17,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,16,2011-04-18,2011-04-24,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,17,2011-04-25,2011-05-01,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,18,2011-05-02,2011-05-08,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,19,2011-05-09,2011-05-15,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,20,2011-05-16,2011-05-22,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,21,2011-05-23,2011-05-29,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,22,2011-05-30,2011-06-05,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,23,2011-06-06,2011-06-12,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,24,2011-06-13,2011-06-19,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,25,2011-06-20,2011-06-26,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,26,2011-06-27,2011-07-03,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,27,2011-07-04,2011-07-10,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,28,2011-07-11,2011-07-17,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,29,2011-07-18,2011-07-24,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,30,2011-07-25,2011-07-31,,,,,,,,,,,,,,,No Report
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,31,2011-08-01,2011-08-07,3,3,0,0,1,0,0,1,0,0,0,0,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,32,2011-08-08,2011-08-14,7,7,0,0,4,0,0,4,0,0,0,0,4,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,33,2011-08-15,2011-08-21,1,1,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,34,2011-08-22,2011-08-28,6,6,0,0,1,0,0,1,0,0,0,0,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,35,2011-08-29,2011-09-04,0,0,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,36,2011-09-05,2011-09-11,1,1,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,37,2011-09-12,2011-09-18,3,3,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,38,2011-09-19,2011-09-25,7,7,0,0,1,0,0,1,0,0,0,0,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,39,2011-09-26,2011-10-02,4,4,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,40,2011-10-03,2011-10-09,1,1,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,41,2011-10-10,2011-10-16,1,1,0,0,1,0,0,1,0,0,0,0,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,42,2011-10-17,2011-10-23,1,1,0,0,0,0,0,0,0,0,1,1,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,43,2011-10-24,2011-10-30,0,0,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,44,2011-10-31,2011-11-06,2,2,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,45,2011-11-07,2011-11-13,0,0,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,46,2011-11-14,2011-11-20,5,5,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,47,2011-11-21,2011-11-27,2,2,0,0,1,0,1,2,0,0,0,0,2,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,48,2011-11-28,2011-12-04,5,5,0,0,3,0,0,3,0,0,0,0,3,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,49,2011-12-05,2011-12-11,4,4,0,0,2,0,0,2,0,0,0,0,2,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,50,2011-12-12,2011-12-18,9,9,0,0,4,0,0,4,0,0,0,0,4,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,51,2011-12-19,2011-12-25,2,2,0,0,1,0,0,1,0,0,0,0,1,,Local Outbreak
+
+Bahrain,Eastern Mediterranean Region of WHO,Western Asia,2011,52,2011-12-26,2012-01-01,6,6,0,0,1,0,0,1,0,0,1,1,2,,Local Outbreak
+
+

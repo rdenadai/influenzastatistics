@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,1,2017-01-02,2017-01-08,,,0,4,323,0,1,328,8,7,0,15,343,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,2,2017-01-09,2017-01-15,,,0,9,478,0,1,488,6,14,2,22,510,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,3,2017-01-16,2017-01-22,,,0,11,666,0,0,677,17,26,2,45,722,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,4,2017-01-23,2017-01-29,,,0,6,574,0,2,582,16,24,3,43,625,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,5,2017-01-30,2017-02-05,,,0,11,514,0,0,525,20,22,4,46,571,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,6,2017-02-06,2017-02-12,,,0,3,447,0,0,450,20,24,3,47,497,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,7,2017-02-13,2017-02-19,,,0,12,424,0,2,438,26,42,2,70,508,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,8,2017-02-20,2017-02-26,,,0,5,358,0,4,367,23,37,3,63,430,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,9,2017-02-27,2017-03-05,,,0,7,299,0,2,308,40,57,6,103,411,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,10,2017-03-06,2017-03-12,,,0,12,252,0,0,264,30,54,8,92,356,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,11,2017-03-13,2017-03-19,,,0,15,231,0,2,248,42,58,9,109,357,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,12,2017-03-20,2017-03-26,,,0,7,153,0,2,162,31,52,12,95,257,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,13,2017-03-27,2017-04-02,,,0,10,139,0,1,150,49,74,13,136,286,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,14,2017-04-03,2017-04-09,,,0,11,102,0,0,113,46,71,7,124,237,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,15,2017-04-10,2017-04-16,,,0,8,100,0,0,108,48,70,3,121,229,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,16,2017-04-17,2017-04-23,,,0,5,75,0,1,81,78,72,10,160,241,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,17,2017-04-24,2017-04-30,,,0,10,41,0,0,51,47,50,4,101,152,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,18,2017-05-01,2017-05-07,,,0,4,30,0,0,34,25,20,3,48,82,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,19,2017-05-08,2017-05-14,,,0,3,22,0,0,25,42,27,3,72,97,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,20,2017-05-15,2017-05-21,,,0,5,16,0,0,21,25,28,2,55,76,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,21,2017-05-22,2017-05-28,,,0,4,5,0,0,9,15,7,2,24,33,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,22,2017-05-29,2017-06-04,,,0,2,5,0,0,7,12,7,2,21,28,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,23,2017-06-05,2017-06-11,,,0,2,6,0,0,8,8,6,1,15,23,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,24,2017-06-12,2017-06-18,,,0,1,7,0,0,8,6,4,0,10,18,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,25,2017-06-19,2017-06-25,,,0,4,4,0,0,8,7,5,0,12,20,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,26,2017-06-26,2017-07-02,,,0,2,5,0,0,7,9,3,0,12,19,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,27,2017-07-03,2017-07-09,,,0,4,10,0,0,14,8,1,1,10,24,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,28,2017-07-10,2017-07-16,,,0,6,5,0,0,11,1,0,0,1,12,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,29,2017-07-17,2017-07-23,,,0,6,6,0,0,12,0,0,0,0,12,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,30,2017-07-24,2017-07-30,,,0,10,7,0,0,17,0,0,0,0,17,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,31,2017-07-31,2017-08-06,,,0,14,11,0,0,25,0,0,0,0,25,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,32,2017-08-07,2017-08-13,,,0,8,15,0,0,23,0,1,0,1,24,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,33,2017-08-14,2017-08-20,,,0,9,14,0,0,23,2,0,0,2,25,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,34,2017-08-21,2017-08-27,,,0,15,8,0,0,23,0,0,0,0,23,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,35,2017-08-28,2017-09-03,,,0,20,10,0,0,30,8,0,0,8,38,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,36,2017-09-04,2017-09-10,,,0,15,16,0,0,31,8,0,0,8,39,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,37,2017-09-11,2017-09-17,,,0,25,17,0,0,42,3,0,0,3,45,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,38,2017-09-18,2017-09-24,,,0,6,12,0,0,18,3,1,0,4,22,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,39,2017-09-25,2017-10-01,,,0,8,9,0,0,17,2,0,0,2,19,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,40,2017-10-02,2017-10-08,,,0,13,13,0,0,26,10,0,0,10,36,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,41,2017-10-09,2017-10-15,,,0,5,13,0,0,18,13,0,0,13,31,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,42,2017-10-16,2017-10-22,,,0,11,22,0,0,33,11,0,0,11,44,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,43,2017-10-23,2017-10-29,,,0,24,11,0,0,35,10,6,0,16,51,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,44,2017-10-30,2017-11-05,,,0,14,19,0,0,33,13,0,0,13,46,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,45,2017-11-06,2017-11-12,,,0,29,11,0,0,40,18,0,0,18,58,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,46,2017-11-13,2017-11-19,,,0,67,25,0,0,92,23,0,2,25,117,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,47,2017-11-20,2017-11-26,,,0,121,31,0,0,152,30,0,3,33,185,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,48,2017-11-27,2017-12-03,,,0,141,46,0,0,187,82,3,0,85,272,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,49,2017-12-04,2017-12-10,,,0,220,46,0,1,267,102,4,0,106,373,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,50,2017-12-11,2017-12-17,,,0,248,64,0,1,313,156,10,1,167,480,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,51,2017-12-18,2017-12-24,,,0,267,71,0,0,338,187,19,1,207,545,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2017,52,2017-12-25,2017-12-31,,,0,162,69,0,0,231,162,10,2,174,405,,Widespread Outbreak
+
+

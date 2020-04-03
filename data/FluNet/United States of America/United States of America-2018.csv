@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+United States of America,Region of the Americas of WHO,North America,2017,1,2017-01-02,2017-01-08,38960,38960,0,53,2067,,4301,6421,60,47,405,512,6933,32027,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,2,2017-01-09,2017-01-15,39546,39546,0,49,2210,,4965,7224,76,49,501,626,7850,31696,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,3,2017-01-16,2017-01-22,41010,41010,0,57,2253,,6086,8396,104,69,681,854,9250,31760,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,4,2017-01-23,2017-01-29,42620,42620,0,47,2431,,6283,8761,123,71,827,1021,9782,32838,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,5,2017-01-30,2017-02-05,46521,46521,0,51,2596,,7809,10456,182,96,1147,1425,11881,34640,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,6,2017-02-06,2017-02-12,53516,53516,0,71,2975,,9725,12771,240,126,1937,2303,15074,38442,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,7,2017-02-13,2017-02-19,54691,54691,0,68,2617,,9563,12248,300,152,2656,3108,15356,39335,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,8,2017-02-20,2017-02-26,52446,52446,0,87,2364,,8775,11226,357,159,3041,3557,14783,37663,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,9,2017-02-27,2017-03-05,44426,44426,0,54,1492,,5618,7164,358,149,2491,2998,10162,34264,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,10,2017-03-06,2017-03-12,42112,42112,0,50,1256,,4647,5953,389,138,2892,3419,9372,32740,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,11,2017-03-13,2017-03-19,39836,39836,0,28,909,,3806,4743,440,141,3295,3876,8619,31217,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,12,2017-03-20,2017-03-26,38400,38400,0,31,843,,3225,4099,523,193,3839,4555,8654,29746,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,13,2017-03-27,2017-04-02,35530,35530,0,27,655,,2348,3030,576,143,3876,4595,7625,27905,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,14,2017-04-03,2017-04-09,31021,31021,0,17,374,,1447,1838,450,117,3119,3686,5524,25497,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,15,2017-04-10,2017-04-16,26720,26720,0,5,221,,903,1129,383,66,2364,2813,3942,22778,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,16,2017-04-17,2017-04-23,23640,23640,0,11,144,,569,724,250,54,1656,1960,2684,20956,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,17,2017-04-24,2017-04-30,20099,20099,0,7,133,,328,468,181,51,995,1227,1695,18404,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,18,2017-05-01,2017-05-07,17267,17267,0,5,83,,254,342,131,31,749,911,1253,16014,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,19,2017-05-08,2017-05-14,16191,16191,0,3,97,,234,334,117,38,620,775,1109,15082,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,20,2017-05-15,2017-05-21,15080,15080,0,5,63,,217,285,114,33,512,659,944,14136,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,21,2017-05-22,2017-05-28,13461,13461,0,6,41,,180,227,80,26,401,507,734,12727,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,22,2017-05-29,2017-06-04,12194,12194,0,1,39,,171,211,60,51,331,442,653,11541,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,23,2017-06-05,2017-06-11,11119,11119,0,5,33,,136,174,63,22,244,329,503,10616,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,24,2017-06-12,2017-06-18,9966,9966,0,8,43,,132,183,45,11,171,227,410,9556,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,25,2017-06-19,2017-06-25,8843,8843,0,5,40,,107,152,31,11,125,167,319,8524,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,26,2017-06-26,2017-07-02,7859,7859,0,5,39,,95,139,21,4,103,128,267,7592,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,27,2017-07-03,2017-07-09,7366,7366,0,10,29,,75,114,7,7,83,97,211,7155,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,28,2017-07-10,2017-07-16,7741,7741,0,4,31,,92,127,9,5,79,93,220,7519,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,29,2017-07-17,2017-07-23,7532,7532,0,8,26,,87,121,7,0,54,61,182,7341,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,30,2017-07-24,2017-07-30,7122,7122,0,7,31,,76,114,21,1,53,75,189,6933,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,31,2017-07-31,2017-08-06,7110,7110,0,8,41,,96,145,8,0,38,46,191,6914,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,32,2017-08-07,2017-08-13,7266,7266,0,6,42,,77,125,20,0,62,82,207,7058,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,33,2017-08-14,2017-08-20,7949,7949,0,5,32,,65,102,9,0,41,50,152,7797,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,34,2017-08-21,2017-08-27,8570,8570,0,6,54,,82,142,9,1,47,57,199,8371,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,35,2017-08-28,2017-09-03,9890,9890,0,18,64,,121,203,0,0,69,69,272,9618,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,36,2017-09-04,2017-09-10,10850,10850,0,12,105,,130,247,13,0,71,84,331,10519,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,37,2017-09-11,2017-09-17,12321,12321,0,8,109,,148,265,17,2,86,105,370,11951,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,38,2017-09-18,2017-09-24,13529,13529,0,2,101,,140,243,18,1,85,104,347,13165,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,39,2017-09-25,2017-10-01,14583,14583,0,10,119,,156,285,10,0,80,90,375,14184,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,40,2017-10-02,2017-10-08,16573,16573,0,13,123,,233,369,16,0,117,133,502,16070,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,41,2017-10-09,2017-10-15,17636,17636,0,14,143,,256,413,13,4,104,121,534,17102,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,42,2017-10-16,2017-10-22,19061,19061,0,14,173,,278,465,11,1,112,124,589,18472,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,43,2017-10-23,2017-10-29,19864,19864,0,26,180,,364,570,21,1,148,170,740,19124,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,44,2017-10-30,2017-11-05,21606,21606,0,24,249,,518,791,36,3,236,275,1066,20540,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,45,2017-11-06,2017-11-12,23440,23440,0,29,315,,690,1034,33,4,252,289,1323,22117,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,46,2017-11-13,2017-11-19,25670,25670,0,56,405,,941,1402,61,5,351,417,1819,23851,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,47,2017-11-20,2017-11-26,25441,25441,0,41,490,,1338,1869,60,5,363,428,2297,23144,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,48,2017-11-27,2017-12-03,29582,29582,0,61,787,,1563,2411,108,8,456,572,2983,26598,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,49,2017-12-04,2017-12-10,33552,33552,0,72,1055,,2483,3610,103,16,858,977,4587,28965,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,50,2017-12-11,2017-12-17,38752,38752,0,137,1515,,4571,6223,174,36,883,1093,7316,31436,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,51,2017-12-18,2017-12-24,52824,52824,0,240,2491,,9256,11987,258,39,1776,2073,14060,38764,No Report
+
+United States of America,Region of the Americas of WHO,North America,2017,52,2017-12-25,2017-12-31,60942,60942,0,279,2984,,12031,15294,372,35,2192,2599,17893,43049,No Report
+
+

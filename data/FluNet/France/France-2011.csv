@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2010,1,2010-01-04,2010-01-10,1778,2975,0,248,0,0,32,280,0,0,0,0,280,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2010,2,2010-01-11,2010-01-17,1463,2599,1,137,0,0,19,157,0,0,0,0,157,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,3,2010-01-18,2010-01-24,1364,2498,0,89,0,0,18,107,0,0,1,1,108,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,4,2010-01-25,2010-01-31,1110,2227,0,41,0,0,16,57,0,0,0,0,57,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,5,2010-02-01,2010-02-07,989,2117,0,26,0,0,14,40,0,0,1,1,41,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,6,2010-02-08,2010-02-14,871,1887,0,15,0,0,10,25,0,0,0,0,25,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,7,2010-02-15,2010-02-21,720,1637,0,13,0,0,9,22,0,0,0,0,22,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,8,2010-02-22,2010-02-28,639,1459,0,4,0,0,4,8,0,0,1,1,9,,No Activity
+
+France,European Region of WHO,South West Europe,2010,9,2010-03-01,2010-03-07,627,1303,0,7,0,0,5,12,0,0,0,0,12,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,10,2010-03-08,2010-03-14,547,1157,0,2,0,0,1,3,0,1,5,6,9,,No Activity
+
+France,European Region of WHO,South West Europe,2010,11,2010-03-15,2010-03-21,554,1159,0,3,0,0,2,5,0,1,0,1,6,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,12,2010-03-22,2010-03-28,492,1091,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,13,2010-03-29,2010-04-04,523,1069,0,1,0,0,1,2,0,1,1,2,4,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,14,2010-04-05,2010-04-11,356,787,0,0,0,0,1,1,0,1,2,3,4,,No Activity
+
+France,European Region of WHO,South West Europe,2010,15,2010-04-12,2010-04-18,437,880,0,0,0,0,0,0,0,0,3,3,3,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,16,2010-04-19,2010-04-25,367,787,0,0,0,0,0,0,0,0,2,2,2,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,17,2010-04-26,2010-05-02,299,703,0,2,0,0,1,3,0,0,1,1,4,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,18,2010-05-03,2010-05-09,,337,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,19,2010-05-10,2010-05-16,,312,0,0,0,0,0,0,0,1,3,4,4,,No Report
+
+France,European Region of WHO,South West Europe,2010,20,2010-05-17,2010-05-23,,351,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,21,2010-05-24,2010-05-30,1398,1728,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+France,European Region of WHO,South West Europe,2010,22,2010-05-31,2010-06-06,,340,0,0,0,0,0,0,0,1,1,2,2,,No Report
+
+France,European Region of WHO,South West Europe,2010,23,2010-06-07,2010-06-13,,303,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,24,2010-06-14,2010-06-20,,278,0,0,0,0,0,0,0,0,1,1,1,,No Report
+
+France,European Region of WHO,South West Europe,2010,25,2010-06-21,2010-06-27,,294,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,26,2010-06-28,2010-07-04,1790,2013,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2010,27,2010-07-05,2010-07-11,,181,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,28,2010-07-12,2010-07-18,,0,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,29,2010-07-19,2010-07-25,,2,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,30,2010-07-26,2010-08-01,1065,1217,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2010,31,2010-08-02,2010-08-08,,160,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,32,2010-08-09,2010-08-15,,152,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,33,2010-08-16,2010-08-22,,135,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2010,34,2010-08-23,2010-08-29,,154,0,0,0,0,0,0,0,0,1,1,1,,No Report
+
+France,European Region of WHO,South West Europe,2010,35,2010-08-30,2010-09-05,1282,1470,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2010,36,2010-09-06,2010-09-12,368,614,0,0,0,0,0,0,0,1,1,2,2,,No Activity
+
+France,European Region of WHO,South West Europe,2010,37,2010-09-13,2010-09-19,265,594,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,38,2010-09-20,2010-09-26,504,860,0,0,2,0,0,2,0,0,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2010,39,2010-09-27,2010-10-03,424,838,0,1,0,0,1,2,0,0,0,0,2,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,40,2010-10-04,2010-10-10,504,515,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,41,2010-10-11,2010-10-17,496,967,0,0,1,0,0,1,0,1,0,1,2,,No Activity
+
+France,European Region of WHO,South West Europe,2010,42,2010-10-18,2010-10-24,516,969,0,1,1,0,1,3,0,0,1,1,4,,No Activity
+
+France,European Region of WHO,South West Europe,2010,43,2010-10-25,2010-10-31,450,980,0,0,1,0,0,1,0,1,1,2,3,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,44,2010-11-01,2010-11-07,412,907,0,0,2,0,4,6,0,3,0,3,9,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,45,2010-11-08,2010-11-14,369,902,0,3,2,0,2,7,0,3,1,4,11,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,46,2010-11-15,2010-11-21,604,1293,0,1,2,0,2,5,1,3,6,10,15,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,47,2010-11-22,2010-11-28,671,1456,0,5,9,0,6,20,2,7,3,12,32,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,48,2010-11-29,2010-12-05,746,1777,0,14,5,0,13,32,1,15,16,32,64,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,49,2010-12-06,2010-12-12,858,1964,0,29,13,0,31,73,2,24,24,50,123,,Sporadic
+
+France,European Region of WHO,South West Europe,2010,50,2010-12-13,2010-12-19,860,2056,0,53,14,0,45,112,1,43,31,75,187,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2010,51,2010-12-20,2010-12-26,1139,2357,0,98,11,0,86,195,2,27,71,100,295,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2010,52,2010-12-27,2011-01-02,1266,2828,0,168,24,0,187,379,1,28,90,119,498,,Widespread Outbreak
+
+

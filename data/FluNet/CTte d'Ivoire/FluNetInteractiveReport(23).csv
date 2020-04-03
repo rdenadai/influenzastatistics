@@ -1,0 +1,57 @@
+﻿textbox22,Textbox9
+generated on 02/04/2020 17:08:24 UTC,Data from: All sites
+
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,1,2018-01-01,2018-01-07,32,32,,5,0,0,2,7,1,2,1,4,11,20,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,2,2018-01-08,2018-01-14,28,28,,5,0,0,6,11,0,0,1,1,12,18,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,3,2018-01-15,2018-01-21,14,14,,2,0,0,2,4,0,0,1,1,5,14,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,4,2018-01-22,2018-01-28,21,21,,4,0,0,2,6,0,0,0,0,6,15,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,5,2018-01-29,2018-02-04,24,24,,3,0,0,1,4,0,0,0,0,4,20,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,6,2018-02-05,2018-02-11,9,9,,0,0,0,0,0,0,0,0,0,0,9,No Activity
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,7,2018-02-12,2018-02-18,9,9,,1,1,0,0,2,1,1,0,2,4,7,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,8,2018-02-19,2018-02-25,28,28,,1,0,0,0,1,0,0,0,0,1,27,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,9,2018-02-26,2018-03-04,48,48,,5,1,0,0,6,0,1,0,1,7,41,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,10,2018-03-05,2018-03-11,111,111,,2,0,0,0,2,0,0,0,0,2,109,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,11,2018-03-12,2018-03-18,35,35,,0,0,0,0,0,1,1,0,2,2,33,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,12,2018-03-19,2018-03-25,82,82,,0,0,0,0,0,2,0,0,2,2,80,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,13,2018-03-26,2018-04-01,49,49,,0,0,0,0,0,0,2,0,2,2,47,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,14,2018-04-02,2018-04-08,98,98,,0,0,0,0,0,4,6,0,10,10,88,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,15,2018-04-09,2018-04-15,63,63,,0,0,0,0,0,4,1,0,5,5,57,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,16,2018-04-16,2018-04-22,77,77,,0,0,0,0,0,9,3,0,12,12,68,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,17,2018-04-23,2018-04-29,133,133,,0,0,0,0,0,7,7,0,14,14,119,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,18,2018-04-30,2018-05-06,58,58,,0,0,0,0,0,3,1,0,4,4,54,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,19,2018-05-07,2018-05-13,29,29,,0,0,0,0,0,2,1,0,3,3,26,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,20,2018-05-14,2018-05-20,121,121,,1,0,0,0,1,3,3,0,6,7,114,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,21,2018-05-21,2018-05-27,71,71,,0,0,0,0,0,6,12,0,18,18,53,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,22,2018-05-28,2018-06-03,49,49,,0,0,0,0,0,5,0,0,5,5,44,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,23,2018-06-04,2018-06-10,83,83,,0,0,0,0,0,13,10,0,23,23,60,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,24,2018-06-11,2018-06-17,22,22,,0,0,0,0,0,3,0,0,3,3,17,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,25,2018-06-18,2018-06-24,52,52,,1,0,0,0,1,9,9,0,18,19,35,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,26,2018-06-25,2018-07-01,57,57,,0,0,0,0,0,5,10,0,15,15,42,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,27,2018-07-02,2018-07-08,72,72,,0,0,0,0,0,1,4,0,5,5,64,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,28,2018-07-09,2018-07-15,71,71,,0,0,0,0,0,2,4,0,6,6,65,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,29,2018-07-16,2018-07-22,65,65,,0,0,0,0,0,2,4,0,6,6,59,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,30,2018-07-23,2018-07-29,71,71,,0,0,0,0,0,6,2,0,8,8,63,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,31,2018-07-30,2018-08-05,54,54,,0,0,0,0,0,1,1,0,2,2,52,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,32,2018-08-06,2018-08-12,20,20,,0,0,0,0,0,0,1,0,1,1,19,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,33,2018-08-13,2018-08-19,31,31,,0,0,0,0,0,1,0,0,1,1,30,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,34,2018-08-20,2018-08-26,39,39,,0,0,0,0,0,2,1,0,3,3,36,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,35,2018-08-27,2018-09-02,26,26,,0,0,0,0,0,0,0,0,0,0,26,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,36,2018-09-03,2018-09-09,72,72,,0,0,0,0,0,1,0,0,1,1,71,No Activity
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,37,2018-09-10,2018-09-16,68,68,,0,0,0,0,0,2,3,0,5,5,63,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,38,2018-09-17,2018-09-23,55,55,,0,0,0,0,0,0,0,0,0,0,55,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,39,2018-09-24,2018-09-30,37,37,,0,0,0,0,0,0,1,0,1,1,36,No Activity
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,40,2018-10-01,2018-10-07,47,47,,0,0,0,0,0,0,1,0,1,1,46,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,41,2018-10-08,2018-10-14,14,14,,0,0,0,0,0,1,0,0,1,1,13,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,42,2018-10-15,2018-10-21,22,22,,0,0,0,0,0,0,1,0,1,1,23,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,43,2018-10-22,2018-10-28,66,66,,0,0,0,0,0,1,1,0,2,2,64,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,44,2018-10-29,2018-11-04,43,43,,0,0,0,0,0,1,3,0,4,4,39,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,45,2018-11-05,2018-11-11,12,12,,0,0,0,0,0,0,0,0,0,0,12,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,46,2018-11-12,2018-11-18,50,50,,0,0,0,0,0,1,2,0,3,3,47,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,47,2018-11-19,2018-11-25,37,37,,1,0,0,0,1,0,7,0,7,8,29,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,48,2018-11-26,2018-12-02,53,53,,1,1,0,0,2,1,0,0,1,3,50,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,49,2018-12-03,2018-12-09,42,42,,1,2,0,0,3,0,0,0,0,3,39,Sporadic
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,50,2018-12-10,2018-12-16,24,24,,0,0,0,0,0,0,0,0,0,0,24,No Activity
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,51,2018-12-17,2018-12-23,9,9,,0,0,0,0,0,0,0,0,0,0,9,No Activity
+Côte d'Ivoire,African Region of WHO,Western Africa,2018,52,2018-12-24,2018-12-30,55,55,,0,0,0,0,0,0,1,0,1,1,54,Sporadic
+

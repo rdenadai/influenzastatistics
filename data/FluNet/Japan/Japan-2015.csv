@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,1,2013-12-30,2014-01-05,,,0,32,19,0,0,51,8,6,0,14,65,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,2,2014-01-06,2014-01-12,,,0,241,148,0,0,389,57,18,10,85,474,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,3,2014-01-13,2014-01-19,,,0,371,183,0,0,554,126,47,12,185,739,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,4,2014-01-20,2014-01-26,,,0,546,240,0,0,786,145,61,17,223,1009,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,5,2014-01-27,2014-02-02,,,0,501,164,0,0,665,136,53,26,215,880,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,6,2014-02-03,2014-02-09,,,0,371,125,0,0,496,121,51,29,201,697,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,7,2014-02-10,2014-02-16,,,0,245,68,0,0,313,115,53,17,185,498,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,8,2014-02-17,2014-02-23,,,0,257,47,0,0,304,152,57,12,221,525,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,9,2014-02-24,2014-03-02,,,0,217,74,0,0,291,143,57,21,221,512,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,10,2014-03-03,2014-03-09,,,0,142,50,0,0,192,133,47,23,203,395,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,11,2014-03-10,2014-03-16,,,0,141,60,0,0,201,152,53,23,228,429,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,12,2014-03-17,2014-03-23,,,0,69,37,0,0,106,131,38,23,192,298,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,13,2014-03-24,2014-03-30,,,0,58,22,0,0,80,95,33,13,141,221,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,14,2014-03-31,2014-04-06,,,0,32,16,0,0,48,69,24,9,102,150,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,15,2014-04-07,2014-04-13,,,0,28,8,0,0,36,59,15,4,78,114,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,16,2014-04-14,2014-04-20,,,0,22,18,0,0,40,64,15,7,86,126,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,17,2014-04-21,2014-04-27,,,0,16,5,0,0,21,58,17,3,78,99,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,18,2014-04-28,2014-05-04,,,0,7,5,0,0,12,26,8,9,43,55,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,19,2014-05-05,2014-05-11,,,0,2,4,0,0,6,17,5,0,22,28,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,20,2014-05-12,2014-05-18,,,0,6,4,0,0,10,13,6,4,23,33,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,21,2014-05-19,2014-05-25,,,0,0,8,0,0,8,5,6,1,12,20,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,22,2014-05-26,2014-06-01,,,0,5,2,0,0,7,5,5,2,12,19,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,23,2014-06-02,2014-06-08,,,0,1,0,0,0,1,1,0,0,1,2,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,24,2014-06-09,2014-06-15,,,0,1,1,0,0,2,2,1,1,4,6,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,25,2014-06-16,2014-06-22,,,0,0,3,0,0,3,4,0,0,4,7,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,26,2014-06-23,2014-06-29,,,0,0,1,0,0,1,2,0,0,2,3,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,27,2014-06-30,2014-07-06,,,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,28,2014-07-07,2014-07-13,,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,29,2014-07-14,2014-07-20,,,0,1,3,0,0,4,1,0,0,1,5,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,30,2014-07-21,2014-07-27,,,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,31,2014-07-28,2014-08-03,,,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,32,2014-08-04,2014-08-10,,,0,0,2,0,0,2,1,0,0,1,3,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,33,2014-08-11,2014-08-17,,,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,34,2014-08-18,2014-08-24,,,0,1,3,0,0,4,1,0,0,1,5,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,35,2014-08-25,2014-08-31,,,0,0,6,0,0,6,0,0,0,0,6,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,36,2014-09-01,2014-09-07,,,0,0,5,0,0,5,0,0,0,0,5,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,37,2014-09-08,2014-09-14,,,0,1,12,0,0,13,0,0,0,0,13,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,38,2014-09-15,2014-09-21,,,0,3,7,0,0,10,0,0,0,0,10,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,39,2014-09-22,2014-09-28,,,0,2,11,0,0,13,2,0,0,2,15,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,40,2014-09-29,2014-10-05,,,0,0,16,0,0,16,3,0,0,3,19,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,41,2014-10-06,2014-10-12,,,0,0,3,0,0,3,1,0,0,1,4,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,42,2014-10-13,2014-10-19,,,0,0,5,0,0,5,1,0,0,1,6,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,43,2014-10-20,2014-10-26,,,0,0,11,0,0,11,2,0,1,3,14,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,44,2014-10-27,2014-11-02,,,0,1,26,0,0,27,0,0,0,0,27,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,45,2014-11-03,2014-11-09,,,0,3,26,0,0,29,1,0,0,1,30,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,46,2014-11-10,2014-11-16,,,0,0,78,0,0,78,2,0,1,3,81,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,47,2014-11-17,2014-11-23,,,0,0,108,0,0,108,3,0,0,3,111,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,48,2014-11-24,2014-11-30,,,0,1,191,0,0,192,1,0,1,2,194,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,49,2014-12-01,2014-12-07,,,0,0,301,0,0,301,1,0,1,2,303,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,50,2014-12-08,2014-12-14,,,0,3,373,0,0,376,7,0,0,7,383,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,51,2014-12-15,2014-12-21,,,0,1,523,0,0,524,4,1,2,7,531,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2014,52,2014-12-22,2014-12-28,,,0,1,373,0,0,374,7,0,1,8,382,,Widespread Outbreak
+
+

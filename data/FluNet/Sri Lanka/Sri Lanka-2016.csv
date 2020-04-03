@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,1,2014-12-29,2015-01-04,21,21,0,0,0,0,5,5,0,0,4,4,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,2,2015-01-05,2015-01-11,19,19,0,0,0,0,1,1,0,0,4,4,5,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,3,2015-01-12,2015-01-18,21,21,0,0,0,0,3,3,0,0,2,2,5,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,4,2015-01-19,2015-01-25,32,32,0,0,0,0,5,5,0,0,4,4,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,5,2015-01-26,2015-02-01,24,24,0,0,0,0,1,1,0,0,4,4,5,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,6,2015-02-02,2015-02-08,15,15,0,0,0,0,0,0,0,0,4,4,4,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,7,2015-02-09,2015-02-15,43,43,0,0,0,0,5,5,0,0,4,4,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,8,2015-02-16,2015-02-22,18,18,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,9,2015-02-23,2015-03-01,39,39,0,0,0,0,1,1,0,0,5,5,6,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,10,2015-03-02,2015-03-08,35,35,0,0,0,0,1,1,0,0,8,8,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,11,2015-03-09,2015-03-15,76,76,0,8,2,0,2,12,0,0,11,11,23,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,12,2015-03-16,2015-03-22,47,47,0,5,1,0,5,11,0,0,2,2,13,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,13,2015-03-23,2015-03-29,63,63,0,4,3,0,0,7,0,0,9,9,16,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,14,2015-03-30,2015-04-05,50,50,0,10,0,0,0,10,0,0,0,0,10,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,15,2015-04-06,2015-04-12,65,65,0,3,0,0,0,3,0,0,9,9,12,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,16,2015-04-13,2015-04-19,22,22,0,0,0,0,2,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,17,2015-04-20,2015-04-26,74,74,0,6,0,0,0,6,0,0,3,3,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,18,2015-04-27,2015-05-03,69,69,0,3,0,0,7,10,0,0,5,5,15,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,19,2015-05-04,2015-05-10,76,76,0,6,0,0,15,21,0,0,2,2,23,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,20,2015-05-11,2015-05-17,107,107,0,3,0,0,33,36,0,0,3,3,39,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,21,2015-05-18,2015-05-24,160,139,0,2,0,0,48,50,0,0,4,4,54,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,22,2015-05-25,2015-05-31,216,203,0,0,0,0,86,87,0,0,13,13,100,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,23,2015-06-01,2015-06-07,333,319,0,2,0,0,87,89,0,0,16,16,105,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,24,2015-06-08,2015-06-14,542,542,0,18,0,0,172,190,0,0,7,7,197,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,25,2015-06-15,2015-06-21,586,547,0,6,0,0,155,161,0,0,0,0,161,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,26,2015-06-22,2015-06-28,492,492,0,9,0,0,128,137,0,0,0,0,137,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,27,2015-06-29,2015-07-05,441,373,0,32,0,0,55,87,0,0,2,2,89,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,28,2015-07-06,2015-07-12,259,246,0,23,0,0,23,46,0,0,6,6,52,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,29,2015-07-13,2015-07-19,155,148,0,9,0,0,9,18,0,0,5,5,23,,Regional Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,30,2015-07-20,2015-07-26,126,122,0,9,1,0,9,19,0,0,7,7,26,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,31,2015-07-27,2015-08-02,99,99,0,8,1,0,2,11,0,0,4,4,15,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,32,2015-08-03,2015-08-09,74,74,0,5,0,0,1,6,0,0,5,5,11,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,33,2015-08-10,2015-08-16,67,67,0,2,0,0,2,4,0,0,4,4,8,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,34,2015-08-17,2015-08-23,36,36,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,35,2015-08-24,2015-08-30,23,23,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,36,2015-08-31,2015-09-06,30,30,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,37,2015-09-07,2015-09-13,34,34,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,38,2015-09-14,2015-09-20,32,32,0,0,1,0,0,1,0,0,1,1,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,39,2015-09-21,2015-09-27,38,38,0,1,1,0,0,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,40,2015-09-28,2015-10-04,43,43,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,41,2015-10-05,2015-10-11,30,29,0,0,3,0,0,3,0,0,4,4,7,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,42,2015-10-12,2015-10-18,44,44,0,0,11,0,4,15,0,0,0,0,15,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,43,2015-10-19,2015-10-25,54,54,0,0,1,0,9,10,0,0,1,1,11,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,44,2015-10-26,2015-11-01,55,55,0,21,17,0,4,42,0,0,0,0,42,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,45,2015-11-02,2015-11-08,86,86,0,0,19,0,1,20,0,0,0,0,20,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,46,2015-11-09,2015-11-15,62,62,0,0,18,0,2,20,0,0,1,1,21,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,47,2015-11-16,2015-11-22,84,84,0,0,20,0,4,24,0,0,1,1,25,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,48,2015-11-23,2015-11-29,75,75,0,0,18,0,5,23,0,0,1,1,24,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,49,2015-11-30,2015-12-06,57,57,0,0,19,0,0,19,0,0,1,1,20,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,50,2015-12-07,2015-12-13,57,57,0,0,12,0,2,14,0,0,0,0,14,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,51,2015-12-14,2015-12-20,78,78,0,0,18,0,1,19,0,0,2,2,21,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,52,2015-12-21,2015-12-27,56,56,0,0,0,0,22,22,0,0,0,0,22,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2015,53,2015-12-28,2016-01-03,65,65,0,0,0,0,11,11,0,0,2,2,13,,Sporadic
+
+

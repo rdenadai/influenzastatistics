@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,1,2016-01-04,2016-01-10,14850,13072,0,1722,512,0,9,2243,229,216,184,629,2872,10175,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,2,2016-01-11,2016-01-17,15077,14659,0,984,667,0,0,1651,271,467,185,923,2574,12070,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,3,2016-01-18,2016-01-24,15705,14938,0,1151,726,0,3,1880,351,610,280,1241,3121,11807,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,4,2016-01-25,2016-01-31,15623,14098,0,1185,617,0,17,1819,259,652,409,1320,3139,10938,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,5,2016-02-01,2016-02-07,13923,11817,0,1223,448,0,20,1691,188,410,475,1073,2764,9020,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,6,2016-02-08,2016-02-14,13636,12187,0,1577,435,0,24,2037,184,465,461,1110,3147,9004,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,7,2016-02-15,2016-02-21,16518,14813,0,1716,559,0,14,2289,265,764,673,1702,3991,10777,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,8,2016-02-22,2016-02-28,16784,15815,0,1836,489,0,24,2349,377,1054,671,2102,4451,11325,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,9,2016-02-29,2016-03-06,17011,15186,0,1620,381,0,3,2004,304,1191,994,2489,4493,10660,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,10,2016-03-07,2016-03-13,16502,14681,0,1337,248,0,11,1596,330,1540,1095,2965,4561,10089,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,11,2016-03-14,2016-03-20,16875,16470,0,1232,217,0,0,1450,384,2388,922,3694,5144,11317,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,12,2016-03-21,2016-03-27,16795,16245,0,1217,189,0,0,1406,342,2288,933,3563,4969,11236,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,13,2016-03-28,2016-04-03,15008,14117,0,926,113,0,4,1043,233,1927,777,2937,3980,10119,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,14,2016-04-04,2016-04-10,12482,11107,0,719,66,0,1,786,151,1178,617,1946,2732,8352,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,15,2016-04-11,2016-04-17,11789,11141,0,709,67,0,0,776,156,1056,419,1631,2407,8710,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,16,2016-04-18,2016-04-24,11603,10500,0,515,57,0,0,573,114,727,430,1271,1844,8632,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,17,2016-04-25,2016-05-01,11047,10083,0,417,47,0,3,467,97,572,423,1092,1559,8509,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,18,2016-05-02,2016-05-08,11061,10034,0,299,34,0,0,333,76,456,269,801,1134,8876,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,19,2016-05-09,2016-05-15,10563,9628,0,182,25,0,1,208,88,344,206,638,846,8768,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,20,2016-05-16,2016-05-22,11512,10682,0,163,24,0,0,187,83,280,233,596,783,9872,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,21,2016-05-23,2016-05-29,10786,10236,0,87,23,0,0,110,89,293,106,488,598,9614,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,22,2016-05-30,2016-06-05,10736,9538,0,69,32,0,1,102,55,184,67,306,408,9116,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,23,2016-06-06,2016-06-12,10224,9694,0,57,17,0,1,75,68,196,54,318,393,9290,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,24,2016-06-13,2016-06-19,10170,9104,0,15,41,0,1,57,34,123,34,191,248,8843,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,25,2016-06-20,2016-06-26,10374,9415,0,24,56,0,0,80,44,91,33,168,248,9160,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,26,2016-06-27,2016-07-03,9647,8683,0,18,113,0,0,131,44,71,47,162,293,8377,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,27,2016-07-04,2016-07-10,9993,9180,0,12,83,0,0,95,32,65,29,126,221,8955,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,28,2016-07-11,2016-07-17,10055,9169,0,16,97,0,1,114,21,61,25,107,221,8939,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,29,2016-07-18,2016-07-24,9905,8938,0,7,129,0,0,136,22,41,28,91,227,8706,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,30,2016-07-25,2016-07-31,9723,8802,0,17,122,0,0,139,27,30,28,85,224,8573,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,31,2016-08-01,2016-08-07,9910,9320,0,14,151,0,1,166,16,38,17,71,237,9077,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,32,2016-08-08,2016-08-14,9743,8780,0,7,171,0,1,179,15,45,11,71,250,8528,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,33,2016-08-15,2016-08-21,9334,8457,0,7,209,0,0,216,16,27,12,55,271,8184,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,34,2016-08-22,2016-08-28,9746,8819,0,8,369,0,4,381,12,30,15,57,438,8376,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,35,2016-08-29,2016-09-04,9733,9185,0,9,383,0,0,392,17,25,11,53,445,8738,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,36,2016-09-05,2016-09-11,9808,8566,0,10,431,0,0,441,5,12,6,23,464,8099,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,37,2016-09-12,2016-09-18,9858,9724,0,10,767,0,1,778,6,19,10,35,813,8910,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,38,2016-09-19,2016-09-25,10882,10539,0,17,870,0,0,887,6,11,3,20,907,9630,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,39,2016-09-26,2016-10-02,10533,9856,0,4,746,0,1,751,7,12,3,22,773,9083,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,40,2016-10-03,2016-10-09,12062,10812,0,7,807,0,2,816,4,9,4,17,833,9978,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,41,2016-10-10,2016-10-16,12964,11435,0,10,774,0,16,800,5,17,4,26,826,10607,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,42,2016-10-17,2016-10-23,13647,13411,0,4,984,0,3,991,17,13,5,35,1026,12383,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,43,2016-10-24,2016-10-30,13829,13099,0,13,1089,0,11,1113,14,6,7,27,1140,11957,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,44,2016-10-31,2016-11-06,13831,12281,0,4,1112,0,37,1153,13,6,4,23,1176,11100,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,45,2016-11-07,2016-11-13,14130,13402,0,6,1413,0,3,1422,7,11,4,22,1444,11955,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,46,2016-11-14,2016-11-20,14050,12522,0,1,1419,0,24,1444,7,14,7,28,1472,11050,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,47,2016-11-21,2016-11-27,14451,13655,0,13,1519,0,3,1535,11,17,7,35,1570,12079,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,48,2016-11-28,2016-12-04,14143,12690,0,11,1694,0,7,1712,4,14,11,29,1741,10944,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,49,2016-12-05,2016-12-11,14864,13974,0,14,2089,0,1,2104,4,8,5,17,2121,11849,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,50,2016-12-12,2016-12-18,14958,13114,0,30,1986,0,19,2035,6,25,8,39,2074,11037,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,51,2016-12-19,2016-12-25,14761,13205,0,48,2270,0,4,2323,8,16,4,28,2351,10854,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2016,52,2016-12-26,2017-01-01,12592,10038,0,64,1615,0,10,1690,3,19,1,23,1713,8321,Regional Outbreak
+
+

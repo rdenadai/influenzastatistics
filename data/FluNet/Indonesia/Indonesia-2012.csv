@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,1,2011-01-03,2011-01-09,83,83,0,11,1,0,0,12,0,0,8,8,20,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,2,2011-01-10,2011-01-16,93,93,0,11,2,0,0,13,0,0,2,2,15,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,3,2011-01-17,2011-01-23,70,70,0,11,4,0,0,15,0,0,0,0,15,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,4,2011-01-24,2011-01-30,84,84,0,11,2,0,0,13,0,0,1,1,14,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,5,2011-01-31,2011-02-06,53,53,0,11,2,0,0,13,0,0,1,1,14,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,6,2011-02-07,2011-02-13,72,72,0,17,0,0,2,19,0,0,8,8,27,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,7,2011-02-14,2011-02-20,63,63,0,8,4,0,0,12,0,0,4,4,16,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,8,2011-02-21,2011-02-27,102,102,0,14,10,0,0,24,0,0,4,4,28,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,9,2011-02-28,2011-03-06,49,49,0,1,4,0,0,5,0,0,6,6,11,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,10,2011-03-07,2011-03-13,80,80,0,2,1,0,0,3,0,0,4,4,7,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,11,2011-03-14,2011-03-20,85,85,2,2,4,0,0,8,0,0,5,5,13,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,12,2011-03-21,2011-03-27,74,74,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,13,2011-03-28,2011-04-03,64,64,0,3,2,0,0,5,0,0,0,0,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,14,2011-04-04,2011-04-10,71,71,0,1,3,0,0,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,15,2011-04-11,2011-04-17,68,68,0,2,1,0,0,3,0,0,8,8,11,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,16,2011-04-18,2011-04-24,73,73,0,2,2,0,0,4,0,0,3,3,7,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,17,2011-04-25,2011-05-01,73,73,0,5,1,0,0,6,0,0,1,1,7,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,18,2011-05-02,2011-05-08,78,78,0,3,7,0,0,10,0,0,4,4,14,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,19,2011-05-09,2011-05-15,64,64,0,0,1,0,0,1,0,0,1,1,2,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,20,2011-05-16,2011-05-22,41,41,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,21,2011-05-23,2011-05-29,80,80,0,0,5,0,1,6,0,0,5,5,11,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,22,2011-05-30,2011-06-05,69,69,0,4,5,0,0,9,0,0,4,4,13,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,23,2011-06-06,2011-06-12,70,70,0,1,7,0,0,8,0,0,5,5,13,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,24,2011-06-13,2011-06-19,63,63,0,3,2,0,0,5,0,0,2,2,7,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,25,2011-06-20,2011-06-26,71,71,0,0,4,0,0,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,26,2011-06-27,2011-07-03,67,67,0,1,3,0,0,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,27,2011-07-04,2011-07-10,33,33,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,28,2011-07-11,2011-07-17,50,50,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,29,2011-07-18,2011-07-24,63,63,0,0,2,0,1,3,0,0,1,1,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,30,2011-07-25,2011-07-31,60,60,0,0,2,0,0,2,0,0,3,3,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,31,2011-08-01,2011-08-07,75,75,0,1,6,0,0,7,0,0,1,1,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,32,2011-08-08,2011-08-14,70,70,0,1,3,0,0,4,0,0,1,1,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,33,2011-08-15,2011-08-21,60,60,0,2,2,0,0,4,0,0,2,2,6,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,34,2011-08-22,2011-08-28,68,68,1,0,5,0,0,6,0,0,3,3,9,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,35,2011-08-29,2011-09-04,7,7,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,36,2011-09-05,2011-09-11,53,53,0,0,3,0,0,3,0,0,2,2,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,37,2011-09-12,2011-09-18,56,56,0,0,3,0,0,3,0,0,2,2,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,38,2011-09-19,2011-09-25,53,53,0,0,2,0,1,3,0,0,0,0,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,39,2011-09-26,2011-10-02,62,62,0,0,3,0,1,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,40,2011-10-03,2011-10-09,69,69,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,41,2011-10-10,2011-10-16,82,82,0,0,3,0,0,3,0,0,1,1,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,42,2011-10-17,2011-10-23,77,77,0,0,2,0,0,2,0,0,2,2,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,43,2011-10-24,2011-10-30,110,110,0,1,5,0,0,6,0,0,2,2,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,44,2011-10-31,2011-11-06,88,88,0,2,20,0,0,22,0,0,5,5,27,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,45,2011-11-07,2011-11-13,113,113,0,3,3,0,0,6,0,0,1,1,7,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,46,2011-11-14,2011-11-20,120,120,0,3,13,0,0,16,0,0,3,3,19,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,47,2011-11-21,2011-11-27,82,82,0,1,4,0,0,5,0,0,3,3,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,48,2011-11-28,2011-12-04,63,63,0,3,6,0,0,9,0,0,1,1,10,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,49,2011-12-05,2011-12-11,107,107,0,1,25,0,0,26,0,0,8,8,34,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,50,2011-12-12,2011-12-18,103,103,0,1,23,0,0,24,0,0,5,5,29,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,51,2011-12-19,2011-12-25,107,107,1,3,11,0,0,15,0,0,9,9,24,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2011,52,2011-12-26,2012-01-01,76,76,0,8,20,0,0,28,0,0,3,3,31,,Sporadic
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Norway,European Region of WHO,Northern Europe,2014,1,2013-12-30,2014-01-05,,1129,0,17,6,,5,28,5,0,4,9,37,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,2,2014-01-06,2014-01-12,,1630,0,27,13,,10,50,3,0,12,15,65,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,3,2014-01-13,2014-01-19,,1383,0,44,15,,5,64,5,0,4,9,73,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,4,2014-01-20,2014-01-26,,1485,0,66,15,,28,109,6,0,8,14,123,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,5,2014-01-27,2014-02-02,,1585,0,103,14,,75,192,6,0,12,18,210,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,6,2014-02-03,2014-02-09,,2042,0,136,27,,119,282,5,0,20,25,307,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,7,2014-02-10,2014-02-16,,2302,0,196,24,,146,366,3,0,10,13,379,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,8,2014-02-17,2014-02-23,,2414,0,187,26,,159,372,6,0,4,10,382,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,9,2014-02-24,2014-03-02,,2543,0,204,20,,164,388,6,0,16,22,410,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,10,2014-03-03,2014-03-09,,2355,0,190,35,,155,380,7,1,15,23,403,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,11,2014-03-10,2014-03-16,,2403,0,174,27,,215,416,11,0,16,27,443,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,12,2014-03-17,2014-03-23,,2283,0,146,29,,148,323,5,0,18,23,346,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,13,2014-03-24,2014-03-30,,2248,0,120,36,,177,333,4,0,18,22,355,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,14,2014-03-31,2014-04-06,,2211,0,102,28,,233,363,6,0,18,24,387,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,15,2014-04-07,2014-04-13,,2259,0,107,33,,262,402,13,0,29,42,444,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,16,2014-04-14,2014-04-20,,1224,0,39,20,,136,195,1,0,13,14,209,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2014,17,2014-04-21,2014-04-27,,1661,0,40,32,,105,177,8,0,11,19,196,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,18,2014-04-28,2014-05-04,,1409,0,23,19,,62,104,8,0,13,21,125,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,19,2014-05-05,2014-05-11,,1593,0,12,32,,84,128,6,0,17,23,151,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,20,2014-05-12,2014-05-18,,1569,0,17,32,,77,126,4,0,15,19,145,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2014,21,2014-05-19,2014-05-25,,1250,0,2,22,,83,107,3,0,14,17,124,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,22,2014-05-26,2014-06-01,,1002,0,4,6,,31,41,1,0,2,3,44,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,23,2014-06-02,2014-06-08,,691,0,1,3,,17,21,0,0,11,11,32,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,24,2014-06-09,2014-06-15,,521,0,0,4,,11,15,0,0,4,4,19,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,25,2014-06-16,2014-06-22,,334,0,0,3,,4,7,1,0,1,2,9,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,26,2014-06-23,2014-06-29,,272,0,0,2,,5,7,0,0,0,0,7,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,27,2014-06-30,2014-07-06,,376,0,0,2,,0,2,0,0,3,3,5,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,28,2014-07-07,2014-07-13,,219,0,0,0,,1,1,1,0,0,1,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,29,2014-07-14,2014-07-20,,49,0,0,0,,1,1,2,0,0,2,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,30,2014-07-21,2014-07-27,,129,0,0,0,,1,1,1,1,0,2,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,31,2014-07-28,2014-08-03,,16,0,0,2,,0,2,0,0,1,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,32,2014-08-04,2014-08-10,,148,0,0,2,,0,2,0,0,0,0,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,33,2014-08-11,2014-08-17,,200,0,0,3,,0,3,0,0,1,1,4,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,34,2014-08-18,2014-08-24,,189,0,1,5,,1,7,0,0,1,1,8,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,35,2014-08-25,2014-08-31,,31,0,1,1,,0,2,0,0,0,0,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,36,2014-09-01,2014-09-07,,47,0,0,4,,0,4,0,0,0,0,4,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,37,2014-09-08,2014-09-14,,446,0,2,2,,3,7,0,0,0,0,7,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,38,2014-09-15,2014-09-21,,458,0,1,2,,0,3,0,0,2,2,5,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,39,2014-09-22,2014-09-28,,337,0,2,0,,0,2,0,0,0,0,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,40,2014-09-29,2014-10-05,,1207,0,1,1,,0,2,0,0,1,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,41,2014-10-06,2014-10-12,,1364,0,2,1,,4,7,0,0,2,2,9,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,42,2014-10-13,2014-10-19,,1458,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,43,2014-10-20,2014-10-26,,1276,0,0,1,,0,1,1,0,0,1,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,44,2014-10-27,2014-11-02,,1511,0,1,0,,1,2,0,0,1,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,45,2014-11-03,2014-11-09,,1527,0,8,4,,0,12,0,0,1,1,13,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,46,2014-11-10,2014-11-16,,1566,0,1,12,,2,15,3,0,0,3,18,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,47,2014-11-17,2014-11-23,,1651,0,2,1,,7,10,7,0,2,9,19,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,48,2014-11-24,2014-11-30,,1875,0,1,12,,0,13,10,0,19,29,42,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,49,2014-12-01,2014-12-07,,2040,0,0,18,,23,41,9,0,13,22,63,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,50,2014-12-08,2014-12-14,,2068,0,1,25,,17,43,13,0,19,32,75,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,51,2014-12-15,2014-12-21,,2362,0,3,27,,71,101,20,0,25,45,146,,No Report
+
+Norway,European Region of WHO,Northern Europe,2014,52,2014-12-22,2014-12-28,,1524,0,2,29,,55,86,25,0,31,56,142,,No Report
+
+

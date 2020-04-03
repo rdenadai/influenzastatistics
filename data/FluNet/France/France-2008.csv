@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2007,1,2007-01-01,2007-01-07,,782,,,5,,15,20,,,0,0,20,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,2,2007-01-08,2007-01-14,,965,,,21,,24,45,,,0,0,45,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,3,2007-01-15,2007-01-21,,877,,,34,,61,95,,,0,0,95,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2007,4,2007-01-22,2007-01-28,,1028,1,,28,,109,138,,,0,0,138,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2007,5,2007-01-29,2007-02-04,,1069,,,36,,128,164,,,0,0,164,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2007,6,2007-02-05,2007-02-11,,1204,,,18,,183,201,,,1,1,202,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2007,7,2007-02-12,2007-02-18,,940,,,12,,152,164,,,0,0,164,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2007,8,2007-02-19,2007-02-25,,911,,,17,,98,115,,,0,0,115,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,9,2007-02-26,2007-03-04,,625,,,4,,46,50,,,0,0,50,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,10,2007-03-05,2007-03-11,,617,,,4,,17,21,,,0,0,21,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,11,2007-03-12,2007-03-18,,269,,,,,2,2,,,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2007,12,2007-03-19,2007-03-25,,328,,,,,6,6,,,0,0,6,,No Activity
+
+France,European Region of WHO,South West Europe,2007,13,2007-03-26,2007-04-01,,368,,,,,2,2,,,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2007,14,2007-04-02,2007-04-08,,171,,,,,2,2,,,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2007,15,2007-04-09,2007-04-15,,344,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2007,16,2007-04-16,2007-04-22,,264,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,17,2007-04-23,2007-04-29,,198,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,18,2007-04-30,2007-05-06,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,19,2007-05-07,2007-05-13,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,20,2007-05-14,2007-05-20,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,21,2007-05-21,2007-05-27,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,22,2007-05-28,2007-06-03,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,23,2007-06-04,2007-06-10,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,24,2007-06-11,2007-06-17,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,25,2007-06-18,2007-06-24,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,26,2007-06-25,2007-07-01,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,27,2007-07-02,2007-07-08,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,28,2007-07-09,2007-07-15,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,29,2007-07-16,2007-07-22,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,30,2007-07-23,2007-07-29,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,31,2007-07-30,2007-08-05,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,32,2007-08-06,2007-08-12,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,33,2007-08-13,2007-08-19,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,34,2007-08-20,2007-08-26,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,35,2007-08-27,2007-09-02,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,36,2007-09-03,2007-09-09,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,37,2007-09-10,2007-09-16,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,38,2007-09-17,2007-09-23,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,39,2007-09-24,2007-09-30,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2007,40,2007-10-01,2007-10-07,,289,,,,,2,2,,,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2007,41,2007-10-08,2007-10-14,,370,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,42,2007-10-15,2007-10-21,,366,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2007,43,2007-10-22,2007-10-28,,332,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2007,44,2007-10-29,2007-11-04,,366,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2007,45,2007-11-05,2007-11-11,,404,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2007,46,2007-11-12,2007-11-18,,465,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,47,2007-11-19,2007-11-25,,557,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,48,2007-11-26,2007-12-02,,668,,,,,1,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2007,49,2007-12-03,2007-12-09,,632,2,,,,3,5,,,0,0,5,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,50,2007-12-10,2007-12-16,,910,1,,,,7,8,,,0,0,8,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,51,2007-12-17,2007-12-23,,636,7,,,,6,13,,,3,3,16,,Sporadic
+
+France,European Region of WHO,South West Europe,2007,52,2007-12-24,2007-12-30,,583,5,,0,,10,15,,,4,4,19,,Sporadic
+
+

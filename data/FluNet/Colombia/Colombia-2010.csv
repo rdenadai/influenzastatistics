@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,1,2008-12-29,2009-01-04,,14,0,0,0,0,0,0,0,0,0,0,0,14,No Activity
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,2,2009-01-05,2009-01-11,,25,0,0,0,0,0,0,0,0,0,0,0,25,No Activity
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,3,2009-01-12,2009-01-18,,25,0,0,0,0,0,0,0,0,0,0,0,25,No Activity
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,4,2009-01-19,2009-01-25,,16,0,0,0,0,0,0,0,0,1,1,1,15,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,5,2009-01-26,2009-02-01,,23,0,0,0,0,0,0,0,0,1,1,1,22,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,6,2009-02-02,2009-02-08,,21,0,0,0,0,0,0,0,0,1,1,1,20,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,7,2009-02-09,2009-02-15,,29,0,0,0,0,0,0,0,0,3,3,3,26,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,8,2009-02-16,2009-02-22,,18,0,0,0,0,0,0,0,0,2,2,2,16,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,9,2009-02-23,2009-03-01,,39,0,0,0,0,0,0,0,0,4,4,4,35,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,10,2009-03-02,2009-03-08,,20,0,0,0,0,0,0,0,0,3,3,3,17,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,11,2009-03-09,2009-03-15,,22,0,0,0,0,0,0,0,0,0,0,0,22,No Activity
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,12,2009-03-16,2009-03-22,,50,0,0,0,0,0,0,0,0,2,2,2,48,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,13,2009-03-23,2009-03-29,,31,0,0,0,0,0,0,0,0,1,1,1,30,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,14,2009-03-30,2009-04-05,,45,0,1,0,0,0,1,0,0,0,0,1,44,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,15,2009-04-06,2009-04-12,,57,0,1,0,0,0,1,0,0,4,4,5,52,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,16,2009-04-13,2009-04-19,,278,9,3,2,0,0,14,0,0,2,2,16,262,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,17,2009-04-20,2009-04-26,,327,13,8,14,0,0,35,0,0,7,7,42,285,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,18,2009-04-27,2009-05-03,,250,14,7,14,0,0,35,0,0,1,1,36,214,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,19,2009-05-04,2009-05-10,,211,7,3,3,0,0,13,0,0,4,4,17,194,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,20,2009-05-11,2009-05-17,,104,4,4,5,0,0,13,0,0,2,2,15,89,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,21,2009-05-18,2009-05-24,,89,3,11,1,0,0,15,0,0,0,0,15,74,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,22,2009-05-25,2009-05-31,,142,5,16,5,0,0,26,0,0,0,0,26,116,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,23,2009-06-01,2009-06-07,,390,17,30,31,0,0,78,0,0,1,1,79,311,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,24,2009-06-08,2009-06-14,,384,22,32,21,0,0,75,0,0,0,0,75,309,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,25,2009-06-15,2009-06-21,,277,13,30,13,0,0,56,0,0,0,0,56,221,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,26,2009-06-22,2009-06-28,,353,21,45,19,0,0,85,0,0,0,0,85,268,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,27,2009-06-29,2009-07-05,,372,20,36,19,0,0,75,0,0,0,0,75,297,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,28,2009-07-06,2009-07-12,,192,5,24,9,0,0,38,0,0,0,0,38,154,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,29,2009-07-13,2009-07-19,,107,5,15,5,0,0,25,0,0,0,0,25,82,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,30,2009-07-20,2009-07-26,,253,8,40,12,0,0,60,0,0,0,0,60,193,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,31,2009-07-27,2009-08-02,,179,4,41,6,0,0,51,0,0,0,0,51,128,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,32,2009-08-03,2009-08-09,,206,3,55,4,0,0,62,0,0,0,0,62,144,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,33,2009-08-10,2009-08-16,,182,7,60,9,0,0,76,0,0,0,0,76,106,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,34,2009-08-17,2009-08-23,,348,3,95,15,0,0,113,0,0,0,0,113,235,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,35,2009-08-24,2009-08-30,,526,5,178,29,0,0,212,0,0,1,1,213,313,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,36,2009-08-31,2009-09-06,,582,4,198,30,0,0,232,0,0,1,1,233,349,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,37,2009-09-07,2009-09-13,,566,2,194,20,0,0,216,0,0,0,0,216,350,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,38,2009-09-14,2009-09-20,,546,0,190,19,0,0,209,0,0,0,0,209,337,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,39,2009-09-21,2009-09-27,,553,1,155,14,0,0,170,0,0,0,0,170,383,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,40,2009-09-28,2009-10-04,,514,1,80,8,0,0,89,0,0,1,1,90,424,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,41,2009-10-05,2009-10-11,,353,0,56,6,0,0,62,0,0,1,1,63,290,Widespread Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,42,2009-10-12,2009-10-18,,468,0,44,7,0,0,51,0,0,0,0,51,417,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,43,2009-10-19,2009-10-25,,431,0,51,8,0,0,59,0,0,1,1,60,371,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,44,2009-10-26,2009-11-01,,508,0,53,6,0,0,59,0,0,3,3,62,446,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,45,2009-11-02,2009-11-08,,454,0,59,1,0,0,60,0,0,0,0,60,394,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,46,2009-11-09,2009-11-15,,288,0,43,1,0,0,44,0,0,0,0,44,244,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,47,2009-11-16,2009-11-22,,95,0,7,2,0,0,9,0,0,1,1,10,85,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,48,2009-11-23,2009-11-29,,148,0,11,0,0,0,11,0,0,0,0,11,137,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,49,2009-11-30,2009-12-06,,151,1,17,0,0,0,18,0,0,1,1,19,132,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,50,2009-12-07,2009-12-13,,137,0,14,1,0,0,15,0,0,0,0,15,122,Sporadic
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,51,2009-12-14,2009-12-20,,275,0,28,1,0,0,29,0,0,1,1,30,245,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,52,2009-12-21,2009-12-27,,410,1,36,0,0,0,37,0,0,1,1,38,372,Regional Outbreak
+
+Colombia,Region of the Americas of WHO,Tropical South America,2009,53,2009-12-28,2010-01-03,,,,,,,,,,,,,,,No Report
+
+

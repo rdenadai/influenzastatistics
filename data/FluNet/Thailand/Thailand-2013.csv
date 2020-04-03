@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,1,2012-01-02,2012-01-08,12,12,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,2,2012-01-09,2012-01-15,95,95,0,3,1,0,0,4,0,4,5,9,13,,No Report
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,3,2012-01-16,2012-01-22,62,62,0,0,1,0,0,1,0,0,1,1,2,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,4,2012-01-23,2012-01-29,58,58,0,0,2,0,0,2,0,4,8,12,14,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,5,2012-01-30,2012-02-05,63,63,0,1,2,0,0,3,0,4,5,9,12,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,6,2012-02-06,2012-02-12,80,80,0,0,0,0,0,0,0,5,13,18,18,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,7,2012-02-13,2012-02-19,91,91,0,0,0,0,0,0,0,7,10,17,17,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,8,2012-02-20,2012-02-26,92,92,0,0,0,0,0,0,0,4,13,17,17,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,9,2012-02-27,2012-03-04,72,72,0,0,0,0,0,0,0,7,9,16,16,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,10,2012-03-05,2012-03-11,77,77,0,1,1,0,0,2,0,4,4,8,10,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,11,2012-03-12,2012-03-18,64,64,0,0,0,0,0,0,0,5,9,14,14,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,12,2012-03-19,2012-03-25,82,82,0,3,0,0,0,3,0,1,8,9,12,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,13,2012-03-26,2012-04-01,73,73,0,0,0,0,0,0,0,1,4,5,5,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,14,2012-04-02,2012-04-08,44,44,0,0,1,0,0,1,0,1,1,2,3,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,15,2012-04-09,2012-04-15,8,8,0,0,0,0,0,0,0,6,0,6,6,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,16,2012-04-16,2012-04-22,102,102,0,2,0,0,0,2,1,3,4,8,10,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,17,2012-04-23,2012-04-29,72,72,0,1,1,0,0,2,1,1,3,5,7,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,18,2012-04-30,2012-05-06,75,75,0,0,0,0,0,0,1,1,3,5,5,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,19,2012-05-07,2012-05-13,35,35,0,0,0,0,0,0,2,1,1,4,4,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,20,2012-05-14,2012-05-20,91,91,0,1,0,0,0,1,1,1,3,5,6,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,21,2012-05-21,2012-05-27,15,15,0,0,0,0,0,0,2,1,0,3,3,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,22,2012-05-28,2012-06-03,102,102,0,2,0,0,0,2,3,1,3,7,9,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,23,2012-06-04,2012-06-10,198,198,0,2,0,0,0,2,0,0,8,8,10,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,24,2012-06-11,2012-06-17,95,95,0,1,1,0,0,2,0,0,2,2,4,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,25,2012-06-18,2012-06-24,106,106,0,0,7,0,0,7,0,0,7,7,14,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,26,2012-06-25,2012-07-01,103,103,0,4,0,0,0,4,0,0,6,6,10,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,27,2012-07-02,2012-07-08,141,141,0,4,2,0,0,6,1,8,13,22,28,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,28,2012-07-09,2012-07-15,101,101,0,6,0,0,0,6,4,10,11,25,31,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,29,2012-07-16,2012-07-22,107,107,0,5,2,0,0,7,4,3,8,15,22,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,30,2012-07-23,2012-07-29,105,105,0,11,0,0,0,11,0,0,14,14,25,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,31,2012-07-30,2012-08-05,17,17,0,2,0,0,0,2,0,0,2,2,4,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,32,2012-08-06,2012-08-12,127,127,0,18,2,0,0,20,0,0,15,15,35,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,33,2012-08-13,2012-08-19,121,121,0,23,3,0,0,26,0,0,14,14,40,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,34,2012-08-20,2012-08-26,119,119,0,18,0,0,0,18,0,0,16,16,34,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,35,2012-08-27,2012-09-02,,,,,,,,,,,,,,,No Report
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,36,2012-09-03,2012-09-09,135,135,0,18,4,0,0,22,0,0,20,20,42,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,37,2012-09-10,2012-09-16,172,172,0,26,4,0,0,30,4,6,16,26,56,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,38,2012-09-17,2012-09-23,139,139,0,26,3,0,0,29,0,0,25,25,54,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,39,2012-09-24,2012-09-30,91,91,0,14,2,0,0,16,2,4,16,22,38,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,40,2012-10-01,2012-10-07,110,110,0,21,0,0,0,21,0,0,12,12,33,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,41,2012-10-08,2012-10-14,85,85,0,8,3,0,0,11,0,0,15,15,26,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,42,2012-10-15,2012-10-21,98,98,0,11,2,0,0,13,0,0,17,17,30,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,43,2012-10-22,2012-10-28,48,48,0,3,0,0,0,3,0,0,7,7,10,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,44,2012-10-29,2012-11-04,76,76,0,4,3,0,0,7,0,0,10,10,17,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,45,2012-11-05,2012-11-11,89,89,0,5,8,0,0,13,0,0,8,8,21,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,46,2012-11-12,2012-11-18,75,75,0,3,3,0,0,6,0,0,7,7,13,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,47,2012-11-19,2012-11-25,113,113,0,4,0,0,0,4,0,0,16,16,20,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,48,2012-11-26,2012-12-02,83,83,0,2,6,0,0,8,0,0,14,14,22,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,49,2012-12-03,2012-12-09,79,79,0,1,15,0,0,16,0,0,7,7,23,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,50,2012-12-10,2012-12-16,63,63,0,2,6,0,0,8,0,0,11,11,19,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,51,2012-12-17,2012-12-23,108,108,0,0,16,0,0,16,0,0,8,8,24,,Sporadic
+
+Thailand,South-East Asia Region of WHO,South-East Asia,2012,52,2012-12-24,2012-12-30,,,,,,,,,,,,,,,No Report
+
+

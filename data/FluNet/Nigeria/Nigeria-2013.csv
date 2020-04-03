@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Nigeria,African Region of WHO,Western Africa,2012,1,2012-01-02,2012-01-08,29,29,0,0,2,0,0,2,0,0,4,4,6,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,2,2012-01-09,2012-01-15,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Nigeria,African Region of WHO,Western Africa,2012,3,2012-01-16,2012-01-22,15,15,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,4,2012-01-23,2012-01-29,44,44,0,0,0,0,1,1,0,0,5,5,6,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,5,2012-01-30,2012-02-05,25,24,0,0,0,0,0,0,0,0,2,2,2,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,6,2012-02-06,2012-02-12,18,18,0,0,1,0,0,1,0,0,2,2,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,7,2012-02-13,2012-02-19,46,46,0,0,0,0,0,0,0,0,3,3,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,8,2012-02-20,2012-02-26,53,53,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,9,2012-02-27,2012-03-04,48,48,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,10,2012-03-05,2012-03-11,46,46,0,0,3,0,2,5,0,0,0,0,5,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,11,2012-03-12,2012-03-18,48,47,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,12,2012-03-19,2012-03-25,37,34,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,13,2012-03-26,2012-04-01,42,42,0,0,0,0,0,0,0,0,3,3,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,14,2012-04-02,2012-04-08,58,57,0,0,2,0,1,3,0,0,3,3,6,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,15,2012-04-09,2012-04-15,31,31,0,0,1,0,2,3,0,0,0,0,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,16,2012-04-16,2012-04-22,41,41,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,17,2012-04-23,2012-04-29,36,35,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,18,2012-04-30,2012-05-06,29,29,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,19,2012-05-07,2012-05-13,30,30,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,20,2012-05-14,2012-05-20,30,30,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,21,2012-05-21,2012-05-27,22,22,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,22,2012-05-28,2012-06-03,27,23,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,23,2012-06-04,2012-06-10,26,26,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,24,2012-06-11,2012-06-17,54,52,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,25,2012-06-18,2012-06-24,36,36,0,0,0,0,0,0,0,0,2,2,2,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,26,2012-06-25,2012-07-01,32,32,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,27,2012-07-02,2012-07-08,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Nigeria,African Region of WHO,Western Africa,2012,28,2012-07-09,2012-07-15,38,38,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,29,2012-07-16,2012-07-22,48,48,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,30,2012-07-23,2012-07-29,44,44,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,31,2012-07-30,2012-08-05,21,21,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,32,2012-08-06,2012-08-12,61,61,0,3,1,0,0,4,0,0,1,1,5,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,33,2012-08-13,2012-08-19,27,27,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,34,2012-08-20,2012-08-26,21,21,0,3,0,0,0,3,0,0,1,1,4,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,35,2012-08-27,2012-09-02,26,26,0,1,1,0,0,2,0,0,0,0,2,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,36,2012-09-03,2012-09-09,33,33,0,3,1,0,0,4,0,0,0,0,4,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,37,2012-09-10,2012-09-16,64,63,0,3,6,0,0,9,0,0,3,3,12,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,38,2012-09-17,2012-09-23,40,40,0,1,9,0,0,10,0,0,1,1,11,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,39,2012-09-24,2012-09-30,28,28,0,0,17,0,0,17,0,0,0,0,17,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,40,2012-10-01,2012-10-07,24,24,0,2,3,0,0,5,0,0,0,0,5,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,41,2012-10-08,2012-10-14,47,47,0,1,6,0,0,7,0,0,1,1,8,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,42,2012-10-15,2012-10-21,49,38,0,6,3,0,0,9,0,0,1,1,10,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,43,2012-10-22,2012-10-28,32,31,0,4,2,0,0,6,0,0,1,1,7,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,44,2012-10-29,2012-11-04,56,56,0,1,2,0,0,3,0,0,1,1,4,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,45,2012-11-05,2012-11-11,42,5,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,46,2012-11-12,2012-11-18,53,53,0,0,0,0,0,0,0,0,7,7,7,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,47,2012-11-19,2012-11-25,29,29,0,1,2,0,0,3,0,0,6,6,9,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,48,2012-11-26,2012-12-02,49,49,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,49,2012-12-03,2012-12-09,59,58,0,2,0,0,0,2,0,0,1,1,3,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,50,2012-12-10,2012-12-16,48,47,0,1,1,0,0,2,0,0,3,3,5,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,51,2012-12-17,2012-12-23,32,31,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Nigeria,African Region of WHO,Western Africa,2012,52,2012-12-24,2012-12-30,13,13,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+

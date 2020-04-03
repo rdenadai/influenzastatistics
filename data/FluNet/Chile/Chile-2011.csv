@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,1,2010-01-04,2010-01-10,344,344,0,3,0,0,0,3,0,0,0,0,3,341,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,2,2010-01-11,2010-01-17,312,312,0,0,0,0,0,0,0,0,0,0,0,312,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,3,2010-01-18,2010-01-24,294,294,0,0,0,0,0,0,0,0,0,0,0,294,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,4,2010-01-25,2010-01-31,268,268,0,0,0,0,0,0,0,0,0,0,0,268,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,5,2010-02-01,2010-02-07,209,209,0,0,0,0,0,0,0,0,0,0,0,209,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,6,2010-02-08,2010-02-14,214,214,0,0,0,0,0,0,0,0,0,0,0,214,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,7,2010-02-15,2010-02-21,221,221,0,1,0,0,0,1,0,0,0,0,1,220,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,8,2010-02-22,2010-02-28,168,168,0,3,0,0,0,3,0,0,0,0,3,165,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,9,2010-03-01,2010-03-07,133,133,0,0,0,0,0,0,0,0,0,0,0,133,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,10,2010-03-08,2010-03-14,202,202,0,4,0,0,0,4,0,0,0,0,4,198,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,11,2010-03-15,2010-03-21,177,177,0,0,0,0,0,0,0,0,0,0,0,177,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,12,2010-03-22,2010-03-28,257,257,0,2,0,0,0,2,0,0,0,0,2,255,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,13,2010-03-29,2010-04-04,296,296,0,5,0,0,0,5,0,0,0,0,5,291,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,14,2010-04-05,2010-04-11,392,392,0,2,0,0,0,2,0,0,0,0,2,390,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,15,2010-04-12,2010-04-18,437,437,0,3,0,0,0,3,0,0,0,0,3,434,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,16,2010-04-19,2010-04-25,428,428,0,3,0,0,0,3,0,0,0,0,3,425,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,17,2010-04-26,2010-05-02,360,360,0,6,1,0,0,7,0,0,0,0,7,353,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,18,2010-05-03,2010-05-09,569,569,0,12,0,0,0,12,0,0,0,0,12,557,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,19,2010-05-10,2010-05-16,647,647,0,9,0,0,0,9,0,0,0,0,9,638,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,20,2010-05-17,2010-05-23,537,537,0,6,0,0,0,6,0,0,0,0,6,531,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,21,2010-05-24,2010-05-30,688,688,0,7,1,0,0,8,0,0,0,0,8,680,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,22,2010-05-31,2010-06-06,752,752,0,11,0,0,0,11,0,0,1,1,12,740,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,23,2010-06-07,2010-06-13,921,921,0,13,2,0,0,15,0,0,1,1,16,905,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,24,2010-06-14,2010-06-20,1009,1009,0,24,3,0,1,28,0,0,2,2,30,979,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,25,2010-06-21,2010-06-27,1093,1093,0,20,5,0,0,25,0,0,5,5,30,1063,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,26,2010-06-28,2010-07-04,1249,1249,0,31,3,0,0,34,0,0,6,6,40,1209,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,27,2010-07-05,2010-07-11,1494,1494,0,40,7,0,0,47,0,0,8,8,55,1439,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,28,2010-07-12,2010-07-18,1342,1342,0,45,10,0,0,55,0,0,10,10,65,1277,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,29,2010-07-19,2010-07-25,1257,1257,0,33,13,0,2,48,0,0,12,12,60,1197,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,30,2010-07-26,2010-08-01,1120,1120,0,36,11,0,0,47,0,0,8,8,55,1065,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,31,2010-08-02,2010-08-08,1067,1067,0,34,30,0,0,64,0,0,14,14,78,989,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,32,2010-08-09,2010-08-15,1122,1122,0,51,67,0,0,118,0,0,11,11,129,993,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,33,2010-08-16,2010-08-22,1343,1343,0,64,83,0,0,147,0,0,30,30,177,1166,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,34,2010-08-23,2010-08-29,1533,1398,0,46,159,0,0,205,0,0,45,45,250,1148,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,35,2010-08-30,2010-09-05,1487,1487,0,52,235,0,0,287,0,0,71,71,358,1129,Widespread Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,36,2010-09-06,2010-09-12,1665,1665,0,19,225,0,22,266,0,0,55,55,321,1344,Widespread Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,37,2010-09-13,2010-09-19,1265,1265,0,7,250,0,0,257,0,0,57,57,314,951,Widespread Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,38,2010-09-20,2010-09-26,1265,1265,0,13,253,0,0,266,0,0,33,33,299,966,Widespread Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,39,2010-09-27,2010-10-03,1073,1073,0,3,211,0,0,214,0,0,16,16,230,843,Regional Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,40,2010-10-04,2010-10-10,733,733,0,1,135,0,0,136,0,0,10,10,146,587,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,41,2010-10-11,2010-10-17,876,876,0,1,80,0,0,81,0,0,7,7,88,788,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,42,2010-10-18,2010-10-24,806,806,0,0,46,0,0,46,0,0,5,5,51,755,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,43,2010-10-25,2010-10-31,648,648,0,0,24,0,2,26,0,0,2,2,28,620,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,44,2010-11-01,2010-11-07,580,580,0,0,13,0,0,13,0,0,3,3,16,564,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,45,2010-11-08,2010-11-14,541,541,0,0,2,0,4,6,0,0,2,2,8,533,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,46,2010-11-15,2010-11-21,632,632,0,0,1,0,3,4,0,0,1,1,5,627,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,47,2010-11-22,2010-11-28,632,632,0,2,7,0,3,12,0,0,0,0,12,620,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,48,2010-11-29,2010-12-05,526,526,0,0,2,0,2,4,0,0,0,0,4,522,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,49,2010-12-06,2010-12-12,475,475,0,0,0,0,0,0,0,0,0,0,0,475,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,50,2010-12-13,2010-12-19,436,436,0,0,0,0,0,0,0,0,0,0,0,436,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,51,2010-12-20,2010-12-26,387,387,0,0,1,0,0,1,0,0,1,1,2,385,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2010,52,2010-12-27,2011-01-02,410,410,0,0,1,0,0,1,0,0,0,0,1,409,Sporadic
+
+

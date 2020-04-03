@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2014,1,2013-12-30,2014-01-05,1525,5570,0,52,34,0,256,342,0,0,2,2,344,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,2,2014-01-06,2014-01-12,1525,5586,0,84,38,0,190,312,0,0,8,8,320,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,3,2014-01-13,2014-01-19,1447,5318,0,122,80,0,254,456,0,0,4,4,460,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,4,2014-01-20,2014-01-26,1613,5606,0,160,112,0,410,682,0,0,16,16,698,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,5,2014-01-27,2014-02-02,1788,5875,0,263,146,0,560,969,0,0,10,10,979,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,6,2014-02-03,2014-02-09,1979,6333,0,394,153,0,688,1235,0,0,4,4,1239,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,7,2014-02-10,2014-02-16,2208,6411,0,357,172,0,833,1362,0,0,24,24,1386,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,8,2014-02-17,2014-02-23,2131,5792,0,330,116,0,899,1345,0,0,5,5,1350,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,9,2014-02-24,2014-03-02,2222,6026,0,232,129,0,899,1260,0,0,14,14,1274,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,10,2014-03-03,2014-03-09,1954,5388,0,162,99,0,637,898,0,0,8,8,906,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,11,2014-03-10,2014-03-16,1758,4837,0,106,74,0,507,687,0,0,17,17,704,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,12,2014-03-17,2014-03-23,1447,4047,0,86,40,0,330,456,0,0,11,11,467,,Widespread Outbreak
+
+France,European Region of WHO,South West Europe,2014,13,2014-03-24,2014-03-30,1072,3093,0,60,35,0,135,230,0,0,14,14,244,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,14,2014-03-31,2014-04-06,1079,3148,0,30,47,0,130,207,0,0,14,14,221,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,15,2014-04-07,2014-04-13,1022,2874,0,26,26,0,98,150,0,0,6,6,156,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,16,2014-04-14,2014-04-20,820,2323,0,9,16,0,46,71,0,0,11,11,82,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,17,2014-04-21,2014-04-27,780,2145,0,6,5,0,36,47,0,0,6,6,53,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2014,18,2014-04-28,2014-05-04,653,1802,0,6,8,0,17,31,0,0,7,7,38,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,19,2014-05-05,2014-05-11,574,1512,0,4,3,0,9,16,0,0,1,1,17,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,20,2014-05-12,2014-05-18,499,1388,0,5,5,0,2,12,0,0,7,7,19,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,21,2014-05-19,2014-05-25,525,1607,0,3,2,0,3,8,0,0,4,4,12,,No Activity
+
+France,European Region of WHO,South West Europe,2014,22,2014-05-26,2014-06-01,463,1198,0,5,3,0,4,12,0,0,5,5,17,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,23,2014-06-02,2014-06-08,484,1263,0,4,2,0,4,10,0,0,2,2,12,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,24,2014-06-09,2014-06-15,459,1171,0,3,1,0,0,4,0,0,4,4,8,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,25,2014-06-16,2014-06-22,506,1279,0,4,4,0,1,9,0,0,4,4,13,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,26,2014-06-23,2014-06-29,448,1119,0,0,2,0,0,2,0,0,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2014,27,2014-06-30,2014-07-06,485,698,0,2,1,0,0,3,0,0,0,0,3,,No Activity
+
+France,European Region of WHO,South West Europe,2014,28,2014-07-07,2014-07-13,461,461,0,1,0,0,1,2,0,0,0,0,2,,No Activity
+
+France,European Region of WHO,South West Europe,2014,29,2014-07-14,2014-07-20,371,371,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2014,30,2014-07-21,2014-07-27,347,347,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2014,31,2014-07-28,2014-08-03,359,359,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2014,32,2014-08-04,2014-08-10,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2014,33,2014-08-11,2014-08-17,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2014,34,2014-08-18,2014-08-24,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2014,35,2014-08-25,2014-08-31,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2014,36,2014-09-01,2014-09-07,296,296,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2014,37,2014-09-08,2014-09-14,432,432,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2014,38,2014-09-15,2014-09-21,490,490,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+France,European Region of WHO,South West Europe,2014,39,2014-09-22,2014-09-28,458,458,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2014,40,2014-09-29,2014-10-05,525,1677,0,0,1,0,4,5,0,0,2,2,7,,No Activity
+
+France,European Region of WHO,South West Europe,2014,41,2014-10-06,2014-10-12,529,2296,0,0,6,0,2,8,0,0,2,2,10,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,42,2014-10-13,2014-10-19,618,2442,0,0,0,0,12,12,0,0,4,4,16,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,43,2014-10-20,2014-10-26,706,2772,0,0,10,0,14,24,0,0,6,6,30,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,44,2014-10-27,2014-11-02,635,2339,0,0,0,0,8,8,0,0,4,4,12,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,45,2014-11-03,2014-11-09,646,2488,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,46,2014-11-10,2014-11-16,623,2552,0,0,0,0,4,4,0,0,4,4,8,,No Activity
+
+France,European Region of WHO,South West Europe,2014,47,2014-11-17,2014-11-23,685,2838,0,6,2,0,12,20,0,0,2,2,22,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,48,2014-11-24,2014-11-30,943,3583,0,4,2,0,18,24,0,0,18,18,42,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,49,2014-12-01,2014-12-07,866,3797,0,4,6,0,18,28,0,0,6,6,34,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,50,2014-12-08,2014-12-14,1177,4646,0,22,26,0,34,82,0,0,24,24,106,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,51,2014-12-15,2014-12-21,1182,5096,0,33,39,0,105,177,0,0,48,48,225,,Sporadic
+
+France,European Region of WHO,South West Europe,2014,52,2014-12-22,2014-12-28,1209,4916,0,20,52,0,174,246,0,0,61,61,307,,Sporadic
+
+

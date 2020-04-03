@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,1,2012-01-02,2012-01-08,,,0,1,158,0,0,159,6,3,2,11,170,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,2,2012-01-09,2012-01-15,,,0,0,415,0,0,415,11,21,8,40,455,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,3,2012-01-16,2012-01-22,,,0,1,867,0,0,868,25,61,8,94,962,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,4,2012-01-23,2012-01-29,,,0,0,615,0,0,615,38,67,12,117,732,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,5,2012-01-30,2012-02-05,,,0,0,549,0,0,549,34,63,17,114,663,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,6,2012-02-06,2012-02-12,,,0,1,411,0,0,412,37,73,14,124,536,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,7,2012-02-13,2012-02-19,,,0,1,347,0,0,348,52,83,20,155,503,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,8,2012-02-20,2012-02-26,,,0,1,270,0,0,271,37,77,16,130,401,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,9,2012-02-27,2012-03-04,,,0,0,171,0,0,171,30,94,32,156,327,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,10,2012-03-05,2012-03-11,,,0,0,129,0,0,129,36,105,38,179,308,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,11,2012-03-12,2012-03-18,,,0,1,79,0,0,80,30,85,47,162,242,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,12,2012-03-19,2012-03-25,,,0,0,51,0,0,51,24,73,23,120,171,,Widespread Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,13,2012-03-26,2012-04-01,,,0,0,32,0,0,32,32,66,16,114,146,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,14,2012-04-02,2012-04-08,,,0,1,37,0,0,38,27,43,13,83,121,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,15,2012-04-09,2012-04-15,,,0,1,35,0,0,36,25,50,31,106,142,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,16,2012-04-16,2012-04-22,,,0,0,18,0,0,18,28,47,19,94,112,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,17,2012-04-23,2012-04-29,,,0,1,17,0,0,18,26,32,14,72,90,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,18,2012-04-30,2012-05-06,,,0,0,3,0,0,3,4,11,6,21,24,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,19,2012-05-07,2012-05-13,,,0,0,4,0,0,4,9,8,5,22,26,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,20,2012-05-14,2012-05-20,,,0,0,13,0,0,13,6,7,9,22,35,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,21,2012-05-21,2012-05-27,,,0,0,2,0,0,2,3,5,7,15,17,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,22,2012-05-28,2012-06-03,,,0,0,3,0,0,3,2,5,5,12,15,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,23,2012-06-04,2012-06-10,,,0,0,2,0,0,2,0,1,4,5,7,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,24,2012-06-11,2012-06-17,,,0,0,1,0,0,1,0,1,1,2,3,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,25,2012-06-18,2012-06-24,,,0,1,1,0,0,2,0,1,1,2,4,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,26,2012-06-25,2012-07-01,,,0,0,18,0,0,18,0,0,1,1,19,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,27,2012-07-02,2012-07-08,,,0,0,5,0,0,5,1,0,0,1,6,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,28,2012-07-09,2012-07-15,,,0,0,12,0,0,12,0,0,0,0,12,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,29,2012-07-16,2012-07-22,,,0,0,3,0,0,3,0,0,1,1,4,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,30,2012-07-23,2012-07-29,,,0,0,8,0,0,8,0,0,1,1,9,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,31,2012-07-30,2012-08-05,,,0,1,8,0,0,9,0,0,1,1,10,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,32,2012-08-06,2012-08-12,,,0,0,16,0,0,16,0,0,2,2,18,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,33,2012-08-13,2012-08-19,,,0,0,6,0,0,6,0,0,1,1,7,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,34,2012-08-20,2012-08-26,,,0,0,5,0,0,5,0,0,0,0,5,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,35,2012-08-27,2012-09-02,,,0,0,11,0,0,11,0,0,2,2,13,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,36,2012-09-03,2012-09-09,,,0,0,40,0,0,40,0,0,0,0,40,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,37,2012-09-10,2012-09-16,,,0,9,11,0,0,20,0,0,0,0,20,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,38,2012-09-17,2012-09-23,,,0,0,5,0,0,5,0,0,0,0,5,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,39,2012-09-24,2012-09-30,,,0,2,30,0,0,32,0,0,1,1,33,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,40,2012-10-01,2012-10-07,,,0,0,11,0,0,11,0,0,0,0,11,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,41,2012-10-08,2012-10-14,,,0,0,6,0,0,6,1,0,1,2,8,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,42,2012-10-15,2012-10-21,,,0,0,3,0,0,3,0,0,1,1,4,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,43,2012-10-22,2012-10-28,,,0,0,10,0,0,10,0,1,0,1,11,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,44,2012-10-29,2012-11-04,,,0,1,10,0,0,11,0,0,0,0,11,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,45,2012-11-05,2012-11-11,,,0,2,10,0,0,12,0,2,0,2,14,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,46,2012-11-12,2012-11-18,,,0,1,9,0,0,10,0,1,0,1,11,,Sporadic
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,47,2012-11-19,2012-11-25,,,0,1,24,0,0,25,0,4,1,5,30,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,48,2012-11-26,2012-12-02,,,0,1,36,0,0,37,0,5,2,7,44,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,49,2012-12-03,2012-12-09,,,0,0,82,0,0,82,7,1,1,9,91,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,50,2012-12-10,2012-12-16,,,0,3,124,0,0,127,8,2,2,12,139,,Local Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,51,2012-12-17,2012-12-23,,,0,3,215,0,0,218,6,9,0,15,233,,Regional Outbreak
+
+Japan,Western Pacific Region of WHO,Eastern Asia,2012,52,2012-12-24,2012-12-30,,,0,5,133,0,0,138,4,3,3,10,148,,Regional Outbreak
+
+

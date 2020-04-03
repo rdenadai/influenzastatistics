@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Mozambique,African Region of WHO,Eastern Africa,2019,1,2018-12-31,2019-01-06,16,16,,,,,,0,,,0,0,0,16,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,2,2019-01-07,2019-01-13,28,28,,0,0,0,0,0,0,3,0,3,3,25,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,3,2019-01-14,2019-01-20,20,20,,0,0,0,0,0,0,2,0,2,2,18,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,4,2019-01-21,2019-01-27,22,22,,0,1,0,0,1,,,0,0,1,21,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,5,2019-01-28,2019-02-03,0,0,,,,,,0,,,0,0,0,,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,6,2019-02-04,2019-02-10,21,21,,0,2,0,0,2,0,0,0,0,2,19,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,7,2019-02-11,2019-02-17,19,18,,0,0,0,0,0,0,0,0,0,0,18,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,8,2019-02-18,2019-02-24,17,17,,0,0,0,0,0,0,0,0,0,0,17,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,9,2019-02-25,2019-03-03,13,13,,0,0,0,0,0,0,0,0,0,0,13,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,10,2019-03-04,2019-03-10,13,13,,0,1,0,0,1,0,0,0,0,1,12,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,11,2019-03-11,2019-03-17,29,29,,0,1,0,0,1,0,2,0,2,3,26,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,12,2019-03-18,2019-03-24,86,86,,0,32,0,2,34,0,4,0,4,38,48,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,13,2019-03-25,2019-03-31,67,67,,0,12,0,8,20,0,1,0,1,21,46,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,14,2019-04-01,2019-04-07,35,35,,0,6,0,0,6,0,5,1,6,12,23,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,15,2019-04-08,2019-04-14,17,17,,0,1,0,1,2,0,0,0,0,2,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,16,2019-04-15,2019-04-21,22,22,,0,1,0,0,1,0,0,0,0,1,21,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,17,2019-04-22,2019-04-28,104,104,,0,1,0,0,1,0,0,0,0,1,103,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,18,2019-04-29,2019-05-05,21,21,,0,0,0,0,0,0,0,0,0,0,21,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,19,2019-05-06,2019-05-12,19,19,,0,0,0,0,0,0,0,0,0,0,19,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,20,2019-05-13,2019-05-19,67,67,,0,2,0,0,2,0,0,0,0,2,65,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,21,2019-05-20,2019-05-26,14,14,,0,0,0,0,0,0,0,0,0,0,14,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,22,2019-05-27,2019-06-02,15,15,,0,0,0,0,0,0,0,0,0,0,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,23,2019-06-03,2019-06-09,9,9,,0,0,0,0,0,0,0,0,0,0,9,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,24,2019-06-10,2019-06-16,6,6,,0,0,0,0,0,0,0,0,0,0,6,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,25,2019-06-17,2019-06-23,18,14,,0,0,0,0,0,0,0,0,0,0,14,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,26,2019-06-24,2019-06-30,10,10,,0,0,0,0,0,0,0,0,0,0,10,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,27,2019-07-01,2019-07-07,7,7,,0,0,0,0,0,0,0,0,0,0,7,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,28,2019-07-08,2019-07-14,,,,,,,,,,,,,,,No Report
+
+Mozambique,African Region of WHO,Eastern Africa,2019,29,2019-07-15,2019-07-21,5,5,,0,0,0,0,0,0,0,0,0,0,5,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,30,2019-07-22,2019-07-28,7,7,,0,0,0,0,0,0,0,0,0,0,8,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,31,2019-07-29,2019-08-04,8,8,,0,0,0,0,0,0,0,0,0,0,8,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,32,2019-08-05,2019-08-11,8,8,,0,0,0,0,0,0,0,0,0,0,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,33,2019-08-12,2019-08-18,15,15,,0,0,0,0,0,0,0,0,0,0,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,34,2019-08-19,2019-08-25,11,11,,0,0,0,0,0,0,0,0,0,0,11,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,35,2019-08-26,2019-09-01,4,4,,0,0,0,0,0,0,0,0,0,0,4,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,36,2019-09-02,2019-09-08,15,15,,0,0,0,0,0,0,0,0,0,0,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,37,2019-09-09,2019-09-15,4,4,,0,0,0,0,0,0,0,0,0,0,4,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,38,2019-09-16,2019-09-22,18,18,,0,0,0,0,0,0,0,0,0,0,18,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,39,2019-09-23,2019-09-29,9,9,,0,0,0,0,0,0,0,0,0,0,9,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,40,2019-09-30,2019-10-06,14,14,,0,0,0,0,0,0,0,0,0,0,14,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,41,2019-10-07,2019-10-13,8,8,,0,0,0,0,0,0,0,0,0,0,8,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,42,2019-10-14,2019-10-20,5,5,,0,0,0,0,0,0,0,0,0,0,5,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,43,2019-10-21,2019-10-27,1,1,,0,0,0,0,0,0,0,0,0,0,1,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,44,2019-10-28,2019-11-03,0,0,,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,45,2019-11-04,2019-11-10,4,4,,0,0,0,0,0,0,0,0,0,0,4,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,46,2019-11-11,2019-11-17,10,10,,0,0,0,0,0,0,0,0,0,0,10,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,47,2019-11-18,2019-11-24,13,13,,0,0,0,0,0,0,0,0,0,0,13,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,48,2019-11-25,2019-12-01,8,8,,0,0,0,0,0,0,0,0,0,0,8,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,49,2019-12-02,2019-12-08,15,15,,0,0,0,0,0,0,0,0,0,0,15,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,50,2019-12-09,2019-12-15,13,13,,0,0,0,0,0,0,0,0,0,0,13,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,51,2019-12-16,2019-12-22,16,16,,0,0,0,2,2,0,0,0,0,2,14,Local Outbreak
+
+Mozambique,African Region of WHO,Eastern Africa,2019,52,2019-12-23,2019-12-29,0,0,,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+
+

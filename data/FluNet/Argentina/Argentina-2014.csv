@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,1,2012-12-31,2013-01-06,0,447,0,0,3,0,3,6,0,0,2,2,8,439,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,2,2013-01-07,2013-01-13,1,490,0,0,1,0,1,2,0,0,2,2,4,486,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,3,2013-01-14,2013-01-20,2,526,0,0,0,0,2,2,0,0,4,4,6,520,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,4,2013-01-21,2013-01-27,0,495,0,0,1,0,1,2,0,0,3,3,5,490,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,5,2013-01-28,2013-02-03,5,460,0,0,6,0,1,7,0,0,1,1,8,452,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,6,2013-02-04,2013-02-10,6,608,0,5,9,0,7,21,0,0,3,3,24,584,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,7,2013-02-11,2013-02-17,3,439,0,2,1,0,3,6,0,0,3,3,9,430,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,8,2013-02-18,2013-02-24,3,563,0,6,0,0,4,10,0,0,0,0,10,553,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,9,2013-02-25,2013-03-03,0,565,0,3,1,0,12,16,0,0,3,3,19,546,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,10,2013-03-04,2013-03-10,0,650,0,2,0,0,2,4,0,0,0,0,4,646,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,11,2013-03-11,2013-03-17,4,747,0,2,0,0,4,6,0,0,1,1,7,740,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,12,2013-03-18,2013-03-24,1,834,0,5,0,0,2,7,0,0,1,1,8,826,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,13,2013-03-25,2013-03-31,1,563,0,0,1,0,4,5,0,0,1,1,6,557,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,14,2013-04-01,2013-04-07,2,556,0,0,2,0,4,6,0,0,0,0,6,550,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,15,2013-04-08,2013-04-14,1,762,0,0,4,0,0,4,0,0,0,0,4,758,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,16,2013-04-15,2013-04-21,1,848,0,0,2,0,4,6,0,0,0,0,6,842,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,17,2013-04-22,2013-04-28,1,985,0,4,1,0,3,8,0,0,1,1,9,976,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,18,2013-04-29,2013-05-05,6,989,0,2,0,0,5,7,0,0,0,0,7,982,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,19,2013-05-06,2013-05-12,5,1186,0,10,0,2,6,18,0,0,2,2,20,1166,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,20,2013-05-13,2013-05-19,2,1520,0,10,0,0,5,15,0,0,0,0,15,1505,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,21,2013-05-20,2013-05-26,13,1817,0,38,6,0,7,51,1,0,5,6,57,1760,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,22,2013-05-27,2013-06-02,19,2362,0,80,14,0,31,125,0,0,1,1,126,2236,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,23,2013-06-03,2013-06-09,23,3205,0,181,24,0,51,256,1,0,3,4,260,2945,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,24,2013-06-10,2013-06-16,75,3856,0,476,88,0,82,646,0,0,3,3,649,3207,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,25,2013-06-17,2013-06-23,78,3553,0,397,67,0,86,550,0,0,9,9,559,2994,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,26,2013-06-24,2013-06-30,142,5370,0,521,105,0,168,794,0,0,21,21,815,4555,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,27,2013-07-01,2013-07-07,127,5329,0,462,118,0,199,779,0,0,15,15,794,4535,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,28,2013-07-08,2013-07-14,126,4411,0,327,93,0,193,613,0,0,14,14,627,3784,Regional Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,29,2013-07-15,2013-07-21,98,4766,0,238,118,0,194,550,0,0,10,10,560,4206,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,30,2013-07-22,2013-07-28,52,3988,0,144,95,0,230,469,0,0,14,14,483,3505,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,31,2013-07-29,2013-08-04,44,3413,0,95,76,0,166,337,0,0,12,12,349,3064,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,32,2013-08-05,2013-08-11,28,3060,0,46,29,0,169,244,0,0,15,15,259,2801,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,33,2013-08-12,2013-08-18,28,2842,0,18,23,0,116,157,0,0,27,27,184,2658,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,34,2013-08-19,2013-08-25,43,2503,0,27,26,0,75,128,0,0,37,37,165,2338,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,35,2013-08-26,2013-09-01,64,2271,0,23,28,0,97,148,0,0,36,36,184,2087,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,36,2013-09-02,2013-09-08,35,2041,0,5,24,0,62,91,0,0,72,72,163,1878,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,37,2013-09-09,2013-09-15,12,1693,0,10,15,0,40,65,0,0,49,49,114,1579,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,38,2013-09-16,2013-09-22,13,1222,0,1,11,0,30,42,0,0,40,40,82,1140,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,39,2013-09-23,2013-09-29,19,1191,0,0,8,0,17,25,0,0,32,32,57,1134,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,40,2013-09-30,2013-10-06,26,1095,0,1,9,0,15,25,0,0,34,34,59,1036,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,41,2013-10-07,2013-10-13,1,909,0,0,11,0,11,22,0,0,17,17,39,870,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,42,2013-10-14,2013-10-20,10,718,0,0,4,0,9,13,0,0,8,8,21,697,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,43,2013-10-21,2013-10-27,1,537,0,0,2,0,5,7,0,0,3,3,10,527,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,44,2013-10-28,2013-11-03,16,543,0,0,3,0,6,9,0,0,9,9,18,525,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,45,2013-11-04,2013-11-10,1,385,0,0,0,0,0,0,0,0,3,3,3,382,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,46,2013-11-11,2013-11-17,12,407,0,0,2,0,1,3,0,0,4,4,7,400,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,47,2013-11-18,2013-11-24,15,285,0,0,2,0,3,5,0,0,1,1,6,279,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,48,2013-11-25,2013-12-01,1,225,0,0,0,0,5,5,0,0,2,2,7,218,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,49,2013-12-02,2013-12-08,0,169,0,0,0,0,2,2,0,0,0,0,2,167,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,50,2013-12-09,2013-12-15,1,70,0,0,0,0,0,0,0,0,0,0,0,70,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,51,2013-12-16,2013-12-22,0,5,0,0,0,0,1,1,0,0,1,1,2,3,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2013,52,2013-12-23,2013-12-29,1,99,0,1,0,0,0,1,0,0,0,0,1,98,Sporadic
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Spain,European Region of WHO,South West Europe,2011,1,2011-01-03,2011-01-09,79,750,0,461,7,0,109,577,0,0,20,20,597,,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,2,2011-01-10,2011-01-16,82,980,0,569,5,0,73,647,0,0,45,45,692,,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,3,2011-01-17,2011-01-23,62,833,0,436,5,0,27,468,0,0,71,71,539,,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,4,2011-01-24,2011-01-30,58,731,0,277,4,0,22,303,0,0,101,101,404,,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,5,2011-01-31,2011-02-06,46,656,0,181,3,0,26,210,0,0,192,192,402,,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,6,2011-02-07,2011-02-13,49,527,0,124,0,0,14,138,0,0,162,162,300,,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,7,2011-02-14,2011-02-20,41,501,0,55,8,0,12,75,0,0,184,184,259,,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,8,2011-02-21,2011-02-27,39,396,0,27,4,0,4,35,0,0,169,169,204,,Local Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,9,2011-02-28,2011-03-06,35,247,0,21,1,0,0,22,0,0,84,84,106,,Local Outbreak
+
+Spain,European Region of WHO,South West Europe,2011,10,2011-03-07,2011-03-13,29,177,0,9,1,0,1,11,0,0,43,43,54,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,11,2011-03-14,2011-03-20,37,199,0,8,0,0,0,8,0,0,41,41,49,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,12,2011-03-21,2011-03-27,20,121,0,0,1,0,2,3,0,0,26,26,29,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,13,2011-03-28,2011-04-03,14,105,0,1,0,0,0,1,0,0,16,16,17,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,14,2011-04-04,2011-04-10,17,68,0,3,1,0,0,4,0,0,5,5,9,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,15,2011-04-11,2011-04-17,9,65,0,0,1,0,0,1,0,0,1,1,2,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,16,2011-04-18,2011-04-24,11,31,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,17,2011-04-25,2011-05-01,7,42,0,0,1,0,0,1,0,0,0,0,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,18,2011-05-02,2011-05-08,9,34,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,19,2011-05-09,2011-05-15,15,52,0,0,1,0,0,1,0,0,0,0,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,20,2011-05-16,2011-05-22,19,33,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,21,2011-05-23,2011-05-29,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,22,2011-05-30,2011-06-05,,2,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,23,2011-06-06,2011-06-12,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,24,2011-06-13,2011-06-19,,4,0,0,0,,0,0,0,0,3,3,3,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,25,2011-06-20,2011-06-26,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,26,2011-06-27,2011-07-03,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,27,2011-07-04,2011-07-10,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,28,2011-07-11,2011-07-17,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,29,2011-07-18,2011-07-24,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,30,2011-07-25,2011-07-31,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,31,2011-08-01,2011-08-07,,1,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,32,2011-08-08,2011-08-14,,1,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,33,2011-08-15,2011-08-21,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,34,2011-08-22,2011-08-28,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,35,2011-08-29,2011-09-04,,,,,,,,,,,,,,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,36,2011-09-05,2011-09-11,,,,,,,,,,,,,,,No Report
+
+Spain,European Region of WHO,South West Europe,2011,37,2011-09-12,2011-09-18,6,11,0,0,2,0,0,2,0,0,4,4,6,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,38,2011-09-19,2011-09-25,12,12,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,39,2011-09-26,2011-10-02,7,7,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,40,2011-10-03,2011-10-09,6,88,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,41,2011-10-10,2011-10-16,4,75,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,42,2011-10-17,2011-10-23,21,132,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,43,2011-10-24,2011-10-30,9,139,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,44,2011-10-31,2011-11-06,15,139,0,0,1,0,0,1,0,0,0,0,1,,No Activity
+
+Spain,European Region of WHO,South West Europe,2011,45,2011-11-07,2011-11-13,9,166,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,46,2011-11-14,2011-11-20,12,174,0,0,7,0,0,7,0,0,2,2,9,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,47,2011-11-21,2011-11-27,8,181,0,0,1,0,1,2,0,0,0,0,2,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,48,2011-11-28,2011-12-04,12,217,0,0,6,0,1,7,0,0,0,0,7,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,49,2011-12-05,2011-12-11,27,162,0,0,7,0,1,8,0,0,0,0,8,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,50,2011-12-12,2011-12-18,20,272,0,0,35,0,1,36,0,0,1,1,37,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,51,2011-12-19,2011-12-25,25,323,0,0,42,0,2,44,0,0,3,3,47,,Sporadic
+
+Spain,European Region of WHO,South West Europe,2011,52,2011-12-26,2012-01-01,63,391,0,0,83,0,8,91,0,0,4,4,95,,Local Outbreak
+
+

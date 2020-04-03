@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2016,1,2016-01-04,2016-01-10,1750,3241,0,13,2,0,39,54,0,18,77,95,149,,No Report
+
+France,European Region of WHO,South West Europe,2016,2,2016-01-11,2016-01-17,1632,2942,0,28,6,0,72,106,0,24,78,102,208,,No Report
+
+France,European Region of WHO,South West Europe,2016,3,2016-01-18,2016-01-24,1648,3140,0,88,4,0,134,226,3,48,161,212,438,,No Report
+
+France,European Region of WHO,South West Europe,2016,4,2016-01-25,2016-01-31,1974,3783,0,110,5,0,245,360,0,132,375,507,867,,No Report
+
+France,European Region of WHO,South West Europe,2016,5,2016-02-01,2016-02-07,2256,4239,0,161,5,0,261,427,4,179,607,790,1217,,No Report
+
+France,European Region of WHO,South West Europe,2016,6,2016-02-08,2016-02-14,2313,4586,0,194,7,0,285,486,0,200,803,1003,1489,,No Report
+
+France,European Region of WHO,South West Europe,2016,7,2016-02-15,2016-02-21,2312,4591,0,172,0,0,388,560,4,230,954,1188,1748,,No Report
+
+France,European Region of WHO,South West Europe,2016,8,2016-02-22,2016-02-28,2478,4959,0,186,5,0,503,694,0,220,1252,1472,2166,,No Report
+
+France,European Region of WHO,South West Europe,2016,9,2016-02-29,2016-03-06,2510,4860,0,212,3,0,440,655,2,273,1124,1399,2054,,No Report
+
+France,European Region of WHO,South West Europe,2016,10,2016-03-07,2016-03-13,2576,4813,0,217,2,0,475,694,2,311,1262,1575,2269,,No Report
+
+France,European Region of WHO,South West Europe,2016,11,2016-03-14,2016-03-20,2536,4976,0,211,1,0,558,770,3,257,1321,1581,2351,,No Report
+
+France,European Region of WHO,South West Europe,2016,12,2016-03-21,2016-03-27,2243,4472,0,230,4,0,387,621,1,196,1179,1376,1997,,No Report
+
+France,European Region of WHO,South West Europe,2016,13,2016-03-28,2016-04-03,2005,3865,0,248,17,0,414,679,2,103,883,988,1667,,No Report
+
+France,European Region of WHO,South West Europe,2016,14,2016-04-04,2016-04-10,1735,3423,0,199,9,0,321,529,0,67,570,637,1166,,No Report
+
+France,European Region of WHO,South West Europe,2016,15,2016-04-11,2016-04-17,1622,2853,0,82,4,0,213,299,0,29,278,307,606,,No Report
+
+France,European Region of WHO,South West Europe,2016,16,2016-04-18,2016-04-24,1237,2308,0,67,0,0,130,197,0,5,151,156,353,,No Report
+
+France,European Region of WHO,South West Europe,2016,17,2016-04-25,2016-05-01,951,1576,0,40,3,0,66,109,0,2,57,59,168,,No Report
+
+France,European Region of WHO,South West Europe,2016,18,2016-05-02,2016-05-08,631,950,0,12,0,0,45,57,0,1,27,28,85,,No Report
+
+France,European Region of WHO,South West Europe,2016,19,2016-05-09,2016-05-15,568,814,0,5,0,0,19,24,0,0,15,15,39,,No Report
+
+France,European Region of WHO,South West Europe,2016,20,2016-05-16,2016-05-22,516,560,0,2,0,0,15,17,0,0,5,5,22,,No Report
+
+France,European Region of WHO,South West Europe,2016,21,2016-05-23,2016-05-29,558,,0,2,0,0,4,6,0,0,3,3,9,,No Report
+
+France,European Region of WHO,South West Europe,2016,22,2016-05-30,2016-06-05,571,,0,0,0,0,1,1,0,0,0,0,1,,No Report
+
+France,European Region of WHO,South West Europe,2016,23,2016-06-06,2016-06-12,478,,0,0,0,0,2,2,0,0,2,2,4,,No Report
+
+France,European Region of WHO,South West Europe,2016,24,2016-06-13,2016-06-19,467,,0,1,0,0,3,4,0,0,1,1,5,,No Report
+
+France,European Region of WHO,South West Europe,2016,25,2016-06-20,2016-06-26,470,,0,1,0,0,2,3,0,0,3,3,6,,No Report
+
+France,European Region of WHO,South West Europe,2016,26,2016-06-27,2016-07-03,473,,0,0,0,0,2,2,0,0,1,1,3,,No Report
+
+France,European Region of WHO,South West Europe,2016,27,2016-07-04,2016-07-10,404,,0,0,0,0,1,1,0,0,0,0,1,,No Report
+
+France,European Region of WHO,South West Europe,2016,28,2016-07-11,2016-07-17,337,,0,1,0,0,2,3,0,0,0,0,3,,No Report
+
+France,European Region of WHO,South West Europe,2016,29,2016-07-18,2016-07-24,331,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2016,30,2016-07-25,2016-07-31,379,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2016,31,2016-08-01,2016-08-07,296,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2016,32,2016-08-08,2016-08-14,300,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2016,33,2016-08-15,2016-08-21,252,,0,0,0,0,1,1,0,0,0,0,1,,No Report
+
+France,European Region of WHO,South West Europe,2016,34,2016-08-22,2016-08-28,302,,0,0,0,0,1,1,0,0,0,0,1,,No Report
+
+France,European Region of WHO,South West Europe,2016,35,2016-08-29,2016-09-04,248,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2016,36,2016-09-05,2016-09-11,286,,0,0,0,0,3,3,0,0,1,1,4,,No Report
+
+France,European Region of WHO,South West Europe,2016,37,2016-09-12,2016-09-18,308,,0,0,0,0,2,2,0,0,3,3,5,,No Report
+
+France,European Region of WHO,South West Europe,2016,38,2016-09-19,2016-09-25,492,,0,0,6,0,2,8,0,0,6,6,14,,No Report
+
+France,European Region of WHO,South West Europe,2016,39,2016-09-26,2016-10-02,460,,0,0,0,0,2,2,0,0,3,3,5,,No Report
+
+France,European Region of WHO,South West Europe,2016,40,2016-10-03,2016-10-09,404,1159,0,0,1,0,16,17,0,0,2,2,19,,No Report
+
+France,European Region of WHO,South West Europe,2016,41,2016-10-10,2016-10-16,,1218,0,0,4,,10,14,0,0,0,0,14,,No Report
+
+France,European Region of WHO,South West Europe,2016,42,2016-10-17,2016-10-23,,1505,0,1,3,,17,21,0,0,2,2,23,,No Report
+
+France,European Region of WHO,South West Europe,2016,43,2016-10-24,2016-10-30,,1602,0,1,6,,11,18,0,0,1,1,19,,No Report
+
+France,European Region of WHO,South West Europe,2016,44,2016-10-31,2016-11-06,,1507,0,0,6,,24,30,0,0,7,7,37,,No Report
+
+France,European Region of WHO,South West Europe,2016,45,2016-11-07,2016-11-13,,1565,0,0,18,,16,34,0,0,0,0,34,,No Report
+
+France,European Region of WHO,South West Europe,2016,46,2016-11-14,2016-11-20,,1999,0,0,26,,29,55,0,0,0,0,55,,No Report
+
+France,European Region of WHO,South West Europe,2016,47,2016-11-21,2016-11-27,,2326,0,0,42,,40,82,0,2,8,10,92,,No Report
+
+France,European Region of WHO,South West Europe,2016,48,2016-11-28,2016-12-04,,2632,0,0,53,,84,137,0,0,8,8,145,,No Report
+
+France,European Region of WHO,South West Europe,2016,49,2016-12-05,2016-12-11,,3626,0,1,124,,215,340,0,0,3,3,343,,No Report
+
+France,European Region of WHO,South West Europe,2016,50,2016-12-12,2016-12-18,,4716,0,2,238,,627,867,0,0,3,3,870,,No Report
+
+France,European Region of WHO,South West Europe,2016,51,2016-12-19,2016-12-25,,6652,0,2,338,,1335,1675,0,0,8,8,1683,,No Report
+
+France,European Region of WHO,South West Europe,2016,52,2016-12-26,2017-01-01,,7983,0,2,326,,1927,2255,0,0,11,11,2266,,No Report
+
+

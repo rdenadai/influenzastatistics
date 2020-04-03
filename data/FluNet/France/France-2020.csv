@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2019,1,2018-12-31,2019-01-06,,6608,0,60,149,,497,706,0,0,4,4,710,,No Report
+
+France,European Region of WHO,South West Europe,2019,2,2019-01-07,2019-01-13,,7427,0,91,173,,710,974,0,0,16,16,990,,No Report
+
+France,European Region of WHO,South West Europe,2019,3,2019-01-14,2019-01-20,,8119,0,132,230,,1178,1540,0,0,14,14,1554,,No Report
+
+France,European Region of WHO,South West Europe,2019,4,2019-01-21,2019-01-27,,9903,0,219,402,,2084,2705,0,0,7,7,2712,,No Report
+
+France,European Region of WHO,South West Europe,2019,5,2019-01-28,2019-02-03,,11676,0,294,572,,3023,3889,0,0,8,8,3897,,No Report
+
+France,European Region of WHO,South West Europe,2019,6,2019-02-04,2019-02-10,,13154,0,314,530,,3678,4522,0,0,11,11,4533,,No Report
+
+France,European Region of WHO,South West Europe,2019,7,2019-02-11,2019-02-17,,12365,0,252,546,,3129,3927,0,0,12,12,3939,,No Report
+
+France,European Region of WHO,South West Europe,2019,8,2019-02-18,2019-02-24,,10835,0,183,378,,2230,2791,0,0,9,9,2800,,No Report
+
+France,European Region of WHO,South West Europe,2019,9,2019-02-25,2019-03-03,,8376,0,118,256,,1141,1515,0,0,5,5,1520,,No Report
+
+France,European Region of WHO,South West Europe,2019,10,2019-03-04,2019-03-10,,6145,0,48,126,,523,697,0,0,8,8,705,,No Report
+
+France,European Region of WHO,South West Europe,2019,11,2019-03-11,2019-03-17,,4626,0,21,84,,240,345,0,0,5,5,350,,No Report
+
+France,European Region of WHO,South West Europe,2019,12,2019-03-18,2019-03-24,,3940,0,15,42,,139,196,0,0,6,6,202,,No Report
+
+France,European Region of WHO,South West Europe,2019,13,2019-03-25,2019-03-31,,3081,0,11,32,,55,98,0,2,4,6,104,,No Report
+
+France,European Region of WHO,South West Europe,2019,14,2019-04-01,2019-04-07,,2518,0,3,23,,40,66,0,0,3,3,69,,No Report
+
+France,European Region of WHO,South West Europe,2019,15,2019-04-08,2019-04-14,,2295,0,2,14,,31,47,0,0,5,5,52,,No Report
+
+France,European Region of WHO,South West Europe,2019,16,2019-04-15,2019-04-21,,1737,0,2,8,,17,27,0,0,2,2,29,,No Report
+
+France,European Region of WHO,South West Europe,2019,17,2019-04-22,2019-04-28,,826,0,1,2,,6,9,0,0,1,1,10,,No Report
+
+France,European Region of WHO,South West Europe,2019,18,2019-04-29,2019-05-05,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,19,2019-05-06,2019-05-12,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,20,2019-05-13,2019-05-19,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,21,2019-05-20,2019-05-26,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,22,2019-05-27,2019-06-02,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,23,2019-06-03,2019-06-09,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,24,2019-06-10,2019-06-16,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,25,2019-06-17,2019-06-23,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,26,2019-06-24,2019-06-30,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,27,2019-07-01,2019-07-07,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,28,2019-07-08,2019-07-14,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,29,2019-07-15,2019-07-21,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,30,2019-07-22,2019-07-28,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,31,2019-07-29,2019-08-04,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,32,2019-08-05,2019-08-11,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,33,2019-08-12,2019-08-18,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,34,2019-08-19,2019-08-25,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,35,2019-08-26,2019-09-01,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,36,2019-09-02,2019-09-08,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,37,2019-09-09,2019-09-15,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,38,2019-09-16,2019-09-22,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,39,2019-09-23,2019-09-29,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2019,40,2019-09-30,2019-10-06,,1378,0,1,4,,0,5,0,1,0,1,6,,No Report
+
+France,European Region of WHO,South West Europe,2019,41,2019-10-07,2019-10-13,,1483,0,2,2,,2,6,0,0,1,1,7,,No Report
+
+France,European Region of WHO,South West Europe,2019,42,2019-10-14,2019-10-20,,1600,0,5,3,,6,14,0,0,1,1,15,,No Report
+
+France,European Region of WHO,South West Europe,2019,43,2019-10-21,2019-10-27,,1856,0,3,1,,5,9,0,0,3,3,12,,No Report
+
+France,European Region of WHO,South West Europe,2019,44,2019-10-28,2019-11-03,,1928,0,0,1,,5,6,0,0,4,4,10,,No Report
+
+France,European Region of WHO,South West Europe,2019,45,2019-11-04,2019-11-10,,1979,0,1,5,,10,16,0,0,7,7,23,,No Report
+
+France,European Region of WHO,South West Europe,2019,46,2019-11-11,2019-11-17,,2590,0,5,8,,13,26,0,0,6,6,32,,No Report
+
+France,European Region of WHO,South West Europe,2019,47,2019-11-18,2019-11-24,,3436,0,9,7,,7,23,0,0,15,15,38,,No Report
+
+France,European Region of WHO,South West Europe,2019,48,2019-11-25,2019-12-01,,3978,0,13,4,,26,43,2,3,26,31,74,,No Report
+
+France,European Region of WHO,South West Europe,2019,49,2019-12-02,2019-12-08,,4140,0,13,10,,31,54,0,8,44,52,106,,No Report
+
+France,European Region of WHO,South West Europe,2019,50,2019-12-09,2019-12-15,,4798,0,17,12,,77,106,0,15,64,79,185,,No Report
+
+France,European Region of WHO,South West Europe,2019,51,2019-12-16,2019-12-22,,5020,0,42,19,,129,190,0,20,119,139,329,,No Report
+
+France,European Region of WHO,South West Europe,2019,52,2019-12-23,2019-12-29,,5184,0,51,18,,178,247,0,12,133,145,392,,No Report
+
+

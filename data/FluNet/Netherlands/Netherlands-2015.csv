@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Netherlands,European Region of WHO,South West Europe,2014,1,2013-12-30,2014-01-05,,156,0,2,1,,0,3,0,0,0,0,3,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,2,2014-01-06,2014-01-12,,138,0,3,2,,0,5,0,0,0,0,5,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,3,2014-01-13,2014-01-19,,130,0,1,2,,0,3,0,0,0,0,3,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,4,2014-01-20,2014-01-26,,164,0,5,8,,2,15,1,0,0,1,16,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,5,2014-01-27,2014-02-02,,183,0,13,9,,0,22,0,0,0,0,22,,Widespread Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,6,2014-02-03,2014-02-09,,202,0,17,10,,1,28,2,1,0,3,31,,Widespread Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,7,2014-02-10,2014-02-16,,177,0,15,10,,0,25,0,0,0,0,25,,Widespread Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,8,2014-02-17,2014-02-23,,157,0,11,14,,3,28,1,1,0,2,30,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,9,2014-02-24,2014-03-02,,136,0,7,17,,0,24,2,0,0,2,26,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,10,2014-03-03,2014-03-09,,121,0,18,18,,1,37,0,0,0,0,37,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,11,2014-03-10,2014-03-16,,110,0,19,20,,2,41,0,0,0,0,41,,Widespread Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,12,2014-03-17,2014-03-23,,92,0,12,16,,0,28,2,0,0,2,30,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,13,2014-03-24,2014-03-30,,66,0,8,12,,0,20,0,2,0,2,22,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,14,2014-03-31,2014-04-06,,67,0,5,13,,3,21,3,0,0,3,24,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,15,2014-04-07,2014-04-13,,47,0,5,7,,3,15,2,0,0,2,17,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,16,2014-04-14,2014-04-20,,51,0,4,6,,3,13,0,0,0,0,13,,Regional Outbreak
+
+Netherlands,European Region of WHO,South West Europe,2014,17,2014-04-21,2014-04-27,,43,0,4,19,,2,25,0,0,0,0,25,,Sporadic
+
+Netherlands,European Region of WHO,South West Europe,2014,18,2014-04-28,2014-05-04,,37,0,0,12,,2,14,1,0,0,1,15,,Sporadic
+
+Netherlands,European Region of WHO,South West Europe,2014,19,2014-05-05,2014-05-11,,28,0,0,3,,2,5,1,0,0,1,6,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,20,2014-05-12,2014-05-18,,28,0,0,6,,0,6,0,0,0,0,6,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,21,2014-05-19,2014-05-25,,12,0,0,1,,0,1,1,0,0,1,2,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,22,2014-05-26,2014-06-01,,17,0,1,0,,1,2,0,1,1,2,4,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,23,2014-06-02,2014-06-08,,12,0,0,0,,0,0,1,0,0,1,1,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,24,2014-06-09,2014-06-15,,11,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,25,2014-06-16,2014-06-22,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Netherlands,European Region of WHO,South West Europe,2014,26,2014-06-23,2014-06-29,,16,0,0,1,,0,1,0,0,1,1,2,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,27,2014-06-30,2014-07-06,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,28,2014-07-07,2014-07-13,,14,0,0,3,,0,3,0,0,0,0,3,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,29,2014-07-14,2014-07-20,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,30,2014-07-21,2014-07-27,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,31,2014-07-28,2014-08-03,,8,0,0,1,,1,2,0,0,0,0,2,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,32,2014-08-04,2014-08-10,,13,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,33,2014-08-11,2014-08-17,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,34,2014-08-18,2014-08-24,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,35,2014-08-25,2014-08-31,,12,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,36,2014-09-01,2014-09-07,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,37,2014-09-08,2014-09-14,,18,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,38,2014-09-15,2014-09-21,,28,0,0,2,,0,2,0,0,0,0,2,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,39,2014-09-22,2014-09-28,,21,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,40,2014-09-29,2014-10-05,,21,0,0,2,,1,3,0,0,0,0,3,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,41,2014-10-06,2014-10-12,,33,0,0,3,,0,3,1,0,0,1,4,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,42,2014-10-13,2014-10-19,,31,0,1,0,,0,1,3,0,0,3,4,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,43,2014-10-20,2014-10-26,,37,0,0,6,,1,7,6,0,0,6,13,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,44,2014-10-27,2014-11-02,,34,0,0,4,,1,5,4,0,0,4,9,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,45,2014-11-03,2014-11-09,,38,0,1,6,,0,7,1,0,0,1,8,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,46,2014-11-10,2014-11-16,,37,0,0,2,,0,2,2,0,0,2,4,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,47,2014-11-17,2014-11-23,,47,0,1,4,,0,5,1,0,0,1,6,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,48,2014-11-24,2014-11-30,,48,0,1,9,,0,10,0,0,0,0,10,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,49,2014-12-01,2014-12-07,,87,0,0,15,,0,15,1,0,0,1,16,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,50,2014-12-08,2014-12-14,,85,0,2,34,,0,36,1,0,0,1,37,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,51,2014-12-15,2014-12-21,,178,0,4,76,,4,84,5,0,0,5,89,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2014,52,2014-12-22,2014-12-28,,178,0,2,82,,2,86,3,0,0,3,89,,No Report
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Italy,European Region of WHO,South West Europe,2013,1,2012-12-31,2013-01-06,57,57,0,4,0,0,1,5,0,0,11,11,16,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,2,2013-01-07,2013-01-13,192,192,0,14,2,0,1,17,0,0,23,23,40,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,3,2013-01-14,2013-01-20,267,267,0,18,2,0,6,26,0,0,41,41,67,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,4,2013-01-21,2013-01-27,289,289,0,20,4,0,4,28,0,0,66,66,94,,Local Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,5,2013-01-28,2013-02-03,,374,0,38,9,0,13,60,0,0,121,121,181,,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,6,2013-02-04,2013-02-10,379,379,0,45,7,0,16,68,0,0,114,114,182,,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,7,2013-02-11,2013-02-17,467,467,0,70,4,0,16,90,0,0,140,140,230,,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,8,2013-02-18,2013-02-24,380,380,0,49,6,0,11,66,0,0,140,140,206,,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,9,2013-02-25,2013-03-03,351,351,0,66,5,0,13,84,0,0,101,101,185,,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,10,2013-03-04,2013-03-10,304,304,0,64,16,0,6,86,0,0,66,66,152,,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,11,2013-03-11,2013-03-17,273,273,0,36,7,0,9,52,0,0,45,45,97,,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,12,2013-03-18,2013-03-24,257,257,0,28,4,0,2,34,0,0,33,33,67,,Local Outbreak
+
+Italy,European Region of WHO,South West Europe,2013,13,2013-03-25,2013-03-31,104,104,0,6,0,0,3,9,0,0,13,13,22,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,14,2013-04-01,2013-04-07,94,94,0,5,2,0,1,8,0,0,7,7,15,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,15,2013-04-08,2013-04-14,90,90,0,2,1,0,1,4,0,0,0,0,4,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,16,2013-04-15,2013-04-21,53,53,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,17,2013-04-22,2013-04-28,70,70,0,0,0,0,1,1,0,0,0,0,1,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,18,2013-04-29,2013-05-05,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,19,2013-05-06,2013-05-12,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,20,2013-05-13,2013-05-19,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,21,2013-05-20,2013-05-26,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,22,2013-05-27,2013-06-02,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,23,2013-06-03,2013-06-09,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,24,2013-06-10,2013-06-16,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,25,2013-06-17,2013-06-23,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,26,2013-06-24,2013-06-30,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,27,2013-07-01,2013-07-07,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,28,2013-07-08,2013-07-14,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,29,2013-07-15,2013-07-21,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,30,2013-07-22,2013-07-28,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,31,2013-07-29,2013-08-04,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,32,2013-08-05,2013-08-11,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,33,2013-08-12,2013-08-18,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,34,2013-08-19,2013-08-25,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,35,2013-08-26,2013-09-01,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,36,2013-09-02,2013-09-08,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,37,2013-09-09,2013-09-15,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,38,2013-09-16,2013-09-22,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,39,2013-09-23,2013-09-29,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,40,2013-09-30,2013-10-06,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,41,2013-10-07,2013-10-13,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,42,2013-10-14,2013-10-20,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,43,2013-10-21,2013-10-27,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,44,2013-10-28,2013-11-03,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,45,2013-11-04,2013-11-10,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2013,46,2013-11-11,2013-11-17,131,131,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Italy,European Region of WHO,South West Europe,2013,47,2013-11-18,2013-11-24,64,64,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Italy,European Region of WHO,South West Europe,2013,48,2013-11-25,2013-12-01,24,24,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,49,2013-12-02,2013-12-08,65,62,0,0,6,0,0,6,0,0,0,0,6,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,50,2013-12-09,2013-12-15,65,65,0,0,5,0,2,7,0,0,0,0,7,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,51,2013-12-16,2013-12-22,87,87,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+Italy,European Region of WHO,South West Europe,2013,52,2013-12-23,2013-12-29,73,73,0,0,10,0,0,10,0,0,1,1,11,,Sporadic
+
+

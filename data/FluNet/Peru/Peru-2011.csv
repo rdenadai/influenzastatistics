@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,1,2010-01-04,2010-01-10,153,153,0,31,0,0,7,38,0,0,0,0,38,115,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,2,2010-01-11,2010-01-17,154,154,0,37,0,0,8,45,0,0,0,0,45,109,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,3,2010-01-18,2010-01-24,136,136,0,39,0,0,15,54,0,0,2,2,56,80,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,4,2010-01-25,2010-01-31,127,127,0,24,0,0,13,37,0,0,0,0,37,90,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,5,2010-02-01,2010-02-07,137,137,0,16,0,0,7,23,0,0,2,2,25,112,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,6,2010-02-08,2010-02-14,143,143,0,15,0,0,5,20,0,0,0,0,20,123,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,7,2010-02-15,2010-02-21,147,147,0,20,0,0,7,27,0,0,0,0,27,120,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,8,2010-02-22,2010-02-28,116,116,0,9,0,0,3,12,0,0,0,0,12,104,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,9,2010-03-01,2010-03-07,109,109,0,7,0,0,0,7,0,0,0,0,7,102,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,10,2010-03-08,2010-03-14,115,115,0,7,0,0,1,8,0,0,0,0,8,107,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,11,2010-03-15,2010-03-21,100,100,0,4,0,0,1,5,0,0,0,0,5,95,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,12,2010-03-22,2010-03-28,137,137,0,7,0,0,1,8,0,0,0,0,8,129,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,13,2010-03-29,2010-04-04,137,137,0,4,0,0,0,4,0,0,0,0,4,133,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,14,2010-04-05,2010-04-11,127,127,0,5,0,0,1,6,0,0,0,0,6,121,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,15,2010-04-12,2010-04-18,107,107,0,3,0,0,0,3,0,0,0,0,3,104,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,16,2010-04-19,2010-04-25,128,128,0,3,0,0,0,3,0,0,0,0,3,125,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,17,2010-04-26,2010-05-02,114,114,0,0,0,0,0,0,0,0,0,0,0,114,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,18,2010-05-03,2010-05-09,111,111,0,4,0,0,4,8,0,0,0,0,8,103,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,19,2010-05-10,2010-05-16,119,119,0,6,0,0,4,10,0,0,0,0,10,109,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,20,2010-05-17,2010-05-23,123,123,0,10,0,0,8,18,0,0,0,0,18,105,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,21,2010-05-24,2010-05-30,110,110,0,12,0,0,4,16,0,0,0,0,16,94,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,22,2010-05-31,2010-06-06,119,119,0,6,0,0,10,16,0,0,1,1,17,102,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,23,2010-06-07,2010-06-13,160,160,0,29,0,0,10,39,0,0,1,1,40,120,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,24,2010-06-14,2010-06-20,194,194,0,47,0,0,20,67,0,0,2,2,69,125,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,25,2010-06-21,2010-06-27,210,210,0,55,0,0,28,83,0,0,8,8,91,119,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,26,2010-06-28,2010-07-04,165,165,0,43,0,0,7,50,0,0,3,3,53,112,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,27,2010-07-05,2010-07-11,190,190,0,42,0,0,22,64,0,0,5,5,69,121,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,28,2010-07-12,2010-07-18,164,164,0,26,0,0,23,49,0,0,3,3,52,112,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,29,2010-07-19,2010-07-25,161,161,0,23,0,0,23,46,0,0,11,11,57,104,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,30,2010-07-26,2010-08-01,133,133,0,14,0,0,13,27,0,0,14,14,41,92,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,31,2010-08-02,2010-08-08,198,198,0,13,0,0,17,30,0,0,9,9,39,159,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,32,2010-08-09,2010-08-15,131,131,0,4,0,0,8,12,0,0,4,4,16,115,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,33,2010-08-16,2010-08-22,120,120,0,8,0,0,6,14,0,0,7,7,21,99,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,34,2010-08-23,2010-08-29,121,121,0,8,0,0,8,16,0,0,5,5,21,100,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,35,2010-08-30,2010-09-05,87,87,0,5,0,0,11,16,0,0,9,9,25,62,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,36,2010-09-06,2010-09-12,78,78,0,2,0,0,8,10,0,0,3,3,13,65,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,37,2010-09-13,2010-09-19,88,88,0,8,0,0,18,26,0,0,4,4,30,58,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,38,2010-09-20,2010-09-26,97,97,0,6,0,0,15,21,0,0,14,14,35,62,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,39,2010-09-27,2010-10-03,111,111,0,4,0,0,33,37,0,0,6,6,43,68,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,40,2010-10-04,2010-10-10,114,114,0,1,0,0,27,28,0,0,19,19,47,67,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,41,2010-10-11,2010-10-17,133,133,0,0,0,0,34,34,0,0,15,15,49,84,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,42,2010-10-18,2010-10-24,96,96,0,2,0,0,28,30,0,0,11,11,41,55,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,43,2010-10-25,2010-10-31,88,88,0,1,0,0,24,25,0,0,5,5,30,58,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,44,2010-11-01,2010-11-07,55,55,0,1,0,0,12,13,0,0,0,0,13,42,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,45,2010-11-08,2010-11-14,106,106,0,0,0,0,31,31,0,0,9,9,40,66,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,46,2010-11-15,2010-11-21,127,127,0,0,0,0,62,62,0,0,7,7,69,58,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,47,2010-11-22,2010-11-28,106,106,0,0,0,0,79,79,0,0,0,0,79,27,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,48,2010-11-29,2010-12-05,82,82,0,0,0,0,44,44,0,0,1,1,45,37,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,49,2010-12-06,2010-12-12,85,85,0,0,0,0,20,20,0,0,7,7,27,58,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,50,2010-12-13,2010-12-19,67,67,0,0,0,0,8,8,0,0,3,3,11,56,Sporadic
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,51,2010-12-20,2010-12-26,51,51,0,0,0,0,6,6,0,0,2,2,8,43,No Report
+
+Peru,Region of the Americas of WHO,Tropical South America,2010,52,2010-12-27,2011-01-02,52,52,0,0,0,0,1,1,0,0,0,0,1,51,No Report
+
+

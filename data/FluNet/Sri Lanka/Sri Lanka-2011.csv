@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,1,2010-01-04,2010-01-10,146,146,0,33,0,0,1,34,0,0,1,1,35,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,2,2010-01-11,2010-01-17,124,124,0,5,0,0,0,5,0,0,0,0,5,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,3,2010-01-18,2010-01-24,103,103,0,5,2,0,0,7,0,0,0,0,7,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,4,2010-01-25,2010-01-31,68,68,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,5,2010-02-01,2010-02-07,66,66,0,1,0,0,3,4,0,0,0,0,4,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,6,2010-02-08,2010-02-14,62,62,0,0,0,0,1,1,0,0,0,0,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,7,2010-02-15,2010-02-21,81,81,0,0,1,0,8,9,0,0,0,0,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,8,2010-02-22,2010-02-28,31,31,1,1,1,0,2,5,0,0,0,0,5,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,9,2010-03-01,2010-03-07,49,49,1,0,0,0,2,3,0,0,0,0,3,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,10,2010-03-08,2010-03-14,53,53,1,0,0,0,2,3,0,0,0,0,3,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,11,2010-03-15,2010-03-21,37,37,1,0,1,0,1,3,0,0,0,0,3,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,12,2010-03-22,2010-03-28,33,33,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,13,2010-03-29,2010-04-04,8,8,0,1,0,0,1,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,14,2010-04-05,2010-04-11,31,31,0,0,0,0,2,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,15,2010-04-12,2010-04-18,10,10,0,0,0,0,1,1,0,0,0,0,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,16,2010-04-19,2010-04-25,35,35,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,17,2010-04-26,2010-05-02,26,26,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,18,2010-05-03,2010-05-09,37,37,0,0,1,0,1,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,19,2010-05-10,2010-05-16,32,32,0,0,4,0,2,6,0,0,0,0,6,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,20,2010-05-17,2010-05-23,19,19,0,0,5,0,0,5,0,0,0,0,5,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,21,2010-05-24,2010-05-30,47,47,0,0,4,0,0,4,0,0,0,0,4,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,22,2010-05-31,2010-06-06,30,30,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,23,2010-06-07,2010-06-13,41,41,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,24,2010-06-14,2010-06-20,36,36,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,25,2010-06-21,2010-06-27,32,32,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,26,2010-06-28,2010-07-04,33,33,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,27,2010-07-05,2010-07-11,37,37,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,28,2010-07-12,2010-07-18,48,48,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,29,2010-07-19,2010-07-25,34,34,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,30,2010-07-26,2010-08-01,38,38,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,31,2010-08-02,2010-08-08,35,35,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,32,2010-08-09,2010-08-15,33,33,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,33,2010-08-16,2010-08-22,39,39,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,34,2010-08-23,2010-08-29,21,21,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,35,2010-08-30,2010-09-05,22,22,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,36,2010-09-06,2010-09-12,33,33,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,37,2010-09-13,2010-09-19,42,42,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,38,2010-09-20,2010-09-26,37,37,0,2,1,0,1,4,0,0,0,0,4,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,39,2010-09-27,2010-10-03,56,56,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,40,2010-10-04,2010-10-10,51,51,0,0,0,0,1,1,0,0,1,1,2,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,41,2010-10-11,2010-10-17,71,71,0,5,0,0,3,8,0,0,1,1,9,,Sporadic
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,42,2010-10-18,2010-10-24,55,55,0,10,0,0,1,11,0,0,2,2,13,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,43,2010-10-25,2010-10-31,70,70,0,18,0,0,2,20,0,0,4,4,24,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,44,2010-11-01,2010-11-07,62,62,0,11,0,0,1,12,0,0,7,7,19,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,45,2010-11-08,2010-11-14,110,110,0,35,0,0,1,36,0,0,7,7,43,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,46,2010-11-15,2010-11-21,130,130,0,30,0,0,4,34,0,0,12,12,46,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,47,2010-11-22,2010-11-28,154,154,0,54,0,0,3,57,0,0,8,8,65,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,48,2010-11-29,2010-12-05,182,182,0,49,0,0,8,57,0,0,16,16,73,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,49,2010-12-06,2010-12-12,212,212,0,66,0,0,24,90,0,0,13,13,103,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,50,2010-12-13,2010-12-19,263,263,0,91,0,0,21,112,0,0,10,10,122,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,51,2010-12-20,2010-12-26,277,277,0,61,0,0,14,75,0,0,11,11,86,,Local Outbreak
+
+Sri Lanka,South-East Asia Region of WHO,Southern Asia,2010,52,2010-12-27,2011-01-02,299,299,0,59,0,0,17,76,0,0,15,15,91,,Local Outbreak
+
+

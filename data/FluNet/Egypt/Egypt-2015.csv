@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,1,2013-12-30,2014-01-05,119,119,0,18,4,0,0,22,0,0,5,5,27,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,2,2014-01-06,2014-01-12,108,108,0,30,6,0,0,36,0,0,7,7,43,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,3,2014-01-13,2014-01-19,163,163,0,51,14,0,0,65,0,0,2,2,67,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,4,2014-01-20,2014-01-26,183,183,0,65,11,0,0,76,0,0,4,4,80,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,5,2014-01-27,2014-02-02,236,236,0,50,7,0,0,57,0,0,6,6,63,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,6,2014-02-03,2014-02-09,444,444,0,136,10,0,0,146,0,0,8,8,154,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,7,2014-02-10,2014-02-16,945,945,0,206,34,0,0,240,0,0,27,27,267,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,8,2014-02-17,2014-02-23,845,845,0,139,28,0,0,167,0,0,36,36,203,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,9,2014-02-24,2014-03-02,855,855,0,124,21,0,0,145,0,0,9,9,154,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,10,2014-03-03,2014-03-09,446,446,0,53,15,0,0,68,0,0,10,10,78,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,11,2014-03-10,2014-03-16,420,420,0,25,13,1,0,39,0,0,20,20,59,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,12,2014-03-17,2014-03-23,268,268,0,9,7,1,0,17,0,0,12,12,29,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,13,2014-03-24,2014-03-30,227,227,0,5,0,1,0,6,0,0,7,7,13,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,14,2014-03-31,2014-04-06,187,187,0,6,1,0,0,7,0,0,6,6,13,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,15,2014-04-07,2014-04-13,133,133,0,1,1,0,0,2,0,0,7,7,9,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,16,2014-04-14,2014-04-20,160,160,0,11,9,0,0,20,0,0,3,3,23,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,17,2014-04-21,2014-04-27,142,142,0,3,4,0,0,7,0,0,1,1,8,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,18,2014-04-28,2014-05-04,167,167,0,38,3,0,0,41,0,0,22,22,63,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,19,2014-05-05,2014-05-11,226,226,0,35,6,0,0,41,0,0,44,44,85,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,20,2014-05-12,2014-05-18,138,138,0,21,3,0,0,24,0,0,26,26,50,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,21,2014-05-19,2014-05-25,162,162,0,12,2,0,0,14,0,0,34,34,48,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,22,2014-05-26,2014-06-01,130,130,0,2,1,0,0,3,0,0,17,17,20,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,23,2014-06-02,2014-06-08,152,152,0,15,4,0,0,19,0,0,22,22,41,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,24,2014-06-09,2014-06-15,121,121,0,10,2,0,0,12,0,0,19,19,31,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,25,2014-06-16,2014-06-22,130,130,0,6,2,0,0,8,0,0,20,20,28,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,26,2014-06-23,2014-06-29,119,119,0,2,0,1,0,3,0,0,11,11,14,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,27,2014-06-30,2014-07-06,96,96,0,4,0,0,0,4,0,0,10,10,14,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,28,2014-07-07,2014-07-13,101,101,0,5,0,0,0,5,0,0,21,21,26,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,29,2014-07-14,2014-07-20,90,90,0,1,0,0,0,1,0,0,17,17,18,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,30,2014-07-21,2014-07-27,83,83,0,1,0,0,0,1,0,0,3,3,4,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,31,2014-07-28,2014-08-03,31,31,0,4,1,0,0,5,0,0,8,8,13,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,32,2014-08-04,2014-08-10,92,92,0,1,0,0,0,1,0,0,22,22,23,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,33,2014-08-11,2014-08-17,92,92,0,1,0,0,0,1,0,0,15,15,16,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,34,2014-08-18,2014-08-24,89,89,0,1,0,0,0,1,0,0,13,13,14,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,35,2014-08-25,2014-08-31,82,82,0,0,1,0,0,1,0,0,9,9,10,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,36,2014-09-01,2014-09-07,76,76,0,0,0,0,0,0,0,0,13,13,13,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,37,2014-09-08,2014-09-14,68,68,0,0,0,0,0,0,0,0,10,10,10,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,38,2014-09-15,2014-09-21,67,67,0,0,0,0,0,0,0,0,8,8,8,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,39,2014-09-22,2014-09-28,60,60,0,1,0,0,0,1,0,0,8,8,9,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,40,2014-09-29,2014-10-05,62,62,0,1,0,1,0,2,0,0,3,3,5,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,41,2014-10-06,2014-10-12,58,58,0,0,0,0,0,0,0,0,8,8,8,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,42,2014-10-13,2014-10-19,104,104,0,0,8,0,0,8,0,0,10,10,18,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,43,2014-10-20,2014-10-26,110,110,0,4,11,0,17,32,1,0,15,16,48,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,44,2014-10-27,2014-11-02,96,96,0,0,2,0,8,10,0,0,2,2,12,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,45,2014-11-03,2014-11-09,153,153,0,1,7,0,2,10,0,0,7,7,17,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,46,2014-11-10,2014-11-16,103,103,0,2,16,1,9,28,0,0,5,5,33,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,47,2014-11-17,2014-11-23,137,137,0,5,20,2,6,33,0,0,6,6,39,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,48,2014-11-24,2014-11-30,180,180,0,5,30,4,12,51,0,1,7,8,59,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,49,2014-12-01,2014-12-07,199,199,0,6,66,4,15,91,0,0,6,6,97,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,50,2014-12-08,2014-12-14,308,308,0,6,96,2,7,111,0,0,19,19,130,,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,51,2014-12-15,2014-12-21,342,342,0,13,131,3,0,147,0,0,18,18,165,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2014,52,2014-12-22,2014-12-28,387,387,0,7,118,5,0,130,0,0,21,21,151,,No Report
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ghana,African Region of WHO,Western Africa,2017,1,2017-01-02,2017-01-08,64,64,,0,0,0,0,0,1,2,0,3,3,61,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,2,2017-01-09,2017-01-15,80,80,,0,0,0,0,0,0,3,0,3,3,77,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,3,2017-01-16,2017-01-22,78,78,,0,0,0,0,0,1,0,0,1,1,77,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,4,2017-01-23,2017-01-29,99,99,,0,0,0,0,0,1,3,0,4,4,95,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,5,2017-01-30,2017-02-05,119,119,,0,0,0,0,0,1,4,0,5,5,114,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,6,2017-02-06,2017-02-12,132,132,,0,0,0,0,0,0,3,0,3,3,129,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,7,2017-02-13,2017-02-19,85,85,,0,0,0,0,0,1,1,0,2,2,83,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,8,2017-02-20,2017-02-26,156,156,,0,1,0,0,1,3,1,0,4,5,151,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,9,2017-02-27,2017-03-05,127,127,,0,0,0,0,0,1,1,0,2,2,125,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,10,2017-03-06,2017-03-12,111,111,,2,0,0,0,2,0,1,0,1,3,108,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,11,2017-03-13,2017-03-19,117,117,,1,0,0,0,1,0,2,0,2,3,114,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,12,2017-03-20,2017-03-26,112,112,,0,0,0,0,0,1,0,0,1,1,111,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,13,2017-03-27,2017-04-02,102,102,,0,0,0,0,0,0,0,0,0,0,102,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,14,2017-04-03,2017-04-09,92,92,,0,0,0,0,0,0,0,0,0,0,92,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,15,2017-04-10,2017-04-16,111,111,,1,0,0,0,1,0,0,0,0,1,110,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,16,2017-04-17,2017-04-23,94,94,,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,17,2017-04-24,2017-04-30,104,104,,0,0,0,0,0,0,0,0,0,0,104,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,18,2017-05-01,2017-05-07,81,81,,0,0,0,0,0,0,0,0,0,0,81,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,19,2017-05-08,2017-05-14,126,126,,0,0,0,0,0,0,0,0,0,0,126,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,20,2017-05-15,2017-05-21,97,97,,2,1,0,0,3,0,0,0,0,3,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,21,2017-05-22,2017-05-28,64,64,,0,1,0,0,1,0,0,0,0,1,63,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,22,2017-05-29,2017-06-04,102,102,,1,2,0,0,3,0,0,0,0,3,99,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,23,2017-06-05,2017-06-11,120,120,,7,3,0,0,10,1,0,0,1,11,109,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,24,2017-06-12,2017-06-18,81,81,,5,2,,,7,0,0,0,0,7,74,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,25,2017-06-19,2017-06-25,104,104,,5,5,0,0,10,0,0,0,0,10,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,26,2017-06-26,2017-07-02,77,77,,5,7,0,0,12,0,0,0,0,12,65,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,27,2017-07-03,2017-07-09,100,100,,12,4,0,0,16,0,0,0,0,16,86,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,28,2017-07-10,2017-07-16,118,118,,7,1,0,0,8,0,0,0,0,8,110,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,29,2017-07-17,2017-07-23,92,92,,5,5,0,0,10,0,0,0,0,10,82,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,30,2017-07-24,2017-07-30,126,126,,12,7,0,0,19,0,0,0,0,19,107,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,31,2017-07-31,2017-08-06,104,104,,8,7,0,0,15,0,0,0,0,15,89,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,32,2017-08-07,2017-08-13,119,119,,11,3,0,0,14,0,0,0,0,14,105,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,33,2017-08-14,2017-08-20,100,100,,9,4,0,0,13,0,0,0,0,13,87,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,34,2017-08-21,2017-08-27,92,92,,4,10,0,0,14,0,0,0,0,14,78,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,35,2017-08-28,2017-09-03,43,43,,0,0,0,0,0,0,0,0,0,0,43,No Activity
+
+Ghana,African Region of WHO,Western Africa,2017,36,2017-09-04,2017-09-10,149,149,,4,10,0,0,14,0,0,0,0,14,135,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,37,2017-09-11,2017-09-17,116,116,,5,9,0,0,14,0,0,0,0,14,102,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,38,2017-09-18,2017-09-24,87,87,,5,5,,,10,0,0,0,0,10,77,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,39,2017-09-25,2017-10-01,122,122,,5,10,0,0,15,0,0,0,0,15,107,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,40,2017-10-02,2017-10-08,1333,133,,9,9,0,0,18,0,0,0,0,18,115,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,41,2017-10-09,2017-10-15,81,81,,8,4,0,0,12,0,0,0,0,12,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,42,2017-10-16,2017-10-22,103,103,,6,6,0,0,12,0,0,0,0,12,91,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,43,2017-10-23,2017-10-29,109,109,,6,2,0,0,8,0,0,0,0,8,101,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,44,2017-10-30,2017-11-05,71,71,,4,0,0,0,4,0,0,0,0,4,67,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,45,2017-11-06,2017-11-12,91,91,,5,4,0,0,9,1,0,0,1,10,81,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,46,2017-11-13,2017-11-19,114,114,,15,2,0,0,17,3,0,0,3,20,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,47,2017-11-20,2017-11-26,120,120,,13,1,0,0,14,1,0,0,1,15,105,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,48,2017-11-27,2017-12-03,56,56,,5,3,0,0,8,0,0,0,0,8,,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,49,2017-12-04,2017-12-10,112,112,,22,1,0,0,23,0,0,0,0,23,89,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,50,2017-12-11,2017-12-17,232,232,,25,2,0,0,27,12,0,0,12,39,193,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,51,2017-12-18,2017-12-24,125,125,,42,0,0,0,42,4,0,0,4,46,79,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2017,52,2017-12-25,2017-12-31,53,53,,5,0,0,0,5,4,0,0,4,9,44,Sporadic
+
+

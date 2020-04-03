@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,1,2018-01-01,2018-01-07,64,64,,0,5,,,5,20,1,7,28,33,31,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,2,2018-01-08,2018-01-14,95,95,,2,16,,,18,31,,6,37,55,40,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,3,2018-01-15,2018-01-21,101,101,,1,29,,,30,26,2,4,32,62,38,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,4,2018-01-22,2018-01-28,85,85,,0,7,,,7,16,2,5,23,30,55,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,5,2018-01-29,2018-02-04,86,86,,2,21,,,23,17,,7,24,47,39,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,6,2018-02-05,2018-02-11,132,132,,5,29,,,34,16,1,26,43,77,54,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,7,2018-02-12,2018-02-18,65,65,,2,21,,,23,5,,8,13,36,29,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,8,2018-02-19,2018-02-25,103,103,,6,25,,,31,6,,15,21,52,51,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,9,2018-02-26,2018-03-04,73,73,,4,20,,,24,7,,8,15,39,34,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,10,2018-03-05,2018-03-11,81,81,,8,15,,,23,4,2,5,11,34,45,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,11,2018-03-12,2018-03-18,88,88,,1,12,,,13,8,1,6,15,28,60,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,12,2018-03-19,2018-03-25,70,70,,2,9,,,11,6,1,3,10,21,49,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,13,2018-03-26,2018-04-01,83,83,,4,9,,,13,4,1,3,8,21,62,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,14,2018-04-02,2018-04-08,55,55,,1,8,,,9,1,1,0,2,11,44,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,15,2018-04-09,2018-04-15,39,39,,0,3,,,3,,,1,1,4,35,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,16,2018-04-16,2018-04-22,35,35,,1,1,,,2,,,1,1,3,32,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,17,2018-04-23,2018-04-29,32,32,,1,1,,,2,1,,0,1,3,29,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,18,2018-04-30,2018-05-06,28,28,,0,0,,,0,,,0,0,0,28,No Activity
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,19,2018-05-07,2018-05-13,20,20,,2,0,,,2,,,0,0,2,18,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,20,2018-05-14,2018-05-20,39,39,,0,1,,,1,1,,0,1,2,37,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,21,2018-05-21,2018-05-27,58,58,,1,1,,,2,,1,0,1,3,55,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,22,2018-05-28,2018-06-03,57,57,,0,0,,,0,1,,2,3,3,54,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,23,2018-06-04,2018-06-10,45,45,,0,1,,,1,,,1,1,2,43,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,24,2018-06-11,2018-06-17,48,48,,1,1,,,2,,,0,0,2,46,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,25,2018-06-18,2018-06-24,35,35,,1,2,,,3,,,1,1,4,31,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,26,2018-06-25,2018-07-01,40,40,,,,,,0,,,0,0,0,40,No Activity
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,27,2018-07-02,2018-07-08,37,37,,,1,,,1,,,1,1,2,35,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,28,2018-07-09,2018-07-15,61,61,,,2,,,2,,,2,2,4,57,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,29,2018-07-16,2018-07-22,47,47,,,1,,,1,,,2,2,3,44,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,30,2018-07-23,2018-07-29,43,43,,,,,,0,,,1,1,1,42,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,31,2018-07-30,2018-08-05,55,55,,,4,,,4,,,1,1,5,50,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,32,2018-08-06,2018-08-12,64,64,,,10,,,10,2,,9,11,21,43,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,33,2018-08-13,2018-08-19,98,98,,,16,,,16,,,3,3,19,79,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,34,2018-08-20,2018-08-26,83,83,,,22,,,22,,,8,8,30,53,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,35,2018-08-27,2018-09-02,101,101,,1,17,,,18,1,,2,3,21,80,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,36,2018-09-03,2018-09-09,115,115,,1,30,,,31,,,6,6,37,78,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,37,2018-09-10,2018-09-16,84,84,,1,19,,,20,2,,1,3,23,61,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,38,2018-09-17,2018-09-23,103,103,,1,27,,,28,,,9,9,37,66,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,39,2018-09-24,2018-09-30,111,111,,2,44,,,46,,,9,9,55,55,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,40,2018-10-01,2018-10-07,104,104,,,33,,,33,,,9,9,42,62,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,41,2018-10-08,2018-10-14,85,85,,1,17,,,18,,,16,16,34,51,Local Outbreak
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,42,2018-10-15,2018-10-21,10,10,,,1,,,1,,,1,1,2,8,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,43,2018-10-22,2018-10-28,37,37,,1,3,,,4,,,0,0,4,33,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,44,2018-10-29,2018-11-04,35,35,,1,1,,,2,,,3,3,5,30,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,45,2018-11-05,2018-11-11,16,16,,,,,,0,,,1,1,1,15,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,46,2018-11-12,2018-11-18,43,40,,5,1,,,6,,,1,1,7,33,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,47,2018-11-19,2018-11-25,30,28,,1,2,,,3,,,0,0,3,25,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,48,2018-11-26,2018-12-02,36,15,,3,1,,,4,,,0,0,4,11,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,49,2018-12-03,2018-12-09,31,19,,2,,,,2,,,0,0,2,17,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,50,2018-12-10,2018-12-16,39,21,,9,,,,9,,,0,0,9,12,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,51,2018-12-17,2018-12-23,21,21,,8,2,,,10,,,1,1,11,10,Sporadic
+
+Nepal,South-East Asia Region of WHO,Southern Asia,2018,52,2018-12-24,2018-12-30,18,1,,1,,,,1,,,0,0,1,,Sporadic
+
+

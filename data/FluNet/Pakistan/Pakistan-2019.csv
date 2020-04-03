@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,1,2018-01-01,2018-01-07,65,65,,18,3,0,0,21,0,0,6,6,27,38,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,2,2018-01-08,2018-01-14,373,373,,103,17,0,0,120,0,0,0,0,120,253,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,3,2018-01-15,2018-01-21,409,409,,89,56,0,0,145,0,0,0,0,145,264,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,4,2018-01-22,2018-01-28,537,537,,103,61,,,164,,,7,7,171,366,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,5,2018-01-29,2018-02-04,340,340,,45,19,0,0,64,0,0,6,6,70,270,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,6,2018-02-05,2018-02-11,244,244,,40,30,0,0,70,0,0,9,9,79,165,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,7,2018-02-12,2018-02-18,120,120,,12,7,0,0,19,0,0,7,7,26,94,Local Outbreak
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,8,2018-02-19,2018-02-25,99,99,,19,5,0,0,24,0,0,7,7,31,68,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,9,2018-02-26,2018-03-04,100,100,,8,6,0,0,14,0,0,5,5,19,81,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,10,2018-03-05,2018-03-11,30,30,,4,0,0,0,4,0,0,2,2,6,24,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,11,2018-03-12,2018-03-18,55,55,,1,1,0,0,2,,,3,3,5,50,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,12,2018-03-19,2018-03-25,20,20,,0,0,0,0,0,,,0,0,0,20,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,13,2018-03-26,2018-04-01,10,10,,0,0,0,0,0,,,0,0,0,10,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,14,2018-04-02,2018-04-08,51,51,,5,1,0,0,6,,,1,1,7,44,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,15,2018-04-09,2018-04-15,40,40,,1,1,0,0,2,,,3,3,5,35,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,16,2018-04-16,2018-04-22,7,7,,0,0,0,0,0,,,1,1,1,6,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,17,2018-04-23,2018-04-29,5,5,,0,0,0,0,0,,,0,0,0,5,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,18,2018-04-30,2018-05-06,5,5,,0,0,0,0,0,,,0,0,0,5,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,19,2018-05-07,2018-05-13,5,5,,0,0,0,0,0,,,0,0,0,5,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,20,2018-05-14,2018-05-20,4,4,,0,0,0,0,0,0,0,0,0,0,4,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,21,2018-05-21,2018-05-27,11,11,,0,0,0,0,0,0,0,0,0,0,11,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,22,2018-05-28,2018-06-03,15,15,,0,0,0,0,0,,,1,1,1,21,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,23,2018-06-04,2018-06-10,9,9,,0,0,0,0,0,0,0,0,0,0,9,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,24,2018-06-11,2018-06-17,8,8,,0,0,0,0,0,0,0,0,0,0,8,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,25,2018-06-18,2018-06-24,7,7,,0,0,0,0,0,0,0,0,0,0,7,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,26,2018-06-25,2018-07-01,6,6,,0,0,0,0,0,0,0,0,0,0,6,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,27,2018-07-02,2018-07-08,11,11,,0,0,0,0,0,0,0,0,0,0,11,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,28,2018-07-09,2018-07-15,7,7,,0,0,0,0,0,0,0,0,0,0,7,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,29,2018-07-16,2018-07-22,11,11,,0,0,0,0,0,0,0,0,0,0,11,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,30,2018-07-23,2018-07-29,6,6,,0,0,0,0,0,0,0,0,0,0,6,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,31,2018-07-30,2018-08-05,8,8,,0,0,0,0,0,0,0,0,0,0,8,No Activity
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,32,2018-08-06,2018-08-12,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,33,2018-08-13,2018-08-19,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,34,2018-08-20,2018-08-26,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,35,2018-08-27,2018-09-02,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,36,2018-09-03,2018-09-09,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,37,2018-09-10,2018-09-16,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,38,2018-09-17,2018-09-23,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,39,2018-09-24,2018-09-30,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,40,2018-10-01,2018-10-07,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,41,2018-10-08,2018-10-14,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,42,2018-10-15,2018-10-21,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,43,2018-10-22,2018-10-28,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,44,2018-10-29,2018-11-04,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,45,2018-11-05,2018-11-11,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,46,2018-11-12,2018-11-18,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,47,2018-11-19,2018-11-25,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,48,2018-11-26,2018-12-02,,,,,,,,,,,,,,,No Report
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,49,2018-12-03,2018-12-09,13,13,,1,0,0,0,1,0,0,0,0,1,12,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,50,2018-12-10,2018-12-16,24,24,,2,0,0,0,2,0,0,2,2,4,22,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,51,2018-12-17,2018-12-23,23,23,,2,0,0,0,2,0,0,3,3,5,18,Sporadic
+
+Pakistan,Eastern Mediterranean Region of WHO,Southern Asia,2018,52,2018-12-24,2018-12-30,36,36,,4,0,0,0,4,0,0,3,3,7,29,Sporadic
+
+

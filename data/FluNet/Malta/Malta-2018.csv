@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Malta,European Region of WHO,South West Europe,2017,1,2017-01-02,2017-01-08,,130,0,0,40,,0,40,1,0,0,1,41,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,2,2017-01-09,2017-01-15,,130,0,0,35,,0,35,0,0,0,0,35,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,3,2017-01-16,2017-01-22,,20,0,0,66,,0,66,0,0,0,0,66,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,4,2017-01-23,2017-01-29,,230,0,0,52,,0,52,0,0,0,0,52,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,5,2017-01-30,2017-02-05,,160,0,0,33,,0,33,0,0,0,0,33,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,6,2017-02-06,2017-02-12,,,,,,,,,,,,,,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,7,2017-02-13,2017-02-19,,170,0,0,18,,0,18,0,0,0,0,18,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,8,2017-02-20,2017-02-26,,110,0,0,9,,0,9,0,0,0,0,9,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,9,2017-02-27,2017-03-05,,160,0,0,10,,0,10,0,0,0,0,10,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,10,2017-03-06,2017-03-12,,120,0,0,3,,0,3,0,0,0,0,3,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,11,2017-03-13,2017-03-19,,130,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,12,2017-03-20,2017-03-26,,120,0,0,2,,0,2,0,0,0,0,2,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,13,2017-03-27,2017-04-02,,120,0,0,1,,0,1,0,0,1,1,2,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,14,2017-04-03,2017-04-09,,50,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,15,2017-04-10,2017-04-16,,60,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,16,2017-04-17,2017-04-23,,110,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,17,2017-04-24,2017-04-30,,100,0,0,1,,0,1,0,0,1,1,2,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,18,2017-05-01,2017-05-07,,90,0,0,0,,0,0,0,0,2,2,2,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,19,2017-05-08,2017-05-14,,100,0,2,0,,0,2,0,0,2,2,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,20,2017-05-15,2017-05-21,,130,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,21,2017-05-22,2017-05-28,,60,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,22,2017-05-29,2017-06-04,,110,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,23,2017-06-05,2017-06-11,,90,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,24,2017-06-12,2017-06-18,,110,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,25,2017-06-19,2017-06-25,,90,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,26,2017-06-26,2017-07-02,,80,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,27,2017-07-03,2017-07-09,,90,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,28,2017-07-10,2017-07-16,,70,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,29,2017-07-17,2017-07-23,,90,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,30,2017-07-24,2017-07-30,,80,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,31,2017-07-31,2017-08-06,,100,0,0,7,,0,7,0,0,3,3,10,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,32,2017-08-07,2017-08-13,,,,,,,,,,,,,,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,33,2017-08-14,2017-08-20,,90,0,0,3,,0,3,0,0,1,1,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,34,2017-08-21,2017-08-27,,80,0,0,2,,0,2,0,0,2,2,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,35,2017-08-28,2017-09-03,,120,0,0,3,,0,3,0,0,3,3,6,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,36,2017-09-04,2017-09-10,,100,0,0,4,,0,4,0,0,2,2,6,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,37,2017-09-11,2017-09-17,,90,0,0,3,,0,3,0,0,0,0,3,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,38,2017-09-18,2017-09-24,,70,0,0,3,,0,3,0,0,1,1,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,39,2017-09-25,2017-10-01,,100,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,40,2017-10-02,2017-10-08,,90,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,41,2017-10-09,2017-10-15,,130,0,0,14,,0,14,0,0,0,0,14,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,42,2017-10-16,2017-10-22,,139,0,2,6,,0,8,0,0,2,2,10,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,43,2017-10-23,2017-10-29,,117,0,0,4,,0,4,0,0,0,0,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,44,2017-10-30,2017-11-05,,119,0,0,5,,0,5,0,0,5,5,10,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,45,2017-11-06,2017-11-12,,120,0,0,1,,0,1,0,0,5,5,6,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,46,2017-11-13,2017-11-19,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,47,2017-11-20,2017-11-26,,116,0,0,1,,0,1,0,0,4,4,5,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,48,2017-11-27,2017-12-03,,148,0,0,3,,0,3,0,0,6,6,9,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,49,2017-12-04,2017-12-10,,94,0,0,1,,0,1,0,0,3,3,4,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,50,2017-12-11,2017-12-17,,158,0,1,2,,0,3,0,0,16,16,19,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,51,2017-12-18,2017-12-24,,157,0,3,5,,0,8,0,0,17,17,25,,No Report
+
+Malta,European Region of WHO,South West Europe,2017,52,2017-12-25,2017-12-31,,227,0,1,12,,0,13,0,0,60,60,73,,No Report
+
+

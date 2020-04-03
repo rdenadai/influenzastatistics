@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2006,1,2006-01-02,2006-01-08,,795,2,,1,,4,7,,,4,4,11,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,2,2006-01-09,2006-01-15,,683,2,,,,2,4,,,1,1,5,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,3,2006-01-16,2006-01-22,,608,1,,,,9,10,,,6,6,16,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,4,2006-01-23,2006-01-29,,819,12,,,,5,17,,,12,12,29,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,5,2006-01-30,2006-02-05,,683,15,,2,,13,30,,,19,19,49,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,6,2006-02-06,2006-02-12,,858,16,,,,30,46,,,29,29,75,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,7,2006-02-13,2006-02-19,,905,16,,1,,43,60,,,50,50,110,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,8,2006-02-20,2006-02-26,,846,12,,,,25,37,,,61,61,98,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,9,2006-02-27,2006-03-05,,759,5,,1,,19,25,,,32,32,57,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,10,2006-03-06,2006-03-12,,687,10,,2,,11,23,,,38,38,61,,Local Outbreak
+
+France,European Region of WHO,South West Europe,2006,11,2006-03-13,2006-03-19,,786,10,,,,23,33,,,37,37,70,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,12,2006-03-20,2006-03-26,,727,10,,,,7,17,,,53,53,70,,Regional Outbreak
+
+France,European Region of WHO,South West Europe,2006,13,2006-03-27,2006-04-02,,528,3,,,,8,11,,,44,44,55,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,14,2006-04-03,2006-04-09,,510,1,,,,9,10,,,13,13,23,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,15,2006-04-10,2006-04-16,,337,5,,,,3,8,,,9,9,17,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,16,2006-04-17,2006-04-23,,274,,,1,,2,3,,,1,1,4,,No Activity
+
+France,European Region of WHO,South West Europe,2006,17,2006-04-24,2006-04-30,,312,,,,,1,1,,,1,1,2,,No Activity
+
+France,European Region of WHO,South West Europe,2006,18,2006-05-01,2006-05-07,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,19,2006-05-08,2006-05-14,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,20,2006-05-15,2006-05-21,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,21,2006-05-22,2006-05-28,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,22,2006-05-29,2006-06-04,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,23,2006-06-05,2006-06-11,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,24,2006-06-12,2006-06-18,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,25,2006-06-19,2006-06-25,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,26,2006-06-26,2006-07-02,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,27,2006-07-03,2006-07-09,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,28,2006-07-10,2006-07-16,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,29,2006-07-17,2006-07-23,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,30,2006-07-24,2006-07-30,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,31,2006-07-31,2006-08-06,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,32,2006-08-07,2006-08-13,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,33,2006-08-14,2006-08-20,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,34,2006-08-21,2006-08-27,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,35,2006-08-28,2006-09-03,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,36,2006-09-04,2006-09-10,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,37,2006-09-11,2006-09-17,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,38,2006-09-18,2006-09-24,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,39,2006-09-25,2006-10-01,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2006,40,2006-10-02,2006-10-08,,265,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,41,2006-10-09,2006-10-15,,360,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,42,2006-10-16,2006-10-22,,353,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,43,2006-10-23,2006-10-29,,413,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,44,2006-10-30,2006-11-05,,287,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,45,2006-11-06,2006-11-12,,372,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,46,2006-11-13,2006-11-19,,442,0,,0,,0,0,,,0,0,0,,No Activity
+
+France,European Region of WHO,South West Europe,2006,47,2006-11-20,2006-11-26,,461,0,,1,,0,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2006,48,2006-11-27,2006-12-03,,555,0,,1,,0,1,,,0,0,1,,No Activity
+
+France,European Region of WHO,South West Europe,2006,49,2006-12-04,2006-12-10,,631,,,1,,1,2,,,0,0,2,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,50,2006-12-11,2006-12-17,,682,,,3,,1,4,,,0,0,4,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,51,2006-12-18,2006-12-24,,819,,,9,,3,12,,,0,0,12,,Sporadic
+
+France,European Region of WHO,South West Europe,2006,52,2006-12-25,2006-12-31,,1013,,,10,,18,28,,,0,0,28,,Sporadic
+
+

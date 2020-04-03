@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+United States of America,Region of the Americas of WHO,North America,2013,1,2012-12-31,2013-01-06,18219,18219,0,84,3640,0,1653,5377,0,0,1097,1097,6474,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,2,2013-01-07,2013-01-13,20013,20013,0,96,3889,0,1767,5752,0,0,1145,1145,6897,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,3,2013-01-14,2013-01-20,19228,19228,0,113,3121,0,1624,4858,0,0,1078,1078,5936,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,4,2013-01-21,2013-01-27,17139,17139,0,129,2382,0,1528,4039,0,0,1091,1091,5130,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,5,2013-01-28,2013-02-03,14795,14795,0,122,1890,0,951,2963,0,0,1076,1076,4039,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,6,2013-02-04,2013-02-10,13259,13259,0,121,1181,0,706,2008,0,0,1051,1051,3059,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,7,2013-02-11,2013-02-17,11468,11468,0,69,798,0,486,1353,0,0,1032,1032,2385,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,8,2013-02-18,2013-02-24,10398,10398,0,74,548,0,363,985,0,0,1084,1084,2069,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,9,2013-02-25,2013-03-03,9499,9499,0,49,392,0,289,730,0,0,1046,1046,1776,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,10,2013-03-04,2013-03-10,8999,8999,0,61,301,0,200,562,0,0,1083,1083,1645,,Regional Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,11,2013-03-11,2013-03-17,8733,8733,0,41,202,0,191,434,0,0,1018,1018,1452,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,12,2013-03-18,2013-03-24,7849,7849,0,29,159,0,137,325,0,0,894,894,1219,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,13,2013-03-25,2013-03-31,6635,6635,0,31,98,0,92,221,0,0,732,732,953,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,14,2013-04-01,2013-04-07,6311,6311,0,31,120,0,101,252,0,0,641,641,893,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,15,2013-04-08,2013-04-14,5779,5779,0,44,67,0,63,174,0,0,457,457,631,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,16,2013-04-15,2013-04-21,5229,5229,0,27,73,0,43,143,0,0,311,311,454,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,17,2013-04-22,2013-04-28,4518,4518,0,33,61,0,46,140,0,0,239,239,379,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,18,2013-04-29,2013-05-05,4317,4317,0,15,54,0,29,98,0,0,195,195,293,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,19,2013-05-06,2013-05-12,3917,3917,0,12,36,0,27,75,0,0,174,174,249,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,20,2013-05-13,2013-05-19,3562,3562,0,11,24,0,19,54,0,0,120,120,174,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,21,2013-05-20,2013-05-26,3488,3488,0,13,18,0,21,52,0,0,109,109,161,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,22,2013-05-27,2013-06-02,3207,3207,0,14,14,0,28,56,0,0,92,92,148,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,23,2013-06-03,2013-06-09,3167,3167,0,10,12,0,29,51,0,0,78,78,129,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,24,2013-06-10,2013-06-16,2893,2893,0,20,12,0,32,64,0,0,62,62,126,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,25,2013-06-17,2013-06-23,2811,2811,0,5,10,0,31,48,0,0,47,47,95,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,26,2013-06-24,2013-06-30,2591,2591,0,6,5,0,21,38,0,0,27,27,65,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,27,2013-07-01,2013-07-07,2256,2256,0,6,12,0,22,44,0,0,23,23,67,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,28,2013-07-08,2013-07-14,2337,2337,0,6,27,0,33,66,0,0,13,13,79,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,29,2013-07-15,2013-07-21,2212,2212,0,5,12,0,24,42,0,0,14,14,56,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,30,2013-07-22,2013-07-28,2050,2050,0,11,10,0,29,51,0,0,9,9,60,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,31,2013-07-29,2013-08-04,2246,2246,0,8,14,0,31,55,0,0,20,20,75,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,32,2013-08-05,2013-08-11,2195,2195,0,14,11,0,26,51,0,0,12,12,63,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,33,2013-08-12,2013-08-18,1968,1968,0,13,3,0,32,48,0,0,10,10,58,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,34,2013-08-19,2013-08-25,2187,2187,0,9,4,0,41,55,0,0,3,3,58,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,35,2013-08-26,2013-09-01,2674,2674,0,39,3,0,67,110,0,0,10,10,120,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,36,2013-09-02,2013-09-08,2825,2825,0,23,5,0,73,101,0,0,12,12,113,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,37,2013-09-09,2013-09-15,3190,3190,0,48,7,0,60,115,0,0,7,7,122,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,38,2013-09-16,2013-09-22,3400,3400,0,32,7,0,56,95,0,0,22,22,117,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,39,2013-09-23,2013-09-29,3890,3890,0,49,10,0,56,115,0,0,22,22,137,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,40,2013-09-30,2013-10-06,4407,4407,0,64,10,0,84,159,0,0,26,26,185,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,41,2013-10-07,2013-10-13,5244,5244,0,57,21,0,115,193,0,0,28,28,221,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,42,2013-10-14,2013-10-20,5320,5320,0,34,12,0,104,150,0,0,25,25,175,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,43,2013-10-21,2013-10-27,5402,5402,0,65,16,0,102,183,0,0,14,14,197,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,44,2013-10-28,2013-11-03,5853,5853,0,74,24,0,135,233,0,0,41,41,274,,Sporadic
+
+United States of America,Region of the Americas of WHO,North America,2013,45,2013-11-04,2013-11-10,6765,6765,0,150,28,0,173,351,0,0,43,43,394,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,46,2013-11-11,2013-11-17,6963,6963,0,265,25,0,191,481,0,0,39,39,520,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,47,2013-11-18,2013-11-24,7569,7569,0,417,20,0,211,648,0,0,55,55,703,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,48,2013-11-25,2013-12-01,7118,7118,0,465,28,0,330,823,0,0,40,40,863,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,49,2013-12-02,2013-12-08,9628,9628,0,899,30,0,726,1655,0,0,67,67,1722,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,50,2013-12-09,2013-12-15,9942,9942,0,1062,46,0,813,1921,0,0,47,47,1968,,Local Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,51,2013-12-16,2013-12-22,13165,13165,0,1996,50,0,1577,3623,0,0,62,62,3685,,Widespread Outbreak
+
+United States of America,Region of the Americas of WHO,North America,2013,52,2013-12-23,2013-12-29,14631,14631,0,2663,39,0,1689,4391,0,0,87,87,4478,,Widespread Outbreak
+
+

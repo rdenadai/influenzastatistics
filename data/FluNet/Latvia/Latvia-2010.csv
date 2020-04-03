@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Latvia,European Region of WHO,Northern Europe,2009,1,2008-12-29,2009-01-04,,87,0,,2,,4,6,0,0,0,0,6,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,2,2009-01-05,2009-01-11,,138,0,,4,,4,8,0,0,0,0,8,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,3,2009-01-12,2009-01-18,,138,0,,5,,6,11,0,0,0,0,11,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,4,2009-01-19,2009-01-25,,154,1,,12,,7,20,,,1,1,21,,Local Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,5,2009-01-26,2009-02-01,,199,0,,7,,39,46,,1,2,3,49,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,6,2009-02-02,2009-02-08,,151,1,,4,,30,35,1,0,0,1,36,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,7,2009-02-09,2009-02-15,,170,1,,14,,22,37,1,0,,1,38,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,8,2009-02-16,2009-02-22,,198,0,,5,,27,32,0,2,0,2,34,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,9,2009-02-23,2009-03-01,,206,2,,15,,18,35,0,2,1,3,38,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,10,2009-03-02,2009-03-08,,194,2,,19,,11,32,0,0,1,1,33,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,11,2009-03-09,2009-03-15,,194,3,,15,,25,43,0,0,3,3,46,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,12,2009-03-16,2009-03-22,,144,2,,6,,15,23,1,1,6,8,31,,Local Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,13,2009-03-23,2009-03-29,,158,0,,3,,14,17,1,4,2,7,24,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,14,2009-03-30,2009-04-05,,139,2,,3,,14,19,0,5,4,9,28,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,15,2009-04-06,2009-04-12,,126,2,,0,,6,8,0,5,2,7,15,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,16,2009-04-13,2009-04-19,,132,0,,0,,6,6,0,0,3,3,9,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,17,2009-04-20,2009-04-26,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,18,2009-04-27,2009-05-03,,103,1,,2,,0,3,2,,2,4,7,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,19,2009-05-04,2009-05-10,,108,0,,1,,0,1,2,0,1,3,4,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,20,2009-05-11,2009-05-17,,97,0,,1,,0,1,0,3,0,3,4,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,21,2009-05-18,2009-05-24,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,22,2009-05-25,2009-05-31,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,23,2009-06-01,2009-06-07,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,24,2009-06-08,2009-06-14,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,25,2009-06-15,2009-06-21,71,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Latvia,European Region of WHO,Northern Europe,2009,26,2009-06-22,2009-06-28,71,71,0,,0,0,0,0,0,0,2,2,2,,No Activity
+
+Latvia,European Region of WHO,Northern Europe,2009,27,2009-06-29,2009-07-05,,,,,,,,,,,,,,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,28,2009-07-06,2009-07-12,74,74,0,3,0,0,0,3,0,0,0,0,3,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,29,2009-07-13,2009-07-19,93,93,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,30,2009-07-20,2009-07-26,58,58,0,2,0,0,0,2,0,0,0,0,2,,No Report
+
+Latvia,European Region of WHO,Northern Europe,2009,31,2009-07-27,2009-08-02,89,89,0,7,0,0,0,7,0,0,0,0,7,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,32,2009-08-03,2009-08-09,60,60,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,33,2009-08-10,2009-08-16,53,53,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,34,2009-08-17,2009-08-23,66,66,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,35,2009-08-24,2009-08-30,65,65,0,4,1,0,0,5,0,0,0,0,5,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,36,2009-08-31,2009-09-06,72,72,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,37,2009-09-07,2009-09-13,68,68,0,2,0,0,0,2,0,0,0,0,2,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,38,2009-09-14,2009-09-20,64,64,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,39,2009-09-21,2009-09-27,88,88,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,40,2009-09-28,2009-10-04,75,75,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,41,2009-10-05,2009-10-11,94,94,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Latvia,European Region of WHO,Northern Europe,2009,42,2009-10-12,2009-10-18,82,82,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Latvia,European Region of WHO,Northern Europe,2009,43,2009-10-19,2009-10-25,79,79,0,2,0,0,0,2,0,0,0,0,2,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,44,2009-10-26,2009-11-01,121,121,0,5,0,0,0,5,0,0,0,0,5,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,45,2009-11-02,2009-11-08,177,177,0,52,0,0,0,52,0,0,0,0,52,,Sporadic
+
+Latvia,European Region of WHO,Northern Europe,2009,46,2009-11-09,2009-11-15,597,597,0,297,0,0,0,297,0,0,0,0,297,,Local Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,47,2009-11-16,2009-11-22,380,380,0,271,0,0,0,271,0,0,0,0,271,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,48,2009-11-23,2009-11-29,381,381,0,33,0,0,202,235,0,0,0,0,235,,Widespread Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,49,2009-11-30,2009-12-06,315,315,0,42,0,0,73,115,0,0,0,0,115,,Widespread Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,50,2009-12-07,2009-12-13,310,310,0,57,0,0,0,57,0,0,0,0,57,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,51,2009-12-14,2009-12-20,241,234,0,48,0,0,18,66,0,0,0,0,66,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,52,2009-12-21,2009-12-27,187,187,0,36,0,0,9,45,0,0,0,0,45,,Regional Outbreak
+
+Latvia,European Region of WHO,Northern Europe,2009,53,2009-12-28,2010-01-03,179,179,0,36,0,0,5,41,0,0,0,0,41,,Local Outbreak
+
+

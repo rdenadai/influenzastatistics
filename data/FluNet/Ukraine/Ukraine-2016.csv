@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ukraine,European Region of WHO,Eastern Europe,2015,1,2014-12-29,2015-01-04,31,99,0,0,0,0,0,0,1,0,7,8,8,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,2,2015-01-05,2015-01-11,32,126,0,0,1,0,0,1,0,0,6,6,7,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,3,2015-01-12,2015-01-18,40,274,0,1,3,0,0,4,0,0,25,25,29,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,4,2015-01-19,2015-01-25,44,240,0,0,10,0,0,10,0,0,29,29,39,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,5,2015-01-26,2015-02-01,59,373,0,2,30,0,3,35,2,0,68,70,105,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,6,2015-02-02,2015-02-08,62,478,0,8,8,0,1,17,4,0,109,113,130,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,7,2015-02-09,2015-02-15,63,499,0,3,14,0,2,19,2,0,108,110,129,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,8,2015-02-16,2015-02-22,76,600,0,8,11,0,30,49,4,0,151,155,204,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,9,2015-02-23,2015-03-01,94,724,0,13,17,0,21,51,5,0,214,219,270,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,10,2015-03-02,2015-03-08,55,653,0,5,12,0,21,38,0,0,128,128,166,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,11,2015-03-09,2015-03-15,27,421,0,8,4,0,16,28,1,0,73,74,102,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,12,2015-03-16,2015-03-22,51,303,0,3,8,0,24,35,1,0,50,51,86,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2015,13,2015-03-23,2015-03-29,39,277,0,17,2,0,28,47,2,0,22,24,71,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,14,2015-03-30,2015-04-05,34,330,0,7,0,0,35,42,1,0,58,59,101,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,15,2015-04-06,2015-04-12,24,162,0,18,4,0,20,42,0,0,10,10,52,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,16,2015-04-13,2015-04-19,25,122,0,10,2,0,7,19,0,0,7,7,26,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,17,2015-04-20,2015-04-26,20,145,0,11,6,0,10,27,0,0,4,4,31,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,18,2015-04-27,2015-05-03,18,93,0,3,2,0,9,14,0,0,0,0,14,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,19,2015-05-04,2015-05-10,15,61,0,1,0,0,1,2,0,0,0,0,2,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,20,2015-05-11,2015-05-17,15,63,0,2,1,0,2,5,0,0,0,0,5,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,21,2015-05-18,2015-05-24,15,66,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,22,2015-05-25,2015-05-31,10,30,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,23,2015-06-01,2015-06-07,,19,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,24,2015-06-08,2015-06-14,,29,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,25,2015-06-15,2015-06-21,,27,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,26,2015-06-22,2015-06-28,,21,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,27,2015-06-29,2015-07-05,,12,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,28,2015-07-06,2015-07-12,,17,0,1,0,,0,1,0,0,0,0,1,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,29,2015-07-13,2015-07-19,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,30,2015-07-20,2015-07-26,,11,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,31,2015-07-27,2015-08-02,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,32,2015-08-03,2015-08-09,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,33,2015-08-10,2015-08-16,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,34,2015-08-17,2015-08-23,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,35,2015-08-24,2015-08-30,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,36,2015-08-31,2015-09-06,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,37,2015-09-07,2015-09-13,,,,,,,,,,,,,,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,38,2015-09-14,2015-09-20,,30,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,39,2015-09-21,2015-09-27,,10,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2015,40,2015-09-28,2015-10-04,15,27,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,41,2015-10-05,2015-10-11,18,31,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,42,2015-10-12,2015-10-18,17,56,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,43,2015-10-19,2015-10-25,15,67,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,44,2015-10-26,2015-11-01,10,29,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,45,2015-11-02,2015-11-08,9,42,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,46,2015-11-09,2015-11-15,10,41,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2015,47,2015-11-16,2015-11-22,23,79,0,2,1,0,0,3,0,0,0,0,3,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,48,2015-11-23,2015-11-29,12,102,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,49,2015-11-30,2015-12-06,15,145,0,4,0,0,0,4,0,0,0,0,4,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,50,2015-12-07,2015-12-13,30,119,0,11,4,0,1,16,0,0,0,0,16,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,51,2015-12-14,2015-12-20,26,141,0,18,2,0,3,23,0,0,0,0,23,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,52,2015-12-21,2015-12-27,41,310,0,47,4,0,13,64,0,0,11,11,75,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2015,53,2015-12-28,2016-01-03,40,206,0,79,2,0,1,82,0,0,1,1,83,,Sporadic
+
+

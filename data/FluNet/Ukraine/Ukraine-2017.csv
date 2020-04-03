@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ukraine,European Region of WHO,Eastern Europe,2016,1,2016-01-04,2016-01-10,40,255,0,113,0,0,23,136,0,0,2,2,138,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2016,2,2016-01-11,2016-01-17,70,886,0,235,10,0,83,328,0,0,3,3,331,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2016,3,2016-01-18,2016-01-24,98,1050,0,293,2,0,126,421,0,0,0,0,421,,Regional Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2016,4,2016-01-25,2016-01-31,68,1023,0,242,1,0,110,353,0,0,1,1,354,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2016,5,2016-02-01,2016-02-07,,769,0,249,0,,54,303,0,0,0,0,303,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,6,2016-02-08,2016-02-14,,633,0,124,11,,85,220,0,0,0,0,220,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,7,2016-02-15,2016-02-21,,513,0,126,6,,21,153,0,0,1,1,154,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,8,2016-02-22,2016-02-28,,406,0,91,4,,10,105,0,0,0,0,105,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,9,2016-02-29,2016-03-06,,253,0,73,10,,4,87,0,0,0,0,87,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,10,2016-03-07,2016-03-13,,189,0,27,3,,9,39,0,0,0,0,39,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,11,2016-03-14,2016-03-20,,152,0,16,5,,1,22,0,0,0,0,22,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,12,2016-03-21,2016-03-27,,127,0,15,5,,3,23,0,0,0,0,23,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,13,2016-03-28,2016-04-03,,122,0,6,7,,4,17,0,0,0,0,17,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,14,2016-04-04,2016-04-10,,87,0,15,4,,2,21,0,0,0,0,21,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,15,2016-04-11,2016-04-17,,109,0,4,2,,5,11,0,0,2,2,13,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,16,2016-04-18,2016-04-24,,68,0,0,7,,1,8,0,0,0,0,8,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,17,2016-04-25,2016-05-01,,50,0,0,0,,7,7,0,0,0,0,7,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,18,2016-05-02,2016-05-08,,20,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,19,2016-05-09,2016-05-15,,34,0,0,2,,0,2,0,0,0,0,2,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,20,2016-05-16,2016-05-22,,31,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,21,2016-05-23,2016-05-29,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,22,2016-05-30,2016-06-05,,7,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,23,2016-06-06,2016-06-12,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,24,2016-06-13,2016-06-19,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,25,2016-06-20,2016-06-26,,,,,,,,,,,,,,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,26,2016-06-27,2016-07-03,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,27,2016-07-04,2016-07-10,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,28,2016-07-11,2016-07-17,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,29,2016-07-18,2016-07-24,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,30,2016-07-25,2016-07-31,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,31,2016-08-01,2016-08-07,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,32,2016-08-08,2016-08-14,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,33,2016-08-15,2016-08-21,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,34,2016-08-22,2016-08-28,,2,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,35,2016-08-29,2016-09-04,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,36,2016-09-05,2016-09-11,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,37,2016-09-12,2016-09-18,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,38,2016-09-19,2016-09-25,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,39,2016-09-26,2016-10-02,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,40,2016-10-03,2016-10-09,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,41,2016-10-10,2016-10-16,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,42,2016-10-17,2016-10-23,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,43,2016-10-24,2016-10-30,,25,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,44,2016-10-31,2016-11-06,,12,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,45,2016-11-07,2016-11-13,,38,0,0,2,,0,2,0,0,0,0,2,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,46,2016-11-14,2016-11-20,,33,0,0,5,,0,5,0,0,0,0,5,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,47,2016-11-21,2016-11-27,,106,0,1,19,,6,26,0,0,0,0,26,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,48,2016-11-28,2016-12-04,,186,0,0,78,,17,95,0,0,0,0,95,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,49,2016-12-05,2016-12-11,,236,0,0,84,,40,124,0,0,0,0,124,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,50,2016-12-12,2016-12-18,,464,0,0,99,,91,190,0,0,0,0,190,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,51,2016-12-19,2016-12-25,,490,0,0,177,,28,205,0,0,0,0,205,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2016,52,2016-12-26,2017-01-01,,327,0,0,160,,18,178,0,0,0,0,178,,No Report
+
+

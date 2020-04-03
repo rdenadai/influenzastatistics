@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Germany,European Region of WHO,South West Europe,2020,1,2019-12-30,2020-01-05,,62,0,4,3,,0,7,0,1,0,1,8,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,2,2020-01-06,2020-01-12,,126,0,24,8,,0,32,0,4,0,4,36,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,3,2020-01-13,2020-01-19,,158,0,26,14,,0,40,0,9,0,9,49,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,4,2020-01-20,2020-01-26,,204,0,38,37,,0,75,0,7,0,7,82,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,5,2020-01-27,2020-02-02,,271,0,52,65,,0,117,1,12,0,13,130,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,6,2020-02-03,2020-02-09,,248,0,35,54,,0,89,0,12,0,12,101,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,7,2020-02-10,2020-02-16,,261,0,60,40,,0,100,0,7,0,7,107,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,8,2020-02-17,2020-02-23,,225,0,38,41,,0,79,0,20,0,20,99,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,9,2020-02-24,2020-03-01,,259,0,39,38,,0,77,0,18,0,18,95,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,10,2020-03-02,2020-03-08,,286,0,36,52,,0,88,0,21,0,21,109,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,11,2020-03-09,2020-03-15,,,,,,,,,,,,,,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,12,2020-03-16,2020-03-22,,,,,,,,,,,,,,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Germany,European Region of WHO,South West Europe,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

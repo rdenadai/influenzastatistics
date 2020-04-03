@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,1,2010-01-04,2010-01-10,7412,7341,10,1218,62,0,145,1435,14,78,652,744,2179,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,2,2010-01-11,2010-01-17,7294,7155,9,927,47,0,143,1126,14,77,996,1087,2213,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,3,2010-01-18,2010-01-24,7427,7169,9,638,53,0,105,805,7,33,1383,1423,2228,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,4,2010-01-25,2010-01-31,6640,6436,10,459,24,0,78,571,4,54,1398,1456,2027,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,5,2010-02-01,2010-02-07,6403,6325,6,299,32,0,61,398,34,124,1257,1415,1813,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,6,2010-02-08,2010-02-14,4839,4747,6,180,18,0,56,260,28,125,940,1093,1353,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,7,2010-02-15,2010-02-21,3383,3338,3,71,12,0,36,122,10,46,621,677,799,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,8,2010-02-22,2010-02-28,5539,5465,5,102,25,0,57,189,30,127,872,1029,1218,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,9,2010-03-01,2010-03-07,5681,5630,3,189,20,0,61,273,36,110,914,1060,1333,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,10,2010-03-08,2010-03-14,5893,5699,5,209,23,0,60,297,28,148,1141,1317,1614,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,11,2010-03-15,2010-03-21,6332,6216,6,159,14,0,70,249,28,244,1224,1496,1745,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,12,2010-03-22,2010-03-28,5859,5618,3,153,13,0,44,213,34,226,1075,1335,1548,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,13,2010-03-29,2010-04-04,5659,5490,4,97,18,0,25,144,37,241,966,1244,1388,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,14,2010-04-05,2010-04-11,5007,4642,5,51,14,0,21,91,18,81,653,752,843,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,15,2010-04-12,2010-04-18,3802,3392,1,47,9,0,16,73,22,81,459,562,635,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,16,2010-04-19,2010-04-25,5401,4924,1,40,13,0,21,75,33,87,521,641,716,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,17,2010-04-26,2010-05-02,4637,4101,2,36,6,0,14,58,23,125,396,544,602,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,18,2010-05-03,2010-05-09,4587,4354,8,40,6,0,7,61,38,113,317,468,529,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,19,2010-05-10,2010-05-16,4712,4250,9,51,13,0,17,90,23,73,248,344,434,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,20,2010-05-17,2010-05-23,4477,3979,4,27,10,0,22,63,246,55,4,305,368,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,21,2010-05-24,2010-05-30,4407,3951,7,28,4,0,19,58,28,60,168,256,314,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,22,2010-05-31,2010-06-06,4146,3674,6,22,2,1,17,48,17,32,128,177,225,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,23,2010-06-07,2010-06-13,4124,3654,7,31,4,0,30,72,11,34,121,166,238,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,24,2010-06-14,2010-06-20,3054,2741,0,15,4,0,11,30,14,11,63,88,118,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,25,2010-06-21,2010-06-27,3948,3607,1,24,8,0,24,57,25,16,87,128,185,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,26,2010-06-28,2010-07-04,3773,3311,2,32,20,0,33,87,12,15,88,115,202,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,27,2010-07-05,2010-07-11,4033,3683,1,55,44,0,24,124,28,12,98,138,262,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,28,2010-07-12,2010-07-18,4204,3883,1,66,84,0,33,184,29,20,101,150,334,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,29,2010-07-19,2010-07-25,4351,4122,1,77,151,0,45,274,40,17,101,158,432,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,30,2010-07-26,2010-08-01,4218,3817,1,60,164,0,63,288,22,6,97,125,413,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,31,2010-08-02,2010-08-08,4506,4076,1,92,293,0,119,505,26,10,74,110,615,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,32,2010-08-09,2010-08-15,4222,3595,0,110,446,0,115,671,32,3,70,105,776,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,33,2010-08-16,2010-08-22,4257,3636,1,69,494,0,119,683,25,4,70,99,782,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,34,2010-08-23,2010-08-29,4205,3723,2,72,678,0,187,939,24,4,51,79,1018,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,35,2010-08-30,2010-09-05,4185,3700,0,59,887,0,182,1128,18,4,61,83,1211,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,36,2010-09-06,2010-09-12,4326,3739,0,42,1081,0,249,1372,11,3,55,69,1441,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,37,2010-09-13,2010-09-19,4412,3697,3,25,1176,0,208,1412,6,6,49,61,1473,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,38,2010-09-20,2010-09-26,3652,3202,2,29,952,0,154,1137,13,1,46,60,1197,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,39,2010-09-27,2010-10-03,3322,2912,0,16,875,0,101,992,10,7,36,53,1045,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,40,2010-10-04,2010-10-10,2956,2655,1,25,739,0,79,844,11,5,30,46,890,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,41,2010-10-11,2010-10-17,3767,2999,1,12,557,0,70,640,4,3,38,45,685,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,42,2010-10-18,2010-10-24,3826,2808,4,22,380,0,44,450,7,4,47,58,508,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,43,2010-10-25,2010-10-31,4040,3510,3,43,353,0,51,450,5,6,37,48,498,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,44,2010-11-01,2010-11-07,4276,3345,1,8,267,0,68,344,7,7,42,56,400,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,45,2010-11-08,2010-11-14,4349,3337,5,5,273,0,50,333,11,6,39,56,389,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,46,2010-11-15,2010-11-21,3761,2450,3,13,162,1,13,192,6,1,46,53,245,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,47,2010-11-22,2010-11-28,4433,3094,6,21,257,0,42,326,4,10,57,71,397,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,48,2010-11-29,2010-12-05,4447,2889,0,25,292,0,21,338,6,5,51,62,400,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,49,2010-12-06,2010-12-12,4357,2752,0,22,285,0,49,356,2,9,28,39,395,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,50,2010-12-13,2010-12-19,4368,2889,0,42,242,0,17,301,3,6,49,58,359,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,51,2010-12-20,2010-12-26,5106,4102,0,127,357,0,58,542,6,9,45,60,602,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2010,52,2010-12-27,2011-01-02,4367,2970,0,203,225,0,35,463,1,14,54,69,532,,Local Outbreak
+
+

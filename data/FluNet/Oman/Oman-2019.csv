@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,1,2018-01-01,2018-01-07,193,141,,6,7,0,0,13,0,0,21,21,34,76,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,2,2018-01-08,2018-01-14,185,188,,4,6,0,0,10,0,0,20,20,30,113,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,3,2018-01-15,2018-01-21,165,179,,8,2,0,0,10,0,0,24,24,34,108,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,4,2018-01-22,2018-01-28,160,142,,11,3,0,0,14,0,0,16,16,30,99,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,5,2018-01-29,2018-02-04,186,193,,11,2,0,0,13,0,0,17,17,30,133,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,6,2018-02-05,2018-02-11,160,168,,4,3,0,0,7,0,0,13,13,20,121,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,7,2018-02-12,2018-02-18,162,150,,4,1,0,0,5,0,0,10,10,15,104,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,8,2018-02-19,2018-02-25,151,153,,9,2,0,0,11,0,0,7,7,18,105,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,9,2018-02-26,2018-03-04,189,164,,4,3,0,0,7,0,0,8,8,15,116,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,10,2018-03-05,2018-03-11,192,210,,6,1,0,0,7,0,0,11,11,18,159,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,11,2018-03-12,2018-03-18,153,163,,10,0,0,0,10,0,0,17,17,27,95,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,12,2018-03-19,2018-03-25,144,176,,27,1,0,0,28,0,0,6,6,34,73,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,13,2018-03-26,2018-04-01,232,181,,30,4,0,0,34,0,0,11,11,45,99,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,14,2018-04-02,2018-04-08,155,154,,2,4,0,0,6,0,0,5,5,11,83,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,15,2018-04-09,2018-04-15,120,101,,1,5,0,0,6,0,0,4,4,10,57,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,16,2018-04-16,2018-04-22,172,126,,3,6,0,0,9,0,0,10,10,19,102,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,17,2018-04-23,2018-04-29,106,107,,0,5,0,0,5,0,0,6,6,11,89,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,18,2018-04-30,2018-05-06,99,96,,0,2,0,0,2,0,0,4,4,6,85,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,19,2018-05-07,2018-05-13,126,115,,0,4,0,0,4,0,0,8,8,12,94,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,20,2018-05-14,2018-05-20,83,97,,0,3,0,0,3,0,0,4,4,7,87,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,21,2018-05-21,2018-05-27,119,85,,1,3,0,0,4,0,0,5,5,9,76,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,22,2018-05-28,2018-06-03,48,56,,0,3,0,0,3,0,0,3,3,6,49,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,23,2018-06-04,2018-06-10,59,57,,0,3,0,0,3,0,0,0,0,3,52,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,24,2018-06-11,2018-06-17,41,63,,0,1,0,0,1,0,0,8,8,9,51,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,25,2018-06-18,2018-06-24,76,55,,0,1,0,0,1,0,0,0,0,1,51,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,26,2018-06-25,2018-07-01,67,62,,0,2,0,0,2,0,0,1,1,3,57,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,27,2018-07-02,2018-07-08,51,51,,1,3,0,0,4,0,0,1,1,5,43,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,28,2018-07-09,2018-07-15,36,35,,0,2,0,0,2,0,0,1,1,3,31,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,29,2018-07-16,2018-07-22,33,41,,1,12,0,0,13,0,0,0,0,13,28,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,30,2018-07-23,2018-07-29,38,31,,0,3,0,0,3,0,0,0,0,3,27,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,31,2018-07-30,2018-08-05,38,39,,1,4,0,0,5,0,0,2,2,7,32,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,32,2018-08-06,2018-08-12,44,67,,1,13,0,0,14,0,0,1,1,15,49,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,33,2018-08-13,2018-08-19,62,53,,4,5,0,0,9,0,0,0,0,9,42,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,34,2018-08-20,2018-08-26,40,52,,2,2,0,0,4,0,0,0,0,4,48,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,35,2018-08-27,2018-09-02,102,114,,8,11,0,0,19,0,0,2,2,21,91,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,36,2018-09-03,2018-09-09,126,110,,1,6,0,0,7,0,0,0,0,7,100,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,37,2018-09-10,2018-09-16,133,122,,2,16,0,0,18,0,0,1,1,19,101,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,38,2018-09-17,2018-09-23,147,166,,8,13,0,0,21,0,0,0,0,21,133,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,39,2018-09-24,2018-09-30,149,159,,5,12,0,0,17,0,0,0,0,17,134,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,40,2018-10-01,2018-10-07,200,201,,21,36,0,0,57,0,0,1,1,58,133,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,41,2018-10-08,2018-10-14,218,208,,10,30,0,0,40,0,0,1,1,41,154,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,42,2018-10-15,2018-10-21,200,217,,12,36,0,0,48,0,0,4,4,52,161,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,43,2018-10-22,2018-10-28,246,244,,21,44,0,0,65,0,0,7,7,72,169,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,44,2018-10-29,2018-11-04,237,231,,21,43,0,0,64,0,0,3,3,67,159,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,45,2018-11-05,2018-11-11,258,248,,27,46,0,0,73,0,0,4,4,77,164,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,46,2018-11-12,2018-11-18,224,234,,28,51,0,0,79,0,0,7,7,86,142,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,47,2018-11-19,2018-11-25,169,164,,22,31,0,0,53,0,0,9,9,62,100,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,48,2018-11-26,2018-12-02,206,199,,28,26,0,0,54,0,0,9,9,63,136,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,49,2018-12-03,2018-12-09,179,174,,19,22,0,0,41,0,0,10,10,51,122,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,50,2018-12-10,2018-12-16,188,183,,14,31,0,0,45,0,0,3,3,48,148,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,51,2018-12-17,2018-12-23,180,177,,14,41,0,0,55,0,0,10,10,65,125,No Report
+
+Oman,Eastern Mediterranean Region of WHO,Western Asia,2018,52,2018-12-24,2018-12-30,166,164,,12,17,0,0,29,0,0,16,16,45,88,No Report
+
+

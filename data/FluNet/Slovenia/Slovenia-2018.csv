@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Slovenia,European Region of WHO,South West Europe,2017,1,2017-01-02,2017-01-08,,801,0,0,75,,129,204,11,0,30,41,245,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,2,2017-01-09,2017-01-15,,1213,0,0,102,,317,419,7,1,58,66,485,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,3,2017-01-16,2017-01-22,,1324,0,0,89,,303,392,22,0,104,126,518,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,4,2017-01-23,2017-01-29,,1452,0,0,77,,320,397,20,0,163,183,580,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,5,2017-01-30,2017-02-05,,1568,0,0,67,,307,374,48,0,223,271,645,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,6,2017-02-06,2017-02-12,,1175,0,0,24,,161,185,24,0,175,199,384,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,7,2017-02-13,2017-02-19,,1031,0,0,10,,155,165,22,0,159,181,346,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,8,2017-02-20,2017-02-26,,775,0,0,4,,43,47,24,0,116,140,187,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,9,2017-02-27,2017-03-05,,639,0,0,1,,14,15,12,0,88,100,115,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,10,2017-03-06,2017-03-12,,496,0,0,2,,9,11,7,0,54,61,72,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,11,2017-03-13,2017-03-19,,454,0,0,0,,3,3,10,0,51,61,64,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,12,2017-03-20,2017-03-26,,409,0,0,1,,3,4,17,1,30,48,52,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,13,2017-03-27,2017-04-02,,319,0,0,1,,2,3,10,0,16,26,29,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,14,2017-04-03,2017-04-09,,282,0,0,0,,0,0,4,0,8,12,12,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,15,2017-04-10,2017-04-16,,275,0,0,0,,0,0,3,0,12,15,15,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,16,2017-04-17,2017-04-23,,223,0,0,0,,1,1,0,0,5,5,6,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,17,2017-04-24,2017-04-30,,173,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,18,2017-05-01,2017-05-07,,153,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,19,2017-05-08,2017-05-14,,185,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,20,2017-05-15,2017-05-21,,148,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,21,2017-05-22,2017-05-28,,152,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,22,2017-05-29,2017-06-04,,143,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,23,2017-06-05,2017-06-11,,141,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,24,2017-06-12,2017-06-18,,137,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,25,2017-06-19,2017-06-25,,132,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,26,2017-06-26,2017-07-02,,120,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,27,2017-07-03,2017-07-09,,137,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,28,2017-07-10,2017-07-16,,113,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,29,2017-07-17,2017-07-23,,107,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,30,2017-07-24,2017-07-30,,86,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,31,2017-07-31,2017-08-06,,89,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,32,2017-08-07,2017-08-13,,96,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,33,2017-08-14,2017-08-20,,76,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,34,2017-08-21,2017-08-27,,104,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,35,2017-08-28,2017-09-03,,100,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,36,2017-09-04,2017-09-10,,114,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,37,2017-09-11,2017-09-17,,153,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,38,2017-09-18,2017-09-24,,175,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,39,2017-09-25,2017-10-01,,248,0,0,0,,0,0,0,0,1,1,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,40,2017-10-02,2017-10-08,,199,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,41,2017-10-09,2017-10-15,,249,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,42,2017-10-16,2017-10-22,,237,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,43,2017-10-23,2017-10-29,,252,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,44,2017-10-30,2017-11-05,,182,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,45,2017-11-06,2017-11-12,,242,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,46,2017-11-13,2017-11-19,,221,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,47,2017-11-20,2017-11-26,,241,0,0,0,,0,0,1,0,0,1,1,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,48,2017-11-27,2017-12-03,,270,0,1,6,,2,9,0,0,0,0,9,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,49,2017-12-04,2017-12-10,,303,0,4,0,,8,12,0,0,0,0,12,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,50,2017-12-11,2017-12-17,,348,0,4,0,,11,15,1,2,1,4,19,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,51,2017-12-18,2017-12-24,,346,0,3,4,,20,27,0,2,2,4,31,,No Report
+
+Slovenia,European Region of WHO,South West Europe,2017,52,2017-12-25,2017-12-31,,456,0,6,3,,45,54,6,3,8,17,71,,No Report
+
+

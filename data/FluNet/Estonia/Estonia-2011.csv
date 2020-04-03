@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Estonia,European Region of WHO,Northern Europe,2010,1,2010-01-04,2010-01-10,167,167,0,35,0,0,6,41,0,0,0,0,41,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,2,2010-01-11,2010-01-17,106,106,0,24,0,0,10,34,0,0,0,0,34,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,3,2010-01-18,2010-01-24,110,110,0,20,0,0,5,25,0,0,0,0,25,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,4,2010-01-25,2010-01-31,104,104,0,9,0,0,0,9,0,0,0,0,9,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,5,2010-02-01,2010-02-07,88,88,0,11,0,0,1,12,0,0,0,0,12,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,6,2010-02-08,2010-02-14,102,102,0,12,0,0,2,14,0,0,1,1,15,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,7,2010-02-15,2010-02-21,65,65,0,2,0,0,0,2,0,0,0,0,2,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,8,2010-02-22,2010-02-28,46,46,0,2,0,0,0,2,0,0,0,0,2,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,9,2010-03-01,2010-03-07,69,69,0,2,0,0,0,2,0,0,0,0,2,,Widespread Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2010,10,2010-03-08,2010-03-14,79,79,0,1,0,0,0,1,0,0,1,1,2,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,11,2010-03-15,2010-03-21,70,70,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,12,2010-03-22,2010-03-28,61,61,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,13,2010-03-29,2010-04-04,52,52,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,14,2010-04-05,2010-04-11,51,51,0,0,0,0,0,0,0,0,1,1,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,15,2010-04-12,2010-04-18,28,28,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,16,2010-04-19,2010-04-25,38,38,0,2,0,0,0,2,0,0,0,0,2,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,17,2010-04-26,2010-05-02,57,57,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,18,2010-05-03,2010-05-09,33,33,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,19,2010-05-10,2010-05-16,35,35,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,20,2010-05-17,2010-05-23,32,32,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,21,2010-05-24,2010-05-30,8,8,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,22,2010-05-31,2010-06-06,13,13,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,23,2010-06-07,2010-06-13,7,7,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,24,2010-06-14,2010-06-20,13,13,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,25,2010-06-21,2010-06-27,3,3,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,26,2010-06-28,2010-07-04,5,5,0,1,0,0,0,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,27,2010-07-05,2010-07-11,13,13,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,28,2010-07-12,2010-07-18,11,11,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,29,2010-07-19,2010-07-25,8,8,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,30,2010-07-26,2010-08-01,8,8,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,31,2010-08-02,2010-08-08,4,4,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,32,2010-08-09,2010-08-15,2,2,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,33,2010-08-16,2010-08-22,3,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,34,2010-08-23,2010-08-29,5,,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,35,2010-08-30,2010-09-05,5,5,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,36,2010-09-06,2010-09-12,4,4,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,37,2010-09-13,2010-09-19,9,9,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,38,2010-09-20,2010-09-26,6,6,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,39,2010-09-27,2010-10-03,21,21,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,40,2010-10-04,2010-10-10,31,31,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,41,2010-10-11,2010-10-17,28,28,0,0,0,0,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,42,2010-10-18,2010-10-24,54,54,0,0,0,0,1,1,0,0,0,0,1,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,43,2010-10-25,2010-10-31,39,39,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,44,2010-11-01,2010-11-07,32,32,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,45,2010-11-08,2010-11-14,32,32,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,46,2010-11-15,2010-11-21,,48,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2010,47,2010-11-22,2010-11-28,,49,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,48,2010-11-29,2010-12-05,,69,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,49,2010-12-06,2010-12-12,,85,0,2,1,,1,4,0,0,0,0,4,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,50,2010-12-13,2010-12-19,,73,0,0,0,,0,0,0,0,3,3,3,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,51,2010-12-20,2010-12-26,,74,0,5,2,,3,10,0,0,0,0,10,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2010,52,2010-12-27,2011-01-02,,79,0,4,0,,0,4,0,0,0,0,4,,Sporadic
+
+

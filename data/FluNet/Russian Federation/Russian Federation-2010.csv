@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,1,2008-12-29,2009-01-04,,199,4,,4,,0,8,0,0,2,2,10,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,2,2009-01-05,2009-01-11,,94,0,,0,,0,0,0,0,0,0,0,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,3,2009-01-12,2009-01-18,,811,9,,13,,0,22,0,0,7,7,29,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,4,2009-01-19,2009-01-25,,961,19,,27,,0,46,0,0,9,9,55,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,5,2009-01-26,2009-02-01,,1191,44,,55,,0,99,0,0,17,17,116,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,6,2009-02-02,2009-02-08,,1272,38,,55,,0,93,0,0,29,29,122,,Local Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,7,2009-02-09,2009-02-15,,1647,69,,121,,0,190,0,0,22,22,212,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,8,2009-02-16,2009-02-22,,1915,103,,109,,0,212,0,0,23,23,235,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,9,2009-02-23,2009-03-01,,1666,63,,134,,0,197,0,0,26,26,223,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,10,2009-03-02,2009-03-08,,1853,80,,135,,,215,,,45,45,260,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,11,2009-03-09,2009-03-15,,1707,56,,106,,0,162,0,0,51,51,213,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,12,2009-03-16,2009-03-22,,1685,52,,148,,0,200,0,0,35,35,235,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,13,2009-03-23,2009-03-29,,1477,40,,105,,0,145,0,,25,25,170,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,14,2009-03-30,2009-04-05,,1893,35,,283,,0,318,0,0,27,27,345,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,15,2009-04-06,2009-04-12,,1102,33,,68,,0,101,,,26,26,127,,Local Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,16,2009-04-13,2009-04-19,,999,14,,34,,0,48,0,0,17,17,65,,Local Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,17,2009-04-20,2009-04-26,,766,7,,29,,,36,,,12,12,48,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,18,2009-04-27,2009-05-03,,591,10,,49,,0,59,0,0,5,5,64,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,19,2009-05-04,2009-05-10,,672,2,,9,,0,11,0,0,7,7,18,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,20,2009-05-11,2009-05-17,,492,1,,14,,0,15,0,0,5,5,20,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,21,2009-05-18,2009-05-24,,511,11,,9,,0,20,0,0,14,14,34,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,22,2009-05-25,2009-05-31,,478,1,,1,,0,2,0,0,7,7,9,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,23,2009-06-01,2009-06-07,,639,2,,4,,0,6,0,0,9,9,15,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,24,2009-06-08,2009-06-14,,402,6,,13,,0,19,0,0,11,11,30,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,25,2009-06-15,2009-06-21,,423,7,1,5,,9,22,,,7,7,29,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,26,2009-06-22,2009-06-28,,315,0,,0,,1,1,,,4,4,5,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,27,2009-06-29,2009-07-05,,354,1,,2,,4,7,,,5,5,12,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,28,2009-07-06,2009-07-12,,325,0,0,0,0,2,2,,,6,6,8,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,29,2009-07-13,2009-07-19,,301,4,8,0,0,7,19,,,3,3,22,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,30,2009-07-20,2009-07-26,,388,9,8,3,,5,25,,,5,5,30,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,31,2009-07-27,2009-08-02,,555,2,25,6,,15,48,,,4,4,52,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,32,2009-08-03,2009-08-09,,389,2,20,2,,4,28,,,4,4,32,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,33,2009-08-10,2009-08-16,,548,0,23,3,,15,41,,,1,1,42,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,34,2009-08-17,2009-08-23,,694,4,18,1,,9,32,,,3,3,35,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,35,2009-08-24,2009-08-30,,732,3,42,5,,12,62,,,2,2,64,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,36,2009-08-31,2009-09-06,13,898,1,60,2,0,3,66,0,0,2,2,68,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,37,2009-09-07,2009-09-13,10,970,2,16,3,0,10,31,0,0,3,3,34,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,38,2009-09-14,2009-09-20,2,1486,5,21,8,0,1,35,0,0,7,7,42,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,39,2009-09-21,2009-09-27,0,1599,3,28,5,0,3,39,0,0,5,5,44,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,40,2009-09-28,2009-10-04,7,1659,1,76,4,0,43,124,0,0,2,2,126,,No Activity
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,41,2009-10-05,2009-10-11,0,1765,0,119,9,0,100,228,0,0,5,5,233,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,42,2009-10-12,2009-10-18,1,2468,22,292,4,0,171,489,0,0,8,8,497,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,43,2009-10-19,2009-10-25,1,2763,50,465,15,0,44,574,0,0,12,12,586,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,44,2009-10-26,2009-11-01,25,3813,31,995,36,0,52,1114,0,0,2,2,1116,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,45,2009-11-02,2009-11-08,33,4995,84,2157,1,0,265,2507,0,0,5,5,2512,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,46,2009-11-09,2009-11-15,47,6771,76,2128,64,0,92,2360,0,0,5,5,2365,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,47,2009-11-16,2009-11-22,41,7410,102,2375,83,0,44,2604,0,0,43,43,2647,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,48,2009-11-23,2009-11-29,66,7136,103,2403,56,0,71,2633,0,0,28,28,2661,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,49,2009-11-30,2009-12-06,33,7002,89,2157,28,0,92,2366,0,0,21,21,2387,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,50,2009-12-07,2009-12-13,110,7244,72,2191,23,0,71,2357,0,0,40,40,2397,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,51,2009-12-14,2009-12-20,43,7117,45,1663,16,0,43,1767,0,0,13,13,1780,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,52,2009-12-21,2009-12-27,54,4329,3,912,34,0,56,1005,0,0,34,34,1039,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2009,53,2009-12-28,2010-01-03,1947,,7,393,6,0,15,421,0,0,7,7,428,,Local Outbreak
+
+

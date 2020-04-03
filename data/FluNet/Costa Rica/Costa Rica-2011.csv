@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,1,2010-01-04,2010-01-10,273,273,0,48,0,0,0,48,0,0,0,0,48,225,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,2,2010-01-11,2010-01-17,214,214,0,28,0,0,0,28,0,0,0,0,28,186,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,3,2010-01-18,2010-01-24,191,191,0,20,0,0,0,20,0,0,0,0,20,171,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,4,2010-01-25,2010-01-31,181,181,0,19,0,0,0,19,0,0,0,0,19,162,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,5,2010-02-01,2010-02-07,130,130,0,8,0,0,0,8,0,0,0,0,8,122,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,6,2010-02-08,2010-02-14,119,119,0,13,0,0,0,13,0,0,0,0,13,106,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,7,2010-02-15,2010-02-21,84,84,0,9,0,0,0,9,0,0,0,0,9,75,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,8,2010-02-22,2010-02-28,85,85,0,85,0,0,0,85,0,0,0,0,85,,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,9,2010-03-01,2010-03-07,88,88,0,15,0,0,0,15,0,0,0,0,15,73,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,10,2010-03-08,2010-03-14,105,105,0,19,0,0,0,19,0,0,0,0,19,86,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,11,2010-03-15,2010-03-21,113,113,0,13,0,0,0,13,0,0,0,0,13,100,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,12,2010-03-22,2010-03-28,136,136,0,14,0,0,0,14,0,0,0,0,14,122,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,13,2010-03-29,2010-04-04,,46,0,9,0,,0,9,,,0,0,9,37,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,14,2010-04-05,2010-04-11,,86,0,20,0,,0,20,,,0,0,20,66,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,15,2010-04-12,2010-04-18,,67,0,19,0,,0,19,,,0,0,19,48,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,16,2010-04-19,2010-04-25,,62,0,12,0,,0,12,,,0,0,12,50,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,17,2010-04-26,2010-05-02,,47,0,3,0,,0,3,,,0,0,3,44,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,18,2010-05-03,2010-05-09,,62,0,14,0,,0,14,,,0,0,14,48,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,19,2010-05-10,2010-05-16,,78,0,14,0,,0,14,,,0,0,14,64,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,20,2010-05-17,2010-05-23,,63,0,17,0,,0,17,,,0,0,17,46,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,21,2010-05-24,2010-05-30,,83,0,19,0,,0,19,,,0,0,19,64,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,22,2010-05-31,2010-06-06,,159,0,50,0,,0,50,,,0,0,50,109,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,23,2010-06-07,2010-06-13,,165,0,56,0,,0,56,,,0,0,56,109,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,24,2010-06-14,2010-06-20,,150,0,36,0,,0,36,,,0,0,36,114,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,25,2010-06-21,2010-06-27,,358,0,65,7,,0,72,,,0,0,72,286,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,26,2010-06-28,2010-07-04,,213,0,46,16,,0,62,,,0,0,62,151,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,27,2010-07-05,2010-07-11,,150,0,24,8,,0,32,,,0,0,32,118,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,28,2010-07-12,2010-07-18,,152,0,15,27,,0,42,,,0,0,42,110,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,29,2010-07-19,2010-07-25,,135,0,25,17,,0,42,,,0,0,42,93,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,30,2010-07-26,2010-08-01,,163,0,14,51,,0,65,,,0,0,65,98,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,31,2010-08-02,2010-08-08,,125,0,2,13,,0,15,,,0,0,15,110,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,32,2010-08-09,2010-08-15,,152,0,5,46,,0,51,,,0,0,51,101,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,33,2010-08-16,2010-08-22,,108,0,0,35,,0,35,,,0,0,35,73,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,34,2010-08-23,2010-08-29,,118,0,0,35,,0,35,,,0,0,35,83,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,35,2010-08-30,2010-09-05,,108,0,0,34,,0,34,,,0,0,34,74,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,36,2010-09-06,2010-09-12,,126,0,0,57,,0,57,,,0,0,57,69,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,37,2010-09-13,2010-09-19,,86,0,0,27,,0,27,,,2,2,29,57,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,38,2010-09-20,2010-09-26,,83,0,0,20,,0,20,,,1,1,21,62,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,39,2010-09-27,2010-10-03,,79,0,0,27,,0,27,,,2,2,29,50,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,40,2010-10-04,2010-10-10,,75,0,0,5,,0,5,,,7,7,12,63,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,41,2010-10-11,2010-10-17,,55,0,0,6,,0,6,,,6,6,12,43,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,42,2010-10-18,2010-10-24,,71,0,0,4,,0,4,,,6,6,10,61,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,43,2010-10-25,2010-10-31,,95,0,0,9,,0,9,,,9,9,18,77,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,44,2010-11-01,2010-11-07,,75,0,0,6,,0,6,,,13,13,19,56,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,45,2010-11-08,2010-11-14,,46,0,0,1,,0,1,,,16,16,17,29,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,46,2010-11-15,2010-11-21,,86,0,0,0,,0,0,,,24,24,24,62,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,47,2010-11-22,2010-11-28,,63,0,0,0,,0,0,,,6,6,6,57,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,48,2010-11-29,2010-12-05,,37,0,0,0,,0,0,,,11,11,11,26,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,49,2010-12-06,2010-12-12,,47,0,0,0,,0,0,,,16,16,16,31,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,50,2010-12-13,2010-12-19,,55,0,0,0,,0,0,,,13,13,13,42,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,51,2010-12-20,2010-12-26,,48,0,0,0,,0,0,,,15,15,15,33,No Report
+
+Costa Rica,Region of the Americas of WHO,Central America and Caribbean,2010,52,2010-12-27,2011-01-02,,36,0,0,0,,0,0,,,3,3,3,33,No Report
+
+

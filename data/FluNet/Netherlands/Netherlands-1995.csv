@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Netherlands,European Region of WHO,South West Europe,2020,1,2019-12-30,2020-01-05,,15,0,6,14,,188,208,0,0,1,1,209,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,2,2020-01-06,2020-01-12,,29,0,11,19,,209,239,0,1,6,7,246,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,3,2020-01-13,2020-01-19,,22,0,9,15,,167,191,0,1,4,5,196,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,4,2020-01-20,2020-01-26,,34,0,13,13,,139,165,0,0,3,3,168,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,5,2020-01-27,2020-02-02,,48,0,15,21,,210,246,0,3,5,8,254,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,6,2020-02-03,2020-02-09,,42,0,4,17,,224,245,0,2,4,6,251,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,7,2020-02-10,2020-02-16,,55,0,12,8,,273,293,0,3,4,7,300,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,8,2020-02-17,2020-02-23,,47,0,7,10,,247,264,1,2,4,7,271,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,9,2020-02-24,2020-03-01,,33,0,6,5,,224,235,0,0,12,12,247,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,10,2020-03-02,2020-03-08,,57,0,12,7,,218,237,0,1,16,17,254,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,11,2020-03-09,2020-03-15,,,,,,,,,,,,,,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,12,2020-03-16,2020-03-22,,,,,,,,,,,,,,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Netherlands,European Region of WHO,South West Europe,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

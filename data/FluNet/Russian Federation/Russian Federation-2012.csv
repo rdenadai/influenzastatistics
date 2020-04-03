@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,1,2011-01-03,2011-01-09,0,424,0,16,2,0,0,18,0,0,38,38,56,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,2,2011-01-10,2011-01-16,9,2475,0,241,6,0,10,257,0,0,204,204,461,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,3,2011-01-17,2011-01-23,12,4754,0,882,72,0,6,960,0,0,448,448,1408,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,4,2011-01-24,2011-01-30,1,6501,0,1797,124,0,106,2027,0,0,614,614,2641,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,5,2011-01-31,2011-02-06,2,8870,0,2737,74,0,60,2871,0,0,692,692,3563,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,6,2011-02-07,2011-02-13,6,11654,0,3789,108,0,36,3933,0,1,846,847,4780,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,7,2011-02-14,2011-02-20,25,11937,0,3695,64,0,42,3801,0,4,700,704,4505,,Widespread Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,8,2011-02-21,2011-02-27,6,5195,0,2520,24,0,8,2552,0,0,572,572,3124,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,9,2011-02-28,2011-03-06,12,8582,0,2794,40,0,52,2886,0,0,548,548,3434,,Regional Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,10,2011-03-07,2011-03-13,3,4921,0,1243,36,0,12,1291,0,0,252,252,1543,,Local Outbreak
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,11,2011-03-14,2011-03-20,9,5557,0,1369,41,0,8,1418,0,0,314,314,1732,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,12,2011-03-21,2011-03-27,3,4499,0,734,16,0,6,756,0,0,228,228,984,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,13,2011-03-28,2011-04-03,9,3223,0,370,16,0,8,394,0,0,170,170,564,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,14,2011-04-04,2011-04-10,6,2744,0,168,42,0,2,212,0,0,138,138,350,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,15,2011-04-11,2011-04-17,0,2522,0,90,10,0,0,100,0,0,80,80,180,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,16,2011-04-18,2011-04-24,2,2188,0,88,6,0,0,94,0,0,56,56,150,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,17,2011-04-25,2011-05-01,0,1870,0,34,8,0,2,44,0,0,44,44,88,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,18,2011-05-02,2011-05-08,0,1202,0,8,2,0,0,10,0,0,10,10,20,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,19,2011-05-09,2011-05-15,0,1524,0,10,0,0,0,10,0,0,12,12,22,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,20,2011-05-16,2011-05-22,0,1374,0,14,0,0,10,24,0,0,6,6,30,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,21,2011-05-23,2011-05-29,0,1260,0,2,2,0,0,4,0,0,4,4,8,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,22,2011-05-30,2011-06-05,0,1298,0,2,0,0,0,2,0,0,4,4,6,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,23,2011-06-06,2011-06-12,0,1384,0,2,0,0,2,4,0,0,2,2,6,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,24,2011-06-13,2011-06-19,0,444,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,25,2011-06-20,2011-06-26,0,622,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,26,2011-06-27,2011-07-03,0,453,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,27,2011-07-04,2011-07-10,0,374,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,28,2011-07-11,2011-07-17,0,450,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,29,2011-07-18,2011-07-24,0,359,0,0,0,0,0,0,0,0,1,1,1,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,30,2011-07-25,2011-07-31,0,,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,31,2011-08-01,2011-08-07,0,501,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,32,2011-08-08,2011-08-14,0,486,0,0,0,0,0,0,0,0,1,1,1,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,33,2011-08-15,2011-08-21,0,514,0,3,0,0,1,4,0,0,3,3,7,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,34,2011-08-22,2011-08-28,0,437,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,35,2011-08-29,2011-09-04,0,449,0,0,0,0,1,1,0,0,1,1,2,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,36,2011-09-05,2011-09-11,0,500,0,0,0,0,0,0,0,0,1,1,1,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,37,2011-09-12,2011-09-18,0,593,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,38,2011-09-19,2011-09-25,0,734,0,4,0,0,0,4,0,0,0,0,4,,No Report
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,39,2011-09-26,2011-10-02,1066,1818,0,4,4,0,0,8,0,0,0,0,8,,No Activity
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,40,2011-10-03,2011-10-09,1303,2195,0,2,2,0,0,4,0,0,4,4,8,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,41,2011-10-10,2011-10-16,1509,2431,0,0,3,0,2,5,0,0,3,3,8,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,42,2011-10-17,2011-10-23,1434,2378,0,0,7,0,0,7,0,0,3,3,10,,No Activity
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,43,2011-10-24,2011-10-30,1533,2518,0,4,7,0,0,11,0,0,13,13,24,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,44,2011-10-31,2011-11-06,1360,2662,0,0,8,0,0,8,0,0,6,6,14,,No Activity
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,45,2011-11-07,2011-11-13,1585,3158,0,20,8,0,8,36,0,0,10,10,46,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,46,2011-11-14,2011-11-20,1618,3143,0,2,7,0,0,9,0,0,4,4,13,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,47,2011-11-21,2011-11-27,1707,3434,0,0,28,0,0,28,0,0,4,4,32,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,48,2011-11-28,2011-12-04,1867,3774,0,0,6,0,0,6,0,0,10,10,16,,No Activity
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,49,2011-12-05,2011-12-11,1780,3547,0,4,14,0,2,20,0,0,8,8,28,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,50,2011-12-12,2011-12-18,1805,3611,0,0,8,0,0,8,0,0,12,12,20,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,51,2011-12-19,2011-12-25,1763,3543,0,0,10,0,0,10,0,0,10,10,20,,Sporadic
+
+Russian Federation,European Region of WHO,Eastern Europe,2011,52,2011-12-26,2012-01-01,1016,2030,0,0,22,0,0,22,0,0,0,0,22,,Sporadic
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,1,2012-01-02,2012-01-08,,694,0,243,9,0,15,267,0,0,3,3,270,424,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,2,2012-01-09,2012-01-15,,1097,0,501,13,0,18,532,0,0,4,4,536,561,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,3,2012-01-16,2012-01-22,,1679,0,645,22,0,30,697,0,0,8,8,705,974,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,4,2012-01-23,2012-01-29,,2236,0,841,29,0,22,892,0,0,7,7,899,1337,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,5,2012-01-30,2012-02-05,,1980,0,737,31,0,18,786,0,0,19,19,805,1175,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,6,2012-02-06,2012-02-12,,1957,0,651,12,0,17,680,0,0,7,7,687,1270,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,7,2012-02-13,2012-02-19,,1301,0,348,9,0,6,363,0,0,8,8,371,930,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,8,2012-02-20,2012-02-26,,1082,0,242,7,0,10,259,0,0,5,5,264,818,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,9,2012-02-27,2012-03-04,,822,0,130,5,0,6,141,0,0,9,9,150,672,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,10,2012-03-05,2012-03-11,,643,0,74,3,0,1,78,0,0,3,3,81,562,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,11,2012-03-12,2012-03-18,,431,0,28,6,0,2,36,0,0,0,0,36,395,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,12,2012-03-19,2012-03-25,,383,0,19,4,0,0,23,0,0,3,3,26,357,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,13,2012-03-26,2012-04-01,,282,0,9,3,0,0,12,0,0,1,1,13,269,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,14,2012-04-02,2012-04-08,,224,0,3,1,0,0,4,0,0,2,2,6,218,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,15,2012-04-09,2012-04-15,,240,0,4,0,0,0,4,0,0,1,1,5,235,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,16,2012-04-16,2012-04-22,,164,0,0,0,0,0,0,0,0,2,2,2,162,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,17,2012-04-23,2012-04-29,,179,0,0,0,0,0,0,0,0,5,5,5,174,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,18,2012-04-30,2012-05-06,,232,0,1,0,0,0,1,0,0,12,12,13,219,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,19,2012-05-07,2012-05-13,,181,0,0,0,0,0,0,0,0,8,8,8,173,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,20,2012-05-14,2012-05-20,,181,0,1,0,0,0,1,0,0,2,2,3,178,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,21,2012-05-21,2012-05-27,,155,0,0,0,0,1,1,0,0,3,3,4,151,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,22,2012-05-28,2012-06-03,,173,0,0,1,0,0,1,0,0,1,1,2,171,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,23,2012-06-04,2012-06-10,,185,0,1,0,0,0,1,0,0,6,6,7,178,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,24,2012-06-11,2012-06-17,,147,0,0,0,0,0,0,0,0,5,5,5,142,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,25,2012-06-18,2012-06-24,,145,0,0,0,0,0,0,0,0,2,2,2,143,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,26,2012-06-25,2012-07-01,,173,0,0,0,0,0,0,0,0,2,2,2,171,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,27,2012-07-02,2012-07-08,,132,0,2,0,0,1,3,0,0,1,1,4,128,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,28,2012-07-09,2012-07-15,,129,0,0,0,0,0,0,0,0,3,3,3,126,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,29,2012-07-16,2012-07-22,,102,0,0,0,0,1,1,0,0,1,1,2,100,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,30,2012-07-23,2012-07-29,,111,0,0,0,0,2,2,0,0,0,0,2,109,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,31,2012-07-30,2012-08-05,,109,0,1,0,0,1,2,0,0,3,3,5,104,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,32,2012-08-06,2012-08-12,,94,0,1,1,0,3,5,0,0,0,0,5,89,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,33,2012-08-13,2012-08-19,,99,0,2,2,0,0,4,0,0,0,0,4,95,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,34,2012-08-20,2012-08-26,,134,0,0,1,0,0,1,0,0,2,2,3,131,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,35,2012-08-27,2012-09-02,,166,0,0,1,0,1,2,0,0,5,5,7,159,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,36,2012-09-03,2012-09-09,,136,0,0,4,0,0,4,0,0,4,4,8,128,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,37,2012-09-10,2012-09-16,,181,0,0,1,0,0,1,0,0,9,9,10,171,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,38,2012-09-17,2012-09-23,,182,0,0,4,0,0,4,0,0,13,13,17,165,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,39,2012-09-24,2012-09-30,,186,0,0,4,0,0,4,0,0,12,12,16,170,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,40,2012-10-01,2012-10-07,,221,0,0,11,0,3,14,0,0,17,17,31,190,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,41,2012-10-08,2012-10-14,,223,0,0,4,0,2,6,0,0,26,26,32,191,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,42,2012-10-15,2012-10-21,,268,0,0,7,0,3,10,0,0,31,31,41,227,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,43,2012-10-22,2012-10-28,,330,0,0,15,0,9,24,0,0,49,49,73,257,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,44,2012-10-29,2012-11-04,,311,0,0,7,0,12,19,0,0,52,52,71,240,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,45,2012-11-05,2012-11-11,,347,0,0,14,0,5,19,0,0,76,76,95,252,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,46,2012-11-12,2012-11-18,,222,0,0,11,0,3,14,0,0,51,51,65,157,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,47,2012-11-19,2012-11-25,,178,0,0,20,0,5,25,0,0,30,30,55,123,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,48,2012-11-26,2012-12-02,,260,0,0,12,0,7,19,0,0,54,54,73,187,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,49,2012-12-03,2012-12-09,,403,0,0,28,0,6,34,0,0,90,90,124,279,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,50,2012-12-10,2012-12-16,,281,0,0,37,0,5,42,0,0,71,71,113,168,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,51,2012-12-17,2012-12-23,,188,0,0,21,0,4,25,0,0,39,39,64,124,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2012,52,2012-12-24,2012-12-30,,252,0,0,20,0,6,26,0,0,52,52,78,174,Local Outbreak
+
+

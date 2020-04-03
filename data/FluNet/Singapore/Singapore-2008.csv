@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,1,2007-01-01,2007-01-07,,160,1,,2,,0,3,,,3,3,6,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,2,2007-01-08,2007-01-14,,184,0,,2,,0,2,,,5,5,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,3,2007-01-15,2007-01-21,,237,0,,3,,0,3,,,6,6,9,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,4,2007-01-22,2007-01-28,,277,0,,2,,0,2,,,14,14,16,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,5,2007-01-29,2007-02-04,,305,0,,2,,0,2,,,11,11,13,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,6,2007-02-05,2007-02-11,,285,0,,2,,0,2,,,12,12,14,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,7,2007-02-12,2007-02-18,,248,0,,2,,0,2,,,5,5,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,8,2007-02-19,2007-02-25,,273,0,,3,,0,3,,,10,10,13,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,9,2007-02-26,2007-03-04,,300,0,,1,,0,1,,,8,8,9,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,10,2007-03-05,2007-03-11,,293,0,,1,,0,1,,,7,7,8,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,11,2007-03-12,2007-03-18,,265,0,,1,,0,1,,,5,5,6,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,12,2007-03-19,2007-03-25,,275,0,,2,,0,2,,,4,4,6,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,13,2007-03-26,2007-04-01,,263,0,,1,,0,1,,,8,8,9,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,14,2007-04-02,2007-04-08,,269,0,,0,,0,0,,,7,7,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,15,2007-04-09,2007-04-15,,278,1,,0,,0,1,,,7,7,8,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,16,2007-04-16,2007-04-22,,309,1,,1,,0,2,,,15,15,17,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,17,2007-04-23,2007-04-29,,297,2,,0,,0,2,,,7,7,9,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,18,2007-04-30,2007-05-06,,261,2,,1,,0,3,,,10,10,13,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,19,2007-05-07,2007-05-13,,308,3,,3,,1,7,,,7,7,14,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,20,2007-05-14,2007-05-20,,349,2,,2,,0,4,,,7,7,11,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,21,2007-05-21,2007-05-27,,337,1,,1,,0,2,,,10,10,12,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,22,2007-05-28,2007-06-03,,298,1,,0,,0,1,,,3,3,4,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,23,2007-06-04,2007-06-10,,293,0,,5,,0,5,,,3,3,8,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,24,2007-06-11,2007-06-17,,231,1,,2,,0,3,,,1,1,4,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,25,2007-06-18,2007-06-24,,264,0,,1,,0,1,,,6,6,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,26,2007-06-25,2007-07-01,,256,0,,3,,0,3,,,6,6,9,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,27,2007-07-02,2007-07-08,,225,0,,1,,0,1,,,5,5,6,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,28,2007-07-09,2007-07-15,,209,0,,1,,0,1,,,6,6,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,29,2007-07-16,2007-07-22,,185,0,,0,,0,0,,,4,4,4,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,30,2007-07-23,2007-07-29,,233,1,,1,,0,2,,,4,4,6,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,31,2007-07-30,2007-08-05,,230,0,,0,,0,0,,,3,3,3,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,32,2007-08-06,2007-08-12,,237,1,,0,,0,1,,,2,2,3,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,33,2007-08-13,2007-08-19,,227,0,,0,,0,0,,,4,4,4,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,34,2007-08-20,2007-08-26,,210,0,,0,,0,0,,,2,2,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,35,2007-08-27,2007-09-02,,225,1,,0,,0,1,,,1,1,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,36,2007-09-03,2007-09-09,,232,0,,0,,0,0,,,1,1,1,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,37,2007-09-10,2007-09-16,,234,0,,0,,0,0,,,7,7,7,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,38,2007-09-17,2007-09-23,,257,0,,0,,0,0,,,3,3,3,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,39,2007-09-24,2007-09-30,,259,0,,0,,0,0,,,2,2,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,40,2007-10-01,2007-10-07,,279,0,,0,,0,0,,,1,1,1,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,41,2007-10-08,2007-10-14,,250,0,,0,,0,0,,,3,3,3,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,42,2007-10-15,2007-10-21,,206,0,,0,,0,0,,,1,1,1,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,43,2007-10-22,2007-10-28,,230,0,,0,,0,0,,,0,0,0,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,44,2007-10-29,2007-11-04,,238,0,,1,,0,1,,,3,3,4,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,45,2007-11-05,2007-11-11,,273,0,,0,,0,0,,,5,5,5,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,46,2007-11-12,2007-11-18,,273,0,,2,,0,2,,,0,0,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,47,2007-11-19,2007-11-25,,276,0,,0,,0,0,,,2,2,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,48,2007-11-26,2007-12-02,,264,0,,0,,0,0,,,3,3,3,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,49,2007-12-03,2007-12-09,,255,0,,0,,0,0,,,1,1,1,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,50,2007-12-10,2007-12-16,,217,0,,0,,0,0,,,0,0,0,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,51,2007-12-17,2007-12-23,,230,0,,1,,0,1,,,1,1,2,,No Report
+
+Singapore,Western Pacific Region of WHO,South-East Asia,2007,52,2007-12-24,2007-12-30,,216,0,,0,,0,0,,,6,6,6,,No Report
+
+

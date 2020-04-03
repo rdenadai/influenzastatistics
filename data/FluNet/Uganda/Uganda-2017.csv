@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Uganda,African Region of WHO,Eastern Africa,2016,1,2016-01-04,2016-01-10,54,54,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,2,2016-01-11,2016-01-17,47,47,0,0,2,0,0,2,0,0,2,2,4,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,3,2016-01-18,2016-01-24,66,66,0,0,13,0,0,13,0,0,2,2,15,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,4,2016-01-25,2016-01-31,57,57,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,5,2016-02-01,2016-02-07,59,59,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,6,2016-02-08,2016-02-14,72,72,0,1,3,0,0,4,0,0,3,3,7,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,7,2016-02-15,2016-02-21,51,51,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,8,2016-02-22,2016-02-28,58,58,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,9,2016-02-29,2016-03-06,51,51,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Uganda,African Region of WHO,Eastern Africa,2016,10,2016-03-07,2016-03-13,57,57,0,,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,11,2016-03-14,2016-03-20,36,36,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Uganda,African Region of WHO,Eastern Africa,2016,12,2016-03-21,2016-03-27,61,61,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,13,2016-03-28,2016-04-03,33,21,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,14,2016-04-04,2016-04-10,76,76,0,0,1,0,0,1,0,0,6,6,7,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,15,2016-04-11,2016-04-17,66,66,0,0,2,0,0,2,0,0,8,8,10,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,16,2016-04-18,2016-04-24,62,62,0,0,2,0,0,2,0,0,14,14,16,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,17,2016-04-25,2016-05-01,68,68,0,0,4,0,0,4,0,0,7,7,11,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,18,2016-05-02,2016-05-08,79,79,0,0,5,0,0,5,0,0,18,18,23,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,19,2016-05-09,2016-05-15,82,81,0,0,2,0,0,2,0,0,16,16,18,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,20,2016-05-16,2016-05-22,44,44,0,0,1,0,0,1,0,0,2,2,3,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,21,2016-05-23,2016-05-29,63,60,0,0,0,0,0,0,0,0,8,8,8,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,22,2016-05-30,2016-06-05,53,52,0,0,1,0,0,1,0,0,10,10,11,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,23,2016-06-06,2016-06-12,45,45,0,0,1,0,0,1,0,0,9,9,10,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,24,2016-06-13,2016-06-19,107,106,0,0,4,0,0,4,0,0,6,6,10,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,25,2016-06-20,2016-06-26,102,94,0,0,3,0,8,11,0,0,11,11,22,,Sporadic
+
+Uganda,African Region of WHO,Eastern Africa,2016,26,2016-06-27,2016-07-03,107,107,0,0,5,0,0,5,,,14,14,19,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,27,2016-07-04,2016-07-10,91,91,0,0,6,0,0,6,,,14,14,20,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,28,2016-07-11,2016-07-17,120,120,0,0,8,0,0,8,,,19,19,27,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,29,2016-07-18,2016-07-24,73,70,0,0,7,0,3,10,,,12,12,22,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,30,2016-07-25,2016-07-31,114,93,0,0,17,0,21,38,,,22,22,60,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,31,2016-08-01,2016-08-07,129,102,0,0,28,0,34,62,,,17,17,79,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,32,2016-08-08,2016-08-14,121,87,0,0,19,0,34,53,,,10,10,63,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,33,2016-08-15,2016-08-21,74,57,0,0,8,0,17,25,,,9,9,34,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,34,2016-08-22,2016-08-28,81,38,0,0,14,0,43,57,,,6,6,63,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,35,2016-08-29,2016-09-04,68,36,0,0,7,0,32,39,,,2,2,41,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,36,2016-09-05,2016-09-11,83,30,0,0,1,0,53,54,,,1,1,55,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,37,2016-09-12,2016-09-18,45,20,0,0,0,0,25,25,,,0,0,25,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,38,2016-09-19,2016-09-25,52,28,0,0,0,0,24,24,,,1,1,25,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,39,2016-09-26,2016-10-02,41,26,0,0,0,0,15,15,,,2,2,17,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,40,2016-10-03,2016-10-09,29,29,0,0,1,0,0,1,,,1,1,2,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,41,2016-10-10,2016-10-16,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,42,2016-10-17,2016-10-23,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,43,2016-10-24,2016-10-30,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,44,2016-10-31,2016-11-06,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,45,2016-11-07,2016-11-13,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,46,2016-11-14,2016-11-20,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,47,2016-11-21,2016-11-27,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,48,2016-11-28,2016-12-04,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,49,2016-12-05,2016-12-11,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,50,2016-12-12,2016-12-18,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,51,2016-12-19,2016-12-25,,,,,,,,,,,,,,,No Report
+
+Uganda,African Region of WHO,Eastern Africa,2016,52,2016-12-26,2017-01-01,,,,,,,,,,,,,,,No Report
+
+

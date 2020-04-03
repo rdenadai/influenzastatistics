@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Estonia,European Region of WHO,Northern Europe,2009,1,2008-12-29,2009-01-04,,17,0,,0,,2,2,0,0,1,1,3,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,2,2009-01-05,2009-01-11,,51,0,,5,,7,12,0,0,1,1,13,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,3,2009-01-12,2009-01-18,,70,0,,1,,10,11,0,0,0,0,11,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,4,2009-01-19,2009-01-25,,120,0,,14,,20,34,0,0,3,3,37,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,5,2009-01-26,2009-02-01,,114,1,,14,,7,22,0,0,6,6,28,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,6,2009-02-02,2009-02-08,,133,0,,16,,21,37,0,0,9,9,46,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,7,2009-02-09,2009-02-15,,122,0,,15,,13,28,0,0,7,7,35,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,8,2009-02-16,2009-02-22,,136,1,,22,,13,36,0,0,15,15,51,,Widespread Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,9,2009-02-23,2009-03-01,,96,0,,10,,6,16,0,0,24,24,40,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,10,2009-03-02,2009-03-08,,167,0,,19,,14,33,0,0,47,47,80,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,11,2009-03-09,2009-03-15,,130,0,,5,,7,12,0,0,33,33,45,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,12,2009-03-16,2009-03-22,,103,0,,9,,4,13,0,0,26,26,39,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,13,2009-03-23,2009-03-29,,102,0,,6,,2,8,0,0,21,21,29,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,14,2009-03-30,2009-04-05,,84,1,,2,,3,6,0,0,13,13,19,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,15,2009-04-06,2009-04-12,,42,0,,0,,0,0,0,0,6,6,6,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,16,2009-04-13,2009-04-19,,55,0,,0,,2,2,0,0,11,11,13,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,17,2009-04-20,2009-04-26,,47,0,,0,,0,0,0,0,4,4,4,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,18,2009-04-27,2009-05-03,,24,0,,0,,0,0,0,0,0,0,0,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,19,2009-05-04,2009-05-10,,23,0,,0,,0,0,0,0,4,4,4,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,20,2009-05-11,2009-05-17,,30,0,,1,,0,1,0,0,3,3,4,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,21,2009-05-18,2009-05-24,,16,0,,0,,0,0,0,0,1,1,1,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,22,2009-05-25,2009-05-31,,24,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,23,2009-06-01,2009-06-07,,32,0,3,0,,1,4,0,0,0,0,4,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,24,2009-06-08,2009-06-14,,33,0,,0,,0,0,0,0,2,2,2,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,25,2009-06-15,2009-06-21,32,32,0,1,0,,0,1,,,0,0,1,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,26,2009-06-22,2009-06-28,45,45,,8,,,,8,,,0,0,8,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,27,2009-06-29,2009-07-05,24,24,,,,,,0,,,0,0,0,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,28,2009-07-06,2009-07-12,23,23,,2,,,,2,,,0,0,2,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,29,2009-07-13,2009-07-19,49,49,,7,,,,7,,,0,0,7,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,30,2009-07-20,2009-07-26,56,56,,12,,,,12,,,0,0,12,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,31,2009-07-27,2009-08-02,63,63,,6,,,,6,,,0,0,6,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,32,2009-08-03,2009-08-09,52,52,,10,,,,10,,,0,0,10,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,33,2009-08-10,2009-08-16,59,59,,6,,,,6,,,0,0,6,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,34,2009-08-17,2009-08-23,28,28,,1,,,,1,,,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,35,2009-08-24,2009-08-30,57,57,,4,,,,4,,,0,0,4,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,36,2009-08-31,2009-09-06,,10,0,3,0,,0,3,0,0,0,0,3,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,37,2009-09-07,2009-09-13,,23,0,2,0,,1,3,0,0,0,0,3,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,38,2009-09-14,2009-09-20,41,41,,2,,,,2,,,0,0,2,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,39,2009-09-21,2009-09-27,18,18,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,40,2009-09-28,2009-10-04,25,25,0,0,0,,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,41,2009-10-05,2009-10-11,12,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,42,2009-10-12,2009-10-18,14,14,0,0,0,,1,1,0,0,0,0,1,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,43,2009-10-19,2009-10-25,39,39,0,2,0,,2,4,0,0,0,0,4,,No Activity
+
+Estonia,European Region of WHO,Northern Europe,2009,44,2009-10-26,2009-11-01,59,59,0,16,0,,2,18,0,0,1,1,19,,Sporadic
+
+Estonia,European Region of WHO,Northern Europe,2009,45,2009-11-02,2009-11-08,166,166,0,63,0,,3,66,0,0,2,2,68,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,46,2009-11-09,2009-11-15,332,332,0,69,2,,2,73,0,0,11,11,84,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,47,2009-11-16,2009-11-22,254,254,0,72,,,12,84,0,0,3,3,87,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,48,2009-11-23,2009-11-29,336,336,0,92,,,17,109,0,0,2,2,111,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,49,2009-11-30,2009-12-06,396,396,0,127,,,17,144,0,0,0,0,144,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,50,2009-12-07,2009-12-13,332,332,0,80,0,0,16,96,0,0,1,1,97,,No Report
+
+Estonia,European Region of WHO,Northern Europe,2009,51,2009-12-14,2009-12-20,235,235,0,106,0,0,19,125,0,0,0,0,125,,Local Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,52,2009-12-21,2009-12-27,120,120,0,59,0,0,6,65,0,0,0,0,65,,Regional Outbreak
+
+Estonia,European Region of WHO,Northern Europe,2009,53,2009-12-28,2010-01-03,115,115,0,34,0,0,6,40,0,0,0,0,40,,Sporadic
+
+

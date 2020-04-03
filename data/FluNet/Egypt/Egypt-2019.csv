@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,1,2018-01-01,2018-01-07,259,259,,8,6,0,0,14,,,37,37,51,208,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,2,2018-01-08,2018-01-14,302,302,,21,12,0,2,35,,,53,53,88,214,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,3,2018-01-15,2018-01-21,387,387,,29,11,0,0,40,,,53,53,93,294,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,4,2018-01-22,2018-01-28,336,336,,22,11,0,0,33,,,58,58,91,245,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,5,2018-01-29,2018-02-04,307,307,,29,12,0,0,41,,,32,32,73,234,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,6,2018-02-05,2018-02-11,350,350,,40,7,0,0,47,0,0,48,48,95,255,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,7,2018-02-12,2018-02-18,303,303,,55,12,0,0,67,,,37,37,104,199,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,8,2018-02-19,2018-02-25,401,401,,71,14,0,0,85,,,28,28,113,288,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,9,2018-02-26,2018-03-04,392,392,,73,9,0,0,82,,,25,25,107,285,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,10,2018-03-05,2018-03-11,379,379,,81,15,0,0,96,,,31,31,127,252,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,11,2018-03-12,2018-03-18,340,340,,47,8,0,0,55,,,24,24,79,261,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,12,2018-03-19,2018-03-25,372,372,,79,15,0,0,94,0,0,18,18,112,260,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,13,2018-03-26,2018-04-01,292,292,,65,15,0,0,80,,,17,17,97,195,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,14,2018-04-02,2018-04-08,378,378,,76,10,0,0,86,,,23,23,109,269,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,15,2018-04-09,2018-04-15,244,244,,22,8,0,0,30,,,12,12,42,202,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,16,2018-04-16,2018-04-22,261,261,,17,11,0,0,28,,,8,8,36,225,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,17,2018-04-23,2018-04-29,229,229,,12,4,0,0,16,,,10,10,26,203,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,18,2018-04-30,2018-05-06,258,258,,6,10,,,16,,,5,5,21,237,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,19,2018-05-07,2018-05-13,295,295,,5,10,0,0,15,,,9,9,24,271,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,20,2018-05-14,2018-05-20,150,150,,1,0,0,0,1,,,3,3,4,146,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,21,2018-05-21,2018-05-27,164,164,,0,2,0,0,2,,,1,1,3,161,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,22,2018-05-28,2018-06-03,153,153,,2,3,0,0,5,,,1,1,6,147,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,23,2018-06-04,2018-06-10,122,122,,2,0,0,0,2,,,0,0,2,120,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,24,2018-06-11,2018-06-17,57,57,,0,1,0,0,1,,,0,0,1,56,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,25,2018-06-18,2018-06-24,290,290,,1,4,0,0,5,,,1,1,6,284,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,26,2018-06-25,2018-07-01,82,82,,0,1,0,0,1,,,1,1,2,80,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,27,2018-07-02,2018-07-08,152,152,,0,3,0,0,3,,,0,0,3,149,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,28,2018-07-09,2018-07-15,143,143,,0,3,0,,3,0,0,0,0,3,140,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,29,2018-07-16,2018-07-22,194,194,,0,2,0,0,2,0,0,3,3,5,189,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,30,2018-07-23,2018-07-29,184,184,,0,8,0,0,8,0,0,0,0,8,176,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,31,2018-07-30,2018-08-05,170,170,,0,3,0,0,3,0,0,0,0,3,167,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,32,2018-08-06,2018-08-12,132,132,,0,4,0,0,4,,,0,0,4,129,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,33,2018-08-13,2018-08-19,202,202,,0,8,0,0,8,,,0,0,8,197,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,34,2018-08-20,2018-08-26,69,69,,0,0,0,0,0,,,1,1,1,68,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,35,2018-08-27,2018-09-02,236,236,,0,5,0,0,5,,,2,2,7,310,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,36,2018-09-03,2018-09-09,228,228,,2,8,0,0,10,,,3,3,13,215,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,37,2018-09-10,2018-09-16,174,174,,1,10,0,0,11,,,0,0,11,151,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,38,2018-09-17,2018-09-23,197,197,,1,24,,,25,,,1,1,26,171,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,39,2018-09-24,2018-09-30,170,170,,1,10,0,0,11,,,0,0,11,159,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,40,2018-10-01,2018-10-07,81,81,,0,5,0,,5,,,1,1,6,75,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,41,2018-10-08,2018-10-14,290,290,,0,32,0,,32,0,0,0,0,32,258,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,42,2018-10-15,2018-10-21,130,130,,0,8,0,,8,0,0,0,0,8,122,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,43,2018-10-22,2018-10-28,256,256,,0,15,0,,15,0,0,4,4,19,237,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,44,2018-10-29,2018-11-04,148,148,,0,21,0,0,21,0,0,0,0,21,127,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,45,2018-11-05,2018-11-11,142,142,,2,20,0,0,22,0,0,0,0,22,120,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,46,2018-11-12,2018-11-18,379,379,,1,57,0,0,58,0,0,0,0,58,221,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,47,2018-11-19,2018-11-25,174,174,,0,28,0,0,28,0,0,0,0,28,146,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,48,2018-11-26,2018-12-02,149,149,,0,39,0,0,39,0,0,0,0,39,110,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,49,2018-12-03,2018-12-09,446,446,,1,93,0,0,94,0,0,1,1,95,351,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,50,2018-12-10,2018-12-16,193,193,,0,32,0,0,32,0,0,0,0,32,161,Sporadic
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,51,2018-12-17,2018-12-23,380,380,,4,66,0,0,70,,,1,1,71,309,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2018,52,2018-12-24,2018-12-30,196,196,,1,25,0,0,26,0,0,0,0,26,170,Sporadic
+
+

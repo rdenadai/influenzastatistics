@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+South Africa,African Region of WHO,Southern Africa,2016,1,2016-01-04,2016-01-10,55,55,0,0,0,0,0,0,0,0,0,0,0,55,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,2,2016-01-11,2016-01-17,83,83,0,0,1,0,0,1,0,0,0,0,1,82,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,3,2016-01-18,2016-01-24,92,92,0,0,1,0,0,1,0,0,0,0,1,91,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,4,2016-01-25,2016-01-31,102,102,0,0,0,0,0,0,0,0,1,1,1,101,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,5,2016-02-01,2016-02-07,96,96,0,0,0,0,0,0,0,0,0,0,0,96,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,6,2016-02-08,2016-02-14,120,120,0,0,0,0,0,0,0,0,1,1,1,119,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,7,2016-02-15,2016-02-21,117,117,0,1,0,0,0,1,0,0,0,0,1,116,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,8,2016-02-22,2016-02-28,151,151,0,0,0,0,0,0,0,0,3,3,3,148,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,9,2016-02-29,2016-03-06,113,113,0,0,0,0,0,0,0,0,3,3,3,110,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,10,2016-03-07,2016-03-13,147,147,0,1,0,0,0,1,0,0,2,2,3,144,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,11,2016-03-14,2016-03-20,130,130,0,0,0,0,0,0,0,0,0,0,0,130,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,12,2016-03-21,2016-03-27,73,73,0,1,0,0,0,1,0,0,3,3,4,69,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,13,2016-03-28,2016-04-03,56,56,0,1,0,0,0,1,0,0,1,1,2,54,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,14,2016-04-04,2016-04-10,165,165,0,0,0,0,0,0,0,0,2,2,2,163,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,15,2016-04-11,2016-04-17,177,177,0,0,0,0,0,0,0,0,3,3,3,174,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,16,2016-04-18,2016-04-24,166,166,0,0,0,0,0,0,0,0,2,2,2,164,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,17,2016-04-25,2016-05-01,108,108,0,0,0,0,0,0,0,0,2,2,2,106,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,18,2016-05-02,2016-05-08,137,137,0,0,0,0,0,0,0,0,6,6,6,131,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,19,2016-05-09,2016-05-15,192,192,0,3,1,0,0,4,0,0,14,14,18,174,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,20,2016-05-16,2016-05-22,237,237,0,0,1,0,0,1,2,19,7,28,29,208,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,21,2016-05-23,2016-05-29,213,213,0,1,2,0,0,3,2,24,2,28,31,182,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,22,2016-05-30,2016-06-05,234,234,0,0,3,0,0,3,1,31,3,35,38,196,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,23,2016-06-06,2016-06-12,278,278,0,2,5,0,0,7,1,35,6,42,49,229,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,24,2016-06-13,2016-06-19,201,201,0,1,9,0,0,10,1,22,15,38,48,153,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,25,2016-06-20,2016-06-26,224,224,0,2,5,0,0,7,0,19,22,41,48,176,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,26,2016-06-27,2016-07-03,242,242,0,4,13,0,1,18,1,18,17,36,54,189,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,27,2016-07-04,2016-07-10,223,223,0,1,12,0,0,13,5,21,4,30,43,180,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,28,2016-07-11,2016-07-17,240,240,0,5,18,0,0,23,1,7,20,28,51,189,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,29,2016-07-18,2016-07-24,188,188,0,7,32,0,0,39,0,10,4,14,53,135,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,30,2016-07-25,2016-07-31,191,191,0,13,18,0,0,31,0,7,9,16,47,144,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,31,2016-08-01,2016-08-07,94,94,0,8,16,0,0,24,0,0,9,9,33,62,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,32,2016-08-08,2016-08-14,201,201,0,23,27,0,1,51,0,0,14,14,65,137,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,33,2016-08-15,2016-08-21,230,230,0,22,32,0,0,54,0,0,12,12,66,164,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,34,2016-08-22,2016-08-28,202,202,0,22,16,0,0,38,0,0,8,8,46,156,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,35,2016-08-29,2016-09-04,218,218,0,42,23,0,0,65,0,8,7,15,80,138,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,36,2016-09-05,2016-09-11,198,198,0,32,18,0,0,50,0,0,2,2,52,146,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,37,2016-09-12,2016-09-18,201,201,0,22,17,0,0,39,0,0,10,10,49,152,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,38,2016-09-19,2016-09-25,132,132,0,15,5,0,0,20,0,0,1,1,21,111,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,39,2016-09-26,2016-10-02,109,109,0,8,2,0,0,10,0,0,0,0,10,99,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,40,2016-10-03,2016-10-09,111,111,0,3,0,0,0,3,0,0,1,1,4,107,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,41,2016-10-10,2016-10-16,130,130,0,3,1,0,0,4,0,0,0,0,4,126,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,42,2016-10-17,2016-10-23,108,108,0,1,1,0,0,2,0,0,0,0,2,106,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,43,2016-10-24,2016-10-30,104,104,0,3,0,0,0,3,0,0,0,0,3,101,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,44,2016-10-31,2016-11-06,98,98,0,0,0,0,0,0,0,0,0,0,0,98,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,45,2016-11-07,2016-11-13,114,114,,1,0,0,0,1,0,0,1,1,2,112,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,46,2016-11-14,2016-11-20,104,104,,0,0,0,0,0,0,0,0,0,0,104,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,47,2016-11-21,2016-11-27,91,91,,0,0,0,0,0,0,0,0,0,0,91,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,48,2016-11-28,2016-12-04,42,42,,0,0,0,0,0,0,0,1,1,1,41,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,49,2016-12-05,2016-12-11,44,44,,0,0,0,0,0,0,0,0,0,0,44,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,50,2016-12-12,2016-12-18,62,62,,0,0,0,0,0,0,0,0,0,0,62,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,51,2016-12-19,2016-12-25,44,44,,0,0,0,0,0,0,0,0,0,0,,No Report
+
+South Africa,African Region of WHO,Southern Africa,2016,52,2016-12-26,2017-01-01,,,,,,,,,,,,,,,No Report
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,1,2016-01-04,2016-01-10,31,280,,11,16,,,27,,,0,0,27,253,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,2,2016-01-11,2016-01-17,19,242,,14,3,,,17,,,2,2,19,223,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,3,2016-01-18,2016-01-24,7,219,,6,5,,,11,,,1,1,12,207,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,4,2016-01-25,2016-01-31,15,214,,14,2,,,16,,,1,1,17,197,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,5,2016-02-01,2016-02-07,9,235,,17,4,,,21,,,2,2,23,212,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,6,2016-02-08,2016-02-14,22,252,,20,2,,,22,,,8,8,30,222,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,7,2016-02-15,2016-02-21,11,240,,13,3,,,16,,,3,3,19,221,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,8,2016-02-22,2016-02-28,16,277,,18,6,,,24,,,3,3,27,250,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,9,2016-02-29,2016-03-06,9,302,,21,,,,21,,,8,8,29,273,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,10,2016-03-07,2016-03-13,20,284,,18,4,,,22,,,4,4,26,258,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,11,2016-03-14,2016-03-20,18,289,,12,4,,,16,,,6,6,22,267,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,12,2016-03-21,2016-03-27,25,269,,10,11,,,21,,,7,7,28,241,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,13,2016-03-28,2016-04-03,35,281,,4,3,,,7,,,5,5,12,269,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,14,2016-04-04,2016-04-10,18,304,,12,2,,,14,,,6,6,20,284,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,15,2016-04-11,2016-04-17,24,339,,11,4,,,15,,,8,8,23,316,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,16,2016-04-18,2016-04-24,35,331,,4,4,,,8,,,4,4,12,319,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,17,2016-04-25,2016-05-01,22,317,,3,3,,,6,,,5,5,11,306,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,18,2016-05-02,2016-05-08,36,386,,5,9,,,14,,,5,5,19,367,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,19,2016-05-09,2016-05-15,47,420,,11,8,,,19,,,12,12,31,389,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,20,2016-05-16,2016-05-22,40,449,,18,12,,,30,,,14,14,44,405,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,21,2016-05-23,2016-05-29,474,893,,14,7,0,5,26,0,0,7,7,33,860,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,22,2016-05-30,2016-06-05,426,852,,18,6,0,11,35,0,0,12,12,47,805,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,23,2016-06-06,2016-06-12,427,794,,13,9,0,17,39,0,0,9,9,48,746,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,24,2016-06-13,2016-06-19,415,852,,26,10,0,16,52,0,0,12,12,64,788,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,25,2016-06-20,2016-06-26,490,974,,17,19,0,27,63,0,0,14,14,77,897,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,26,2016-06-27,2016-07-03,545,1066,,26,22,0,44,92,0,0,24,24,116,950,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,27,2016-07-04,2016-07-10,620,1184,,25,22,0,52,99,0,0,33,33,132,1052,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,28,2016-07-11,2016-07-17,683,1251,,21,41,0,59,121,0,0,55,55,176,1078,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,29,2016-07-18,2016-07-24,755,1355,,37,94,0,108,239,0,0,41,41,280,1069,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,30,2016-07-25,2016-07-31,721,1375,,17,131,0,95,243,0,0,54,54,297,1075,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,31,2016-08-01,2016-08-07,822,1586,,24,188,0,72,284,0,0,67,67,351,1232,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,32,2016-08-08,2016-08-14,839,1660,,17,221,0,104,342,0,0,91,91,433,1227,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,33,2016-08-15,2016-08-21,1096,2025,,17,242,0,229,488,0,0,81,81,569,1495,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,34,2016-08-22,2016-08-28,1138,1921,,14,236,0,229,479,0,0,75,75,554,1367,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,35,2016-08-29,2016-09-04,1338,2183,,11,293,0,237,541,0,0,70,70,611,1569,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,36,2016-09-05,2016-09-11,1329,2189,,10,291,0,238,539,0,0,63,63,602,1586,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,37,2016-09-12,2016-09-18,1055,1837,,11,216,0,145,372,0,0,61,61,433,1404,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,38,2016-09-19,2016-09-25,1043,1788,,7,196,0,114,317,0,0,62,62,379,1408,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,39,2016-09-26,2016-10-02,925,1528,,7,146,0,83,236,0,0,37,37,273,1254,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,40,2016-10-03,2016-10-09,871,1476,,6,118,0,61,185,0,0,41,41,226,1250,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,41,2016-10-10,2016-10-16,762,1318,,5,94,0,29,128,0,0,27,27,155,1162,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,42,2016-10-17,2016-10-23,697,1099,,0,43,0,22,65,0,0,17,17,82,1017,Local Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,43,2016-10-24,2016-10-30,660,1015,,1,26,0,19,46,0,0,15,15,61,954,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,44,2016-10-31,2016-11-06,545,937,,0,32,0,16,48,0,0,12,12,60,877,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,45,2016-11-07,2016-11-13,554,882,,0,12,0,8,20,0,0,14,14,34,848,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,46,2016-11-14,2016-11-20,478,748,,0,13,0,9,22,0,0,4,4,26,724,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,47,2016-11-21,2016-11-27,415,666,,0,15,0,12,27,0,0,5,5,32,637,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,48,2016-11-28,2016-12-04,394,627,,1,8,0,3,12,0,0,8,8,20,613,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,49,2016-12-05,2016-12-11,358,601,,0,6,0,7,13,0,0,6,6,19,582,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,50,2016-12-12,2016-12-18,362,578,,1,10,0,6,17,0,0,4,4,21,557,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,51,2016-12-19,2016-12-25,316,552,,0,18,0,2,20,0,0,10,10,30,522,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2016,52,2016-12-26,2017-01-01,309,442,,0,3,0,6,9,0,0,4,4,13,429,Sporadic
+
+

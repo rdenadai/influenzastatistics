@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Norway,European Region of WHO,Northern Europe,2012,1,2012-01-02,2012-01-08,,1172,0,1,51,,57,109,0,0,1,1,110,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,2,2012-01-09,2012-01-15,,1432,0,1,53,,54,108,0,1,0,1,109,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,3,2012-01-16,2012-01-22,,1230,0,6,50,,79,135,0,1,0,1,136,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,4,2012-01-23,2012-01-29,,1402,0,5,46,,133,184,0,0,7,7,191,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,5,2012-01-30,2012-02-05,,1627,0,3,66,,253,322,0,0,8,8,330,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,6,2012-02-06,2012-02-12,,1789,0,2,57,,389,448,0,0,0,0,448,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,7,2012-02-13,2012-02-19,,2024,0,4,62,,511,577,3,3,2,8,585,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,8,2012-02-20,2012-02-26,,2275,0,5,57,,713,775,2,0,13,15,790,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,9,2012-02-27,2012-03-04,,2334,0,4,52,,673,729,0,0,6,6,735,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,10,2012-03-05,2012-03-11,,1714,0,4,46,,465,515,0,1,4,5,520,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,11,2012-03-12,2012-03-18,,2045,0,1,36,,464,501,3,0,9,12,513,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,12,2012-03-19,2012-03-25,,1891,0,3,33,,354,390,3,1,12,16,406,,Widespread Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,13,2012-03-26,2012-04-01,,1435,0,4,28,,255,287,3,0,16,19,306,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,14,2012-04-02,2012-04-08,,914,0,3,11,,127,141,1,1,5,7,148,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,15,2012-04-09,2012-04-15,,979,0,3,19,,100,122,1,1,5,7,129,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,16,2012-04-16,2012-04-22,,874,0,0,22,,43,65,0,0,10,10,75,,Local Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,17,2012-04-23,2012-04-29,,858,0,0,13,,35,48,4,0,1,5,53,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,18,2012-04-30,2012-05-06,,760,0,0,7,,34,41,0,0,12,12,53,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,19,2012-05-07,2012-05-13,,802,0,0,1,,18,19,2,1,3,6,25,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,20,2012-05-14,2012-05-20,,632,0,0,2,,12,14,0,0,12,12,26,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,21,2012-05-21,2012-05-27,,309,0,0,0,,2,2,0,0,3,3,5,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,22,2012-05-28,2012-06-03,,306,0,0,0,,3,3,0,0,4,4,7,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,23,2012-06-04,2012-06-10,,191,0,0,1,,0,1,0,0,2,2,3,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,24,2012-06-11,2012-06-17,,34,0,0,2,,0,2,0,1,0,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,25,2012-06-18,2012-06-24,,111,0,0,1,,1,2,1,0,0,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,26,2012-06-25,2012-07-01,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,27,2012-07-02,2012-07-08,,1,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,28,2012-07-09,2012-07-15,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,29,2012-07-16,2012-07-22,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,30,2012-07-23,2012-07-29,,2,0,0,1,,0,1,0,0,0,0,1,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,31,2012-07-30,2012-08-05,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,32,2012-08-06,2012-08-12,,2,0,0,1,,0,1,0,0,0,0,1,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,33,2012-08-13,2012-08-19,,69,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,34,2012-08-20,2012-08-26,,41,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,35,2012-08-27,2012-09-02,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,36,2012-09-03,2012-09-09,,2,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,37,2012-09-10,2012-09-16,,1,0,0,0,,0,0,1,0,0,1,1,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,38,2012-09-17,2012-09-23,,3,0,0,1,,0,1,2,0,0,2,3,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,39,2012-09-24,2012-09-30,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Norway,European Region of WHO,Northern Europe,2012,40,2012-10-01,2012-10-07,,421,0,1,1,,1,3,0,0,0,0,3,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,41,2012-10-08,2012-10-14,,615,0,0,1,,2,3,3,1,0,4,7,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,42,2012-10-15,2012-10-21,,663,0,2,5,,3,10,0,0,2,2,12,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,43,2012-10-22,2012-10-28,,747,0,6,8,,1,15,1,0,3,4,19,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,44,2012-10-29,2012-11-04,,885,0,10,3,,9,22,6,0,1,7,29,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,45,2012-11-05,2012-11-11,,995,0,13,4,,5,22,12,0,6,18,40,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,46,2012-11-12,2012-11-18,,1010,0,10,2,,7,19,11,0,12,23,42,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,47,2012-11-19,2012-11-25,,1144,0,8,6,,5,19,19,0,15,34,53,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,48,2012-11-26,2012-12-02,,1106,0,14,6,,13,33,13,1,13,27,60,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,49,2012-12-03,2012-12-09,,1174,0,26,15,,10,51,18,3,15,36,87,,Sporadic
+
+Norway,European Region of WHO,Northern Europe,2012,50,2012-12-10,2012-12-16,,1583,0,69,16,,89,174,32,0,56,88,262,,Regional Outbreak
+
+Norway,European Region of WHO,Northern Europe,2012,51,2012-12-17,2012-12-23,,1724,0,97,11,,246,354,24,0,91,115,469,,No Report
+
+Norway,European Region of WHO,Northern Europe,2012,52,2012-12-24,2012-12-30,,1460,0,121,14,,191,326,17,1,76,94,420,,Widespread Outbreak
+
+

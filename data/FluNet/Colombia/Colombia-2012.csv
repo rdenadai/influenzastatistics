@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,1,2011-01-03,2011-01-09,,163,0,5,12,0,0,17,0,0,0,0,17,146,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,2,2011-01-10,2011-01-16,,188,0,4,4,0,0,8,0,0,0,0,8,180,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,3,2011-01-17,2011-01-23,,201,0,0,6,0,0,6,0,0,0,0,6,195,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,4,2011-01-24,2011-01-30,,192,0,2,4,0,0,6,0,0,2,2,8,184,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,5,2011-01-31,2011-02-06,,180,0,3,4,0,0,7,0,0,0,0,7,173,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,6,2011-02-07,2011-02-13,,201,0,1,2,0,0,3,0,0,0,0,3,198,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,7,2011-02-14,2011-02-20,,200,0,0,1,0,0,1,0,0,2,2,3,197,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,8,2011-02-21,2011-02-27,,241,0,3,1,0,0,4,0,0,0,0,4,237,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,9,2011-02-28,2011-03-06,,308,0,1,2,0,0,3,0,0,0,0,3,305,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,10,2011-03-07,2011-03-13,,308,0,2,4,0,0,6,0,0,1,1,7,301,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,11,2011-03-14,2011-03-20,,263,0,1,2,0,0,3,0,0,0,0,3,260,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,12,2011-03-21,2011-03-27,,246,0,2,1,0,0,3,0,0,0,0,3,243,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,13,2011-03-28,2011-04-03,,244,0,1,2,0,0,3,0,0,1,1,4,240,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,14,2011-04-04,2011-04-10,,255,0,4,2,,0,6,,,1,1,7,248,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,15,2011-04-11,2011-04-17,,263,0,2,13,,0,15,,,0,0,15,248,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,16,2011-04-18,2011-04-24,,250,0,3,5,,0,8,,,0,0,8,242,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,17,2011-04-25,2011-05-01,,255,0,6,4,,0,10,,,0,0,10,245,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,18,2011-05-02,2011-05-08,,240,0,3,8,,0,11,,,0,0,11,229,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,19,2011-05-09,2011-05-15,,247,0,15,5,,0,20,,,0,0,20,227,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,20,2011-05-16,2011-05-22,,299,0,14,13,,0,27,,,0,0,27,272,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,21,2011-05-23,2011-05-29,,292,0,26,9,,0,35,,,0,0,35,257,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,22,2011-05-30,2011-06-05,,265,0,17,7,,0,24,,,0,0,24,241,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,23,2011-06-06,2011-06-12,,301,0,18,12,,0,30,,,0,0,30,271,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,24,2011-06-13,2011-06-19,,290,0,23,10,,0,33,,,0,0,33,257,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,25,2011-06-20,2011-06-26,,283,0,13,7,,0,20,,,0,0,20,263,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,26,2011-06-27,2011-07-03,,253,0,16,6,,0,22,,,0,0,22,231,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,27,2011-07-04,2011-07-10,,259,0,14,5,,0,19,,,0,0,19,240,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,28,2011-07-11,2011-07-17,,236,0,25,4,,0,29,,,0,0,29,207,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,29,2011-07-18,2011-07-24,,188,0,24,10,,0,34,,,0,0,34,154,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,30,2011-07-25,2011-07-31,,178,0,12,5,,0,17,,,0,0,17,161,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,31,2011-08-01,2011-08-07,,263,0,8,7,,0,15,,,0,0,15,248,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,32,2011-08-08,2011-08-14,,266,0,14,0,,0,14,,,0,0,14,252,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,33,2011-08-15,2011-08-21,,228,0,3,5,,0,8,,,0,0,8,220,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,34,2011-08-22,2011-08-28,,186,0,5,4,,0,9,,,0,0,9,177,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,35,2011-08-29,2011-09-04,,223,0,12,7,,0,19,,,0,0,19,204,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,36,2011-09-05,2011-09-11,,144,0,2,1,,0,3,,,0,0,3,141,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,37,2011-09-12,2011-09-18,,101,0,1,2,,0,3,,,0,0,3,98,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,38,2011-09-19,2011-09-25,,102,0,1,4,,0,5,,,0,0,5,97,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,39,2011-09-26,2011-10-02,,120,0,2,1,,0,3,,,0,0,3,117,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,40,2011-10-03,2011-10-09,,104,0,1,1,,0,2,,,0,0,2,102,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,41,2011-10-10,2011-10-16,,113,0,5,3,,0,8,,,0,0,8,105,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,42,2011-10-17,2011-10-23,,122,0,5,3,,0,8,,,0,0,8,114,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,43,2011-10-24,2011-10-30,,119,0,0,5,,0,5,,,0,0,5,114,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,44,2011-10-31,2011-11-06,,126,0,3,2,,0,5,,,0,0,5,121,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,45,2011-11-07,2011-11-13,,107,0,2,3,,0,5,,,0,0,5,102,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,46,2011-11-14,2011-11-20,,109,0,6,1,,0,7,,,0,0,7,102,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,47,2011-11-21,2011-11-27,,90,0,5,1,,0,6,,,0,0,6,84,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,48,2011-11-28,2011-12-04,,111,0,5,1,,0,6,,,0,0,6,105,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,49,2011-12-05,2011-12-11,,63,0,5,2,,0,7,,,0,0,7,56,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,50,2011-12-12,2011-12-18,,86,0,6,5,,0,11,,,0,0,11,75,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,51,2011-12-19,2011-12-25,,110,0,12,3,,0,15,,,0,0,15,95,No Report
+
+Colombia,Region of the Americas of WHO,Tropical South America,2011,52,2011-12-26,2012-01-01,,77,0,15,1,,0,16,,,0,0,16,61,No Report
+
+

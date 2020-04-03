@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,1,2013-12-30,2014-01-05,435,435,0,7,0,0,60,67,0,0,24,24,91,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,2,2014-01-06,2014-01-12,414,414,0,20,0,0,51,71,0,0,30,30,101,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,3,2014-01-13,2014-01-19,358,358,0,22,0,0,24,46,0,0,22,22,68,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,4,2014-01-20,2014-01-26,525,525,0,32,0,0,65,97,0,0,29,29,126,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,5,2014-01-27,2014-02-02,498,498,0,48,0,0,53,101,0,0,21,21,122,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,6,2014-02-03,2014-02-09,377,377,0,59,0,0,41,100,0,0,30,30,130,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,7,2014-02-10,2014-02-16,517,517,0,67,0,0,29,96,0,0,21,21,117,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,8,2014-02-17,2014-02-23,522,522,0,77,0,0,36,113,0,0,17,17,130,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,9,2014-02-24,2014-03-02,442,442,0,58,0,0,45,103,0,0,24,24,127,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,10,2014-03-03,2014-03-09,442,442,0,59,0,0,19,78,0,0,32,32,110,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,11,2014-03-10,2014-03-16,381,381,0,68,0,0,7,75,0,0,9,9,84,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,12,2014-03-17,2014-03-23,464,464,0,88,0,0,24,112,0,0,19,19,131,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,13,2014-03-24,2014-03-30,420,420,0,54,0,0,17,71,0,0,11,11,82,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,14,2014-03-31,2014-04-06,267,267,0,59,0,0,12,71,0,0,14,14,85,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,15,2014-04-07,2014-04-13,411,411,0,55,0,0,12,67,0,0,7,7,74,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,16,2014-04-14,2014-04-20,409,409,0,87,0,0,13,100,0,0,15,15,115,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,17,2014-04-21,2014-04-27,590,590,0,83,0,0,10,93,0,0,28,28,121,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,18,2014-04-28,2014-05-04,506,506,0,93,0,0,18,111,0,0,16,16,127,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,19,2014-05-05,2014-05-11,500,500,0,69,0,0,24,93,0,0,15,15,108,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,20,2014-05-12,2014-05-18,431,431,0,38,0,0,12,50,0,0,16,16,66,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,21,2014-05-19,2014-05-25,360,360,0,25,0,0,6,31,0,0,15,15,46,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,22,2014-05-26,2014-06-01,319,319,0,25,0,0,3,28,0,0,13,13,41,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,23,2014-06-02,2014-06-08,270,270,0,29,0,0,9,38,0,0,11,11,49,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,24,2014-06-09,2014-06-15,267,267,0,36,0,0,14,50,0,0,4,4,54,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,25,2014-06-16,2014-06-22,227,227,0,32,0,0,13,45,0,0,1,1,46,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,26,2014-06-23,2014-06-29,260,260,0,11,0,0,12,23,0,0,9,9,32,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,27,2014-06-30,2014-07-06,151,151,0,7,0,0,13,20,0,0,1,1,21,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,28,2014-07-07,2014-07-13,202,202,0,10,0,0,6,16,0,0,16,16,32,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,29,2014-07-14,2014-07-20,181,181,0,1,0,0,11,12,0,0,5,5,17,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,30,2014-07-21,2014-07-27,145,145,0,9,0,0,7,16,0,0,2,2,18,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,31,2014-07-28,2014-08-03,176,176,0,2,0,0,12,14,0,0,4,4,18,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,32,2014-08-04,2014-08-10,144,144,0,3,0,0,4,7,0,0,4,4,11,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,33,2014-08-11,2014-08-17,121,121,0,0,0,0,6,6,0,0,0,0,6,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,34,2014-08-18,2014-08-24,114,114,0,0,0,0,1,1,0,0,0,0,1,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,35,2014-08-25,2014-08-31,140,140,0,1,0,0,9,10,0,0,1,1,11,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,36,2014-09-01,2014-09-07,132,132,0,0,0,0,21,21,0,0,1,1,22,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,37,2014-09-08,2014-09-14,166,166,0,2,0,0,21,23,0,0,4,4,27,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,38,2014-09-15,2014-09-21,181,181,0,0,0,0,13,13,0,0,3,3,16,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,39,2014-09-22,2014-09-28,201,201,0,1,0,0,12,13,0,0,6,6,19,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,40,2014-09-29,2014-10-05,166,166,0,0,0,0,14,14,0,0,3,3,17,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,41,2014-10-06,2014-10-12,168,168,0,0,0,0,9,9,0,0,5,5,14,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,42,2014-10-13,2014-10-19,235,235,0,3,0,0,17,20,0,0,7,7,27,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,43,2014-10-20,2014-10-26,294,294,0,4,0,0,18,22,0,0,11,11,33,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,44,2014-10-27,2014-11-02,225,225,0,12,0,0,29,41,0,0,8,8,49,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,45,2014-11-03,2014-11-09,295,295,0,8,0,0,21,29,0,0,4,4,33,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,46,2014-11-10,2014-11-16,234,234,0,8,0,0,18,26,0,0,7,7,33,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,47,2014-11-17,2014-11-23,225,225,0,7,0,0,29,36,0,0,4,4,40,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,48,2014-11-24,2014-11-30,303,303,0,12,0,0,41,53,0,0,5,5,58,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,49,2014-12-01,2014-12-07,286,286,0,11,0,0,28,39,0,0,5,5,44,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,50,2014-12-08,2014-12-14,262,262,0,26,0,0,24,50,0,0,8,8,58,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,51,2014-12-15,2014-12-21,338,338,0,33,0,0,44,77,0,0,10,10,87,,Sporadic
+
+Qatar,Eastern Mediterranean Region of WHO,Western Asia,2014,52,2014-12-22,2014-12-28,380,380,0,50,0,0,42,92,0,0,5,5,97,,No Report
+
+

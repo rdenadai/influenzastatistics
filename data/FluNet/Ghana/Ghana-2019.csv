@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ghana,African Region of WHO,Western Africa,2018,1,2018-01-01,2018-01-07,,,,,,,,0,,,0,0,0,,No Activity
+
+Ghana,African Region of WHO,Western Africa,2018,2,2018-01-08,2018-01-14,154,154,,15,0,0,0,15,11,0,0,11,26,128,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,3,2018-01-15,2018-01-21,121,121,,20,0,0,0,20,7,2,0,9,29,92,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,4,2018-01-22,2018-01-28,136,136,,17,0,0,0,17,10,0,0,10,27,109,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,5,2018-01-29,2018-02-04,97,97,,9,0,0,0,9,10,1,0,11,20,77,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,6,2018-02-05,2018-02-11,117,117,,17,0,0,0,17,6,0,,6,23,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,7,2018-02-12,2018-02-18,121,121,,16,0,0,0,16,11,0,0,11,27,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,8,2018-02-19,2018-02-25,113,113,,7,0,0,0,7,12,0,0,12,19,94,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,9,2018-02-26,2018-03-04,108,108,,14,0,0,0,14,13,0,0,13,27,81,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,10,2018-03-05,2018-03-11,94,94,,5,0,0,0,5,12,0,0,12,17,77,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,11,2018-03-12,2018-03-18,142,142,,8,2,0,0,10,11,0,0,11,21,121,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,12,2018-03-19,2018-03-25,111,111,,13,0,0,0,13,7,0,0,7,20,91,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,13,2018-03-26,2018-04-01,47,47,,10,0,0,0,10,1,0,0,1,11,36,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,14,2018-04-02,2018-04-08,137,137,,9,0,0,0,9,9,0,0,9,18,119,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,15,2018-04-09,2018-04-15,93,93,,3,0,0,0,3,4,0,0,4,7,86,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,16,2018-04-16,2018-04-22,97,97,,5,0,0,0,5,8,0,0,8,13,84,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,17,2018-04-23,2018-04-29,87,87,,2,0,0,0,2,4,0,0,4,6,81,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,18,2018-04-30,2018-05-06,116,116,,2,0,0,0,2,10,0,0,10,12,104,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,19,2018-05-07,2018-05-13,80,80,,3,1,0,0,4,3,0,0,3,7,73,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,20,2018-05-14,2018-05-20,115,115,,1,0,0,0,1,6,0,0,6,7,108,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,21,2018-05-21,2018-05-27,64,64,,3,0,0,0,3,0,0,0,0,3,61,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,22,2018-05-28,2018-06-03,69,69,,3,0,0,0,3,2,1,0,3,6,63,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,23,2018-06-04,2018-06-10,116,116,,11,0,0,0,11,1,0,0,1,12,104,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,24,2018-06-11,2018-06-17,87,87,,5,0,0,0,5,3,0,0,3,8,79,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,25,2018-06-18,2018-06-24,92,92,,4,0,0,0,4,1,0,0,1,5,87,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,26,2018-06-25,2018-07-01,86,86,,5,0,0,0,5,1,0,0,1,6,80,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,27,2018-07-02,2018-07-08,112,112,,3,0,0,0,3,1,0,0,1,4,108,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,28,2018-07-09,2018-07-15,116,116,,15,0,0,0,15,1,0,0,1,16,100,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,29,2018-07-16,2018-07-22,88,88,,10,0,0,0,10,4,0,0,4,14,74,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,30,2018-07-23,2018-07-29,116,116,,11,0,0,0,11,2,0,0,2,13,103,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,31,2018-07-30,2018-08-05,91,91,,8,0,0,0,8,3,0,0,3,11,80,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,32,2018-08-06,2018-08-12,98,98,,3,0,0,0,3,1,1,0,2,5,93,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,33,2018-08-13,2018-08-19,122,122,,4,0,0,0,4,1,3,0,4,8,114,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,34,2018-08-20,2018-08-26,66,66,,2,0,0,0,2,1,4,0,5,7,59,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,35,2018-08-27,2018-09-02,69,69,,1,0,0,0,1,1,0,0,1,2,67,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,36,2018-09-03,2018-09-09,42,42,,0,0,0,0,0,0,4,0,4,4,38,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,37,2018-09-10,2018-09-16,91,91,,1,0,0,0,1,2,0,0,2,3,88,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,38,2018-09-17,2018-09-23,60,60,,4,2,,1,7,1,4,0,5,12,48,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,39,2018-09-24,2018-09-30,146,146,,15,0,0,0,15,2,13,0,15,30,116,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,40,2018-10-01,2018-10-07,115,115,,5,6,0,4,15,4,15,0,19,34,81,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,41,2018-10-08,2018-10-14,99,99,,10,8,0,0,18,0,10,0,10,28,71,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,42,2018-10-15,2018-10-21,105,105,,1,11,0,0,12,1,8,0,9,21,84,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,43,2018-10-22,2018-10-28,113,113,,10,4,0,0,14,2,11,0,13,27,86,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,44,2018-10-29,2018-11-04,118,118,,11,6,0,0,17,0,16,0,16,33,85,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,45,2018-11-05,2018-11-11,84,84,,14,8,0,1,23,1,4,0,5,28,56,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,46,2018-11-12,2018-11-18,69,69,,5,1,0,0,6,0,9,0,9,15,54,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,47,2018-11-19,2018-11-25,94,94,,4,6,0,0,10,0,5,0,5,15,79,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,48,2018-11-26,2018-12-02,97,97,,1,5,0,0,6,1,9,0,10,16,81,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,49,2018-12-03,2018-12-09,70,70,,1,5,0,0,6,0,1,0,1,7,63,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,50,2018-12-10,2018-12-16,81,81,,0,2,0,0,2,0,4,1,5,7,74,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,51,2018-12-17,2018-12-23,95,95,,0,1,0,0,1,0,1,0,1,2,93,Sporadic
+
+Ghana,African Region of WHO,Western Africa,2018,52,2018-12-24,2018-12-30,33,33,,0,3,0,0,3,0,0,0,0,3,30,Sporadic
+
+

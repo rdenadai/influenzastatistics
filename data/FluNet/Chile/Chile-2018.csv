@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,1,2017-01-02,2017-01-08,,355,0,0,8,,0,8,1,0,0,1,9,346,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,2,2017-01-09,2017-01-15,,484,0,0,12,,2,14,1,1,0,2,16,468,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,3,2017-01-16,2017-01-22,,393,0,0,5,,0,5,1,0,0,1,6,387,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,4,2017-01-23,2017-01-29,,341,0,0,5,,0,5,2,0,0,2,7,334,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,5,2017-01-30,2017-02-05,,319,0,0,6,,0,6,1,0,0,1,7,312,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,6,2017-02-06,2017-02-12,,304,0,0,5,,1,6,0,0,0,0,6,298,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,7,2017-02-13,2017-02-19,,330,0,0,13,,1,14,0,0,0,0,14,316,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,8,2017-02-20,2017-02-26,,301,0,0,12,,0,12,0,0,1,1,13,288,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,9,2017-02-27,2017-03-05,,314,0,0,9,,1,10,0,0,0,0,10,304,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,10,2017-03-06,2017-03-12,,390,0,0,16,,0,16,0,1,0,1,17,373,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,11,2017-03-13,2017-03-19,,552,0,0,12,,1,13,4,0,0,4,17,535,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,12,2017-03-20,2017-03-26,,685,0,0,34,,1,35,2,0,1,3,38,647,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,13,2017-03-27,2017-04-02,,691,0,0,26,,1,27,1,2,1,4,31,660,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,14,2017-04-03,2017-04-09,,711,0,0,24,,1,25,0,1,1,2,27,684,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,15,2017-04-10,2017-04-16,,619,0,0,25,,0,25,0,0,0,0,25,594,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,16,2017-04-17,2017-04-23,,845,0,0,25,,3,28,0,1,0,1,29,816,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,17,2017-04-24,2017-04-30,,770,0,0,26,,1,27,1,0,0,1,28,742,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,18,2017-05-01,2017-05-07,,846,0,0,35,,2,37,0,1,0,1,38,808,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,19,2017-05-08,2017-05-14,,1023,0,0,50,,13,63,1,0,1,2,65,958,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,20,2017-05-15,2017-05-21,,1194,0,0,86,,16,102,3,0,1,4,106,1088,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,21,2017-05-22,2017-05-28,,1472,0,0,125,,23,148,2,0,0,2,150,1322,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,22,2017-05-29,2017-06-04,,1786,0,0,201,,26,227,6,1,1,8,235,1551,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,23,2017-06-05,2017-06-11,,2056,0,0,235,,72,307,6,4,6,16,323,1733,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,24,2017-06-12,2017-06-18,,2464,0,0,270,,126,396,10,1,8,19,415,2049,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,25,2017-06-19,2017-06-25,,2454,0,0,252,,162,414,11,2,4,17,431,2023,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,26,2017-06-26,2017-07-02,,2303,0,0,185,,156,341,14,2,4,20,361,1942,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,27,2017-07-03,2017-07-09,,2464,0,0,136,,144,280,12,1,8,21,301,2163,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,28,2017-07-10,2017-07-16,,2460,0,0,127,,92,219,16,1,4,21,240,2220,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,29,2017-07-17,2017-07-23,,2171,0,0,99,,35,134,10,1,10,21,155,2016,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,30,2017-07-24,2017-07-30,,1723,0,0,51,,23,74,14,0,2,16,90,1633,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,31,2017-07-31,2017-08-06,,1593,0,0,29,,12,41,27,0,2,29,70,1523,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,32,2017-08-07,2017-08-13,,1554,0,0,24,,6,30,27,1,4,32,62,1492,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,33,2017-08-14,2017-08-20,,1472,0,0,26,,6,32,26,3,0,29,61,1411,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,34,2017-08-21,2017-08-27,,1406,0,0,18,,8,26,31,2,5,38,64,1342,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,35,2017-08-28,2017-09-03,,1269,0,0,10,,6,16,32,0,7,39,55,1214,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,36,2017-09-04,2017-09-10,,1077,0,0,7,,1,8,23,0,6,29,37,1040,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,37,2017-09-11,2017-09-17,,947,0,0,5,,5,10,36,0,6,42,52,895,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,38,2017-09-18,2017-09-24,,854,0,0,2,,2,4,32,2,8,42,46,808,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,39,2017-09-25,2017-10-01,,960,0,0,1,,2,3,29,2,13,44,47,913,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,40,2017-10-02,2017-10-08,,824,0,0,1,,2,3,31,0,23,54,57,767,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,41,2017-10-09,2017-10-15,,722,0,0,4,,2,6,48,2,16,66,72,650,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,42,2017-10-16,2017-10-22,,807,0,0,3,,0,3,32,0,11,43,46,761,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,43,2017-10-23,2017-10-29,,675,0,0,4,,2,6,19,2,19,40,46,629,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,44,2017-10-30,2017-11-05,,727,0,0,6,,1,7,28,3,8,39,46,681,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,45,2017-11-06,2017-11-12,,740,0,0,6,,2,8,24,5,15,44,52,688,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,46,2017-11-13,2017-11-19,,720,0,0,9,,3,12,23,0,14,37,49,671,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,47,2017-11-20,2017-11-26,,614,0,0,10,,0,10,23,2,3,28,38,576,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,48,2017-11-27,2017-12-03,,665,0,0,9,,0,9,15,0,10,25,34,631,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,49,2017-12-04,2017-12-10,,515,0,0,4,,0,4,18,1,7,26,30,485,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,50,2017-12-11,2017-12-17,,555,0,0,1,,1,2,16,1,2,19,21,534,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,51,2017-12-18,2017-12-24,,503,0,0,3,,0,3,9,0,0,9,12,491,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2017,52,2017-12-25,2017-12-31,,420,0,0,4,,0,4,6,1,2,9,13,407,No Report
+
+

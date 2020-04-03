@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,1,2011-01-03,2011-01-09,217,217,0,3,11,0,0,14,0,0,7,7,21,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,2,2011-01-10,2011-01-16,210,210,0,7,7,0,0,14,0,0,4,4,18,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,3,2011-01-17,2011-01-23,215,215,0,3,12,0,0,15,0,0,7,7,22,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,4,2011-01-24,2011-01-30,170,170,0,3,5,0,1,9,0,0,0,0,9,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,5,2011-01-31,2011-02-06,201,201,0,3,13,0,0,16,0,0,0,0,16,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,6,2011-02-07,2011-02-13,210,210,0,1,17,0,0,18,0,0,1,1,19,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,7,2011-02-14,2011-02-20,250,250,0,11,10,0,0,21,0,0,1,1,22,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,8,2011-02-21,2011-02-27,262,262,0,5,29,0,0,34,0,0,1,1,35,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,9,2011-02-28,2011-03-06,310,310,0,5,17,0,0,22,0,0,1,1,23,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,10,2011-03-07,2011-03-13,277,277,0,4,28,0,0,32,0,0,2,2,34,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,11,2011-03-14,2011-03-20,238,238,0,1,15,0,0,16,0,0,2,2,18,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,12,2011-03-21,2011-03-27,237,237,0,1,10,0,0,11,0,0,1,1,12,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,13,2011-03-28,2011-04-03,264,264,0,4,10,0,1,15,0,0,2,2,17,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,14,2011-04-04,2011-04-10,234,234,0,1,6,0,0,7,0,0,0,0,7,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,15,2011-04-11,2011-04-17,257,257,0,0,8,0,0,8,0,0,2,2,10,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,16,2011-04-18,2011-04-24,229,229,0,2,5,0,0,7,0,0,2,2,9,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,17,2011-04-25,2011-05-01,208,208,0,1,1,0,1,3,0,0,1,1,4,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,18,2011-05-02,2011-05-08,213,213,1,2,1,0,1,5,0,0,2,2,7,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,19,2011-05-09,2011-05-15,274,274,0,1,1,0,0,2,0,0,0,0,2,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,20,2011-05-16,2011-05-22,258,258,0,2,3,0,0,5,0,0,0,0,5,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,21,2011-05-23,2011-05-29,339,339,0,1,4,0,1,6,0,0,0,0,6,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,22,2011-05-30,2011-06-05,348,348,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,23,2011-06-06,2011-06-12,259,259,0,3,0,0,0,3,0,0,2,2,5,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,24,2011-06-13,2011-06-19,489,489,0,7,0,0,0,7,0,0,3,3,10,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,25,2011-06-20,2011-06-26,500,500,0,11,5,0,4,20,0,0,9,9,29,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,26,2011-06-27,2011-07-03,521,521,0,11,3,0,3,17,0,0,6,6,23,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,27,2011-07-04,2011-07-10,554,554,0,16,5,0,5,26,0,0,12,12,38,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,28,2011-07-11,2011-07-17,596,596,0,46,8,0,0,54,0,0,9,9,63,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,29,2011-07-18,2011-07-24,693,693,0,42,15,0,0,57,0,0,19,19,76,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,30,2011-07-25,2011-07-31,697,697,0,60,18,0,3,81,0,0,9,9,90,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,31,2011-08-01,2011-08-07,747,747,0,49,17,0,0,66,0,0,25,25,91,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,32,2011-08-08,2011-08-14,844,844,0,67,32,0,0,99,0,0,33,33,132,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,33,2011-08-15,2011-08-21,903,903,0,58,22,0,1,81,0,0,26,26,107,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,34,2011-08-22,2011-08-28,796,796,0,51,47,0,3,101,0,0,33,33,134,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,35,2011-08-29,2011-09-04,928,928,0,61,32,0,0,93,0,0,26,26,119,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,36,2011-09-05,2011-09-11,850,850,0,47,51,0,3,101,0,0,29,29,130,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,37,2011-09-12,2011-09-18,809,809,0,46,41,0,4,91,0,0,22,22,113,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,38,2011-09-19,2011-09-25,823,823,0,57,40,0,4,101,0,0,13,13,114,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,39,2011-09-26,2011-10-02,786,786,0,47,35,0,5,87,0,0,19,19,106,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,40,2011-10-03,2011-10-09,684,684,0,20,48,0,0,68,0,0,9,9,77,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,41,2011-10-10,2011-10-16,602,602,0,16,40,0,0,56,0,0,11,11,67,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,42,2011-10-17,2011-10-23,499,499,0,14,14,0,0,28,0,0,5,5,33,,Regional Outbreak
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,43,2011-10-24,2011-10-30,468,468,0,2,8,0,0,10,0,0,3,3,13,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,44,2011-10-31,2011-11-06,452,452,0,4,9,0,0,13,0,0,4,4,17,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,45,2011-11-07,2011-11-13,373,373,0,0,18,0,0,18,0,0,2,2,20,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,46,2011-11-14,2011-11-20,410,410,0,0,14,0,1,15,0,0,7,7,22,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,47,2011-11-21,2011-11-27,386,386,0,1,12,0,1,14,0,0,5,5,19,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,48,2011-11-28,2011-12-04,334,334,0,0,14,0,0,14,0,0,5,5,19,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,49,2011-12-05,2011-12-11,311,311,0,0,14,0,0,14,0,0,2,2,16,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,50,2011-12-12,2011-12-18,257,257,0,0,7,0,0,7,0,0,0,0,7,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,51,2011-12-19,2011-12-25,188,188,0,1,1,0,0,2,0,0,1,1,3,,Sporadic
+
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2011,52,2011-12-26,2012-01-01,281,281,0,0,25,0,0,25,0,0,4,4,29,,Local Outbreak
+
+

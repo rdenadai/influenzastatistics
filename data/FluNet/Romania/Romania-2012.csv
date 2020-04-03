@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Romania,European Region of WHO,Eastern Europe,2011,1,2011-01-03,2011-01-09,54,54,0,3,1,0,0,4,0,0,1,1,5,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,2,2011-01-10,2011-01-16,50,50,0,6,0,0,0,6,0,0,0,0,6,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,3,2011-01-17,2011-01-23,106,106,0,19,0,0,0,19,0,0,3,3,22,,Local Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,4,2011-01-24,2011-01-30,121,121,0,42,0,0,0,42,0,0,23,23,65,,Local Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,5,2011-01-31,2011-02-06,109,109,0,36,0,0,0,36,0,0,26,26,62,,Regional Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,6,2011-02-07,2011-02-13,206,206,0,77,0,0,0,77,0,0,40,40,117,,Widespread Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,7,2011-02-14,2011-02-20,175,175,0,59,0,0,0,59,0,0,40,40,99,,Widespread Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,8,2011-02-21,2011-02-27,173,173,0,43,0,0,0,43,0,0,59,59,102,,Widespread Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,9,2011-02-28,2011-03-06,206,206,0,53,0,0,0,53,0,0,67,67,120,,Regional Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,10,2011-03-07,2011-03-13,166,166,0,32,0,0,1,33,0,0,60,60,93,,Local Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,11,2011-03-14,2011-03-20,133,133,0,29,1,0,0,30,0,0,49,49,79,,Local Outbreak
+
+Romania,European Region of WHO,Eastern Europe,2011,12,2011-03-21,2011-03-27,92,92,0,16,0,0,0,16,0,0,21,21,37,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,13,2011-03-28,2011-04-03,59,59,0,10,0,0,0,10,0,0,9,9,19,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,14,2011-04-04,2011-04-10,44,44,0,5,0,0,0,5,0,0,7,7,12,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,15,2011-04-11,2011-04-17,24,24,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,16,2011-04-18,2011-04-24,13,13,0,2,0,0,0,2,0,0,3,3,5,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,17,2011-04-25,2011-05-01,13,13,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,18,2011-05-02,2011-05-08,9,9,0,1,0,0,0,1,0,0,3,3,4,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,19,2011-05-09,2011-05-15,11,11,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,20,2011-05-16,2011-05-22,6,6,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,21,2011-05-23,2011-05-29,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,22,2011-05-30,2011-06-05,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,23,2011-06-06,2011-06-12,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,24,2011-06-13,2011-06-19,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,25,2011-06-20,2011-06-26,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,26,2011-06-27,2011-07-03,1,1,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,27,2011-07-04,2011-07-10,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,28,2011-07-11,2011-07-17,1,1,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,29,2011-07-18,2011-07-24,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,30,2011-07-25,2011-07-31,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,31,2011-08-01,2011-08-07,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,32,2011-08-08,2011-08-14,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,33,2011-08-15,2011-08-21,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,34,2011-08-22,2011-08-28,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,35,2011-08-29,2011-09-04,2,2,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,36,2011-09-05,2011-09-11,1,1,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,37,2011-09-12,2011-09-18,1,1,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,38,2011-09-19,2011-09-25,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,39,2011-09-26,2011-10-02,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,40,2011-10-03,2011-10-09,7,7,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,41,2011-10-10,2011-10-16,23,23,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,42,2011-10-17,2011-10-23,17,17,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,43,2011-10-24,2011-10-30,24,24,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,44,2011-10-31,2011-11-06,26,26,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,45,2011-11-07,2011-11-13,28,28,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,46,2011-11-14,2011-11-20,19,19,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,47,2011-11-21,2011-11-27,32,32,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,48,2011-11-28,2011-12-04,24,24,0,0,2,0,0,2,0,0,0,0,2,,No Activity
+
+Romania,European Region of WHO,Eastern Europe,2011,49,2011-12-05,2011-12-11,39,39,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,50,2011-12-12,2011-12-18,36,36,0,0,2,0,0,2,0,0,0,0,2,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,51,2011-12-19,2011-12-25,39,39,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Romania,European Region of WHO,Eastern Europe,2011,52,2011-12-26,2012-01-01,24,24,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+

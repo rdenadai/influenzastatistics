@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+South Africa,African Region of WHO,Southern Africa,2018,1,2018-01-01,2018-01-07,70,70,0,1,1,0,0,2,1,1,0,2,4,66,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,2,2018-01-08,2018-01-14,65,65,0,1,0,0,0,1,2,0,0,2,3,62,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,3,2018-01-15,2018-01-21,86,86,0,2,1,0,0,3,2,0,0,2,5,81,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,4,2018-01-22,2018-01-28,57,57,0,1,0,0,0,1,1,0,1,2,3,54,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,5,2018-01-29,2018-02-04,125,125,0,1,0,0,0,1,1,0,0,1,2,123,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,6,2018-02-05,2018-02-11,146,146,0,0,0,0,0,0,2,0,0,2,2,144,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,7,2018-02-12,2018-02-18,129,129,0,1,0,0,0,1,3,0,0,3,4,125,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,8,2018-02-19,2018-02-25,135,135,0,0,0,0,0,0,1,0,0,1,1,134,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,9,2018-02-26,2018-03-04,140,140,0,0,0,0,0,0,0,0,0,0,0,140,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,10,2018-03-05,2018-03-11,166,166,0,0,0,0,0,0,0,0,0,0,0,166,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,11,2018-03-12,2018-03-18,174,174,0,0,1,0,0,1,4,0,0,4,5,169,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,12,2018-03-19,2018-03-25,113,113,0,0,1,0,0,1,1,0,0,1,2,111,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,13,2018-03-26,2018-04-01,128,128,0,5,1,0,0,6,0,0,0,0,6,122,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,14,2018-04-02,2018-04-08,138,138,0,4,0,0,0,4,0,0,1,1,5,133,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,15,2018-04-09,2018-04-15,182,182,0,3,0,0,0,3,0,0,0,0,3,179,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,16,2018-04-16,2018-04-22,215,215,0,13,0,0,0,13,1,0,0,1,14,201,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,17,2018-04-23,2018-04-29,163,163,0,21,0,0,0,21,0,0,0,0,21,142,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,18,2018-04-30,2018-05-06,126,126,0,7,1,0,0,8,0,0,0,0,8,118,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,19,2018-05-07,2018-05-13,177,177,0,26,1,0,0,27,0,0,0,0,27,150,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,20,2018-05-14,2018-05-20,190,190,0,28,1,0,0,29,0,0,0,0,29,161,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,21,2018-05-21,2018-05-27,226,226,0,48,0,0,0,48,0,0,0,0,48,178,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,22,2018-05-28,2018-06-03,213,213,0,62,0,0,0,62,1,0,0,1,63,150,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,23,2018-06-04,2018-06-10,243,243,0,87,0,0,1,88,0,0,0,0,88,155,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,24,2018-06-11,2018-06-17,265,265,0,97,0,0,0,97,0,2,0,2,99,166,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,25,2018-06-18,2018-06-24,254,254,0,83,1,0,1,85,2,2,0,4,89,165,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,26,2018-06-25,2018-07-01,197,197,0,47,1,0,0,48,3,2,0,5,53,144,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,27,2018-07-02,2018-07-08,187,187,0,30,0,0,1,31,2,7,0,9,40,147,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,28,2018-07-09,2018-07-15,175,175,0,27,2,0,2,31,0,3,0,3,34,141,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,29,2018-07-16,2018-07-22,145,145,0,13,1,0,1,15,8,4,0,12,27,118,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,30,2018-07-23,2018-07-29,160,160,0,5,5,0,0,10,5,4,1,10,20,140,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,31,2018-07-30,2018-08-05,145,145,0,5,1,0,0,6,7,9,2,18,24,121,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,32,2018-08-06,2018-08-12,129,129,0,2,0,0,0,2,2,15,0,17,19,110,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,33,2018-08-13,2018-08-19,179,179,0,1,1,0,0,2,3,26,5,34,36,143,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,34,2018-08-20,2018-08-26,195,195,0,5,1,0,0,6,16,29,3,48,54,141,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,35,2018-08-27,2018-09-02,185,185,0,4,1,0,0,5,13,35,2,50,55,130,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,36,2018-09-03,2018-09-09,168,168,0,3,1,0,0,4,7,40,3,50,54,114,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,37,2018-09-10,2018-09-16,192,192,0,1,0,0,0,1,10,42,3,55,56,136,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,38,2018-09-17,2018-09-23,173,173,0,2,3,0,0,5,1,42,6,49,54,119,Widespread Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,39,2018-09-24,2018-09-30,124,124,0,2,0,0,0,2,1,17,8,26,28,96,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,40,2018-10-01,2018-10-07,136,136,0,2,0,0,0,2,3,20,1,24,26,110,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2018,41,2018-10-08,2018-10-14,110,110,0,0,0,0,0,0,3,11,1,15,15,95,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,42,2018-10-15,2018-10-21,120,120,0,1,2,0,0,3,1,2,0,3,6,114,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,43,2018-10-22,2018-10-28,107,107,0,0,0,0,0,0,0,4,0,4,4,103,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,44,2018-10-29,2018-11-04,101,101,0,2,0,0,0,2,0,3,0,3,5,96,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,45,2018-11-05,2018-11-11,83,83,0,0,0,0,0,0,0,5,1,6,6,77,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,46,2018-11-12,2018-11-18,105,105,0,1,2,0,0,3,0,2,0,2,5,100,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,47,2018-11-19,2018-11-25,77,77,0,0,0,0,0,0,0,4,0,4,4,73,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,48,2018-11-26,2018-12-02,60,60,0,0,0,0,0,0,0,0,0,0,0,60,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,49,2018-12-03,2018-12-09,74,74,0,0,0,0,0,0,0,0,0,0,0,74,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2018,50,2018-12-10,2018-12-16,78,78,0,1,1,0,0,2,0,0,1,1,3,75,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,51,2018-12-17,2018-12-23,42,42,0,0,0,0,1,1,0,0,0,0,1,41,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2018,52,2018-12-24,2018-12-30,12,12,0,0,0,0,0,0,0,0,0,0,0,12,No Activity
+
+

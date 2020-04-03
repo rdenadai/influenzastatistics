@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ireland,European Region of WHO,Northern Europe,2013,1,2012-12-31,2013-01-06,,316,0,3,5,,1,9,0,0,68,68,77,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,2,2013-01-07,2013-01-13,,313,0,3,8,,2,13,0,0,72,72,85,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,3,2013-01-14,2013-01-20,,298,0,5,9,,1,15,0,0,51,51,66,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,4,2013-01-21,2013-01-27,,286,0,3,5,,1,9,0,0,42,42,51,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,5,2013-01-28,2013-02-03,,262,0,8,11,,0,19,0,0,75,75,94,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,6,2013-02-04,2013-02-10,,312,0,12,20,,1,33,0,0,72,72,105,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,7,2013-02-11,2013-02-17,,306,0,12,26,,2,40,0,0,42,42,82,,Widespread Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,8,2013-02-18,2013-02-24,,349,0,23,31,,17,71,0,0,39,39,110,,Regional Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,9,2013-02-25,2013-03-03,,340,0,11,32,,8,51,0,0,38,38,89,,Regional Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,10,2013-03-04,2013-03-10,,366,0,22,36,,6,64,0,0,29,29,93,,Regional Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,11,2013-03-11,2013-03-17,,364,0,24,34,,4,62,0,0,25,25,87,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,12,2013-03-18,2013-03-24,,402,0,12,42,,12,66,0,0,16,16,82,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,13,2013-03-25,2013-03-31,,349,0,23,53,,12,88,0,0,8,8,96,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,14,2013-04-01,2013-04-07,,373,0,19,55,,7,81,0,0,9,9,90,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,15,2013-04-08,2013-04-14,,297,0,21,78,,11,110,0,0,9,9,119,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,16,2013-04-15,2013-04-21,,332,0,9,19,,3,31,0,0,7,7,38,,Local Outbreak
+
+Ireland,European Region of WHO,Northern Europe,2013,17,2013-04-22,2013-04-28,,224,0,4,8,,4,16,0,0,3,3,19,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,18,2013-04-29,2013-05-05,,246,0,2,11,,4,17,0,0,0,0,17,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,19,2013-05-06,2013-05-12,,165,0,1,4,,2,7,0,0,0,0,7,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,20,2013-05-13,2013-05-19,,172,0,0,1,,2,3,0,0,1,1,4,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,21,2013-05-20,2013-05-26,,173,0,1,3,,0,4,0,0,0,0,4,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,22,2013-05-27,2013-06-02,,169,0,0,0,,0,0,0,0,3,3,3,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,23,2013-06-03,2013-06-09,,115,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,24,2013-06-10,2013-06-16,,103,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,25,2013-06-17,2013-06-23,,129,0,0,1,,0,1,0,0,0,0,1,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,26,2013-06-24,2013-06-30,,111,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,27,2013-07-01,2013-07-07,,76,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,28,2013-07-08,2013-07-14,,103,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,29,2013-07-15,2013-07-21,,72,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,30,2013-07-22,2013-07-28,,91,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,31,2013-07-29,2013-08-04,,96,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,32,2013-08-05,2013-08-11,,73,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,33,2013-08-12,2013-08-18,,72,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,34,2013-08-19,2013-08-25,,77,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,35,2013-08-26,2013-09-01,,108,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,36,2013-09-02,2013-09-08,,105,0,1,0,,0,1,0,0,0,0,1,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,37,2013-09-09,2013-09-15,,111,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,38,2013-09-16,2013-09-22,,104,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,39,2013-09-23,2013-09-29,,121,0,0,0,,0,0,0,0,1,1,1,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,40,2013-09-30,2013-10-06,,128,0,0,0,,0,0,0,0,1,1,1,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,41,2013-10-07,2013-10-13,,128,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,42,2013-10-14,2013-10-20,,116,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,43,2013-10-21,2013-10-27,,123,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,44,2013-10-28,2013-11-03,,109,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,45,2013-11-04,2013-11-10,,131,0,1,0,,0,1,0,0,0,0,1,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,46,2013-11-11,2013-11-17,,116,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,47,2013-11-18,2013-11-24,,150,0,0,1,,0,1,0,0,2,2,3,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,48,2013-11-25,2013-12-01,,155,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ireland,European Region of WHO,Northern Europe,2013,49,2013-12-02,2013-12-08,,197,0,1,1,,0,2,0,0,1,1,3,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,50,2013-12-09,2013-12-15,,235,0,4,3,,0,7,0,0,0,0,7,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,51,2013-12-16,2013-12-22,,207,0,2,4,,2,8,0,0,0,0,8,,Sporadic
+
+Ireland,European Region of WHO,Northern Europe,2013,52,2013-12-23,2013-12-29,,168,0,2,4,,0,6,0,0,0,0,6,,Sporadic
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+South Africa,African Region of WHO,Southern Africa,2012,1,2012-01-02,2012-01-08,45,45,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,2,2012-01-09,2012-01-15,146,146,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,3,2012-01-16,2012-01-22,82,82,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,4,2012-01-23,2012-01-29,77,77,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,5,2012-01-30,2012-02-05,85,85,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,6,2012-02-06,2012-02-12,105,105,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,7,2012-02-13,2012-02-19,108,108,0,1,0,0,0,1,0,0,2,2,3,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,8,2012-02-20,2012-02-26,112,112,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,9,2012-02-27,2012-03-04,88,88,0,0,0,0,0,0,0,0,1,1,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,10,2012-03-05,2012-03-11,124,124,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,11,2012-03-12,2012-03-18,176,176,0,0,1,0,0,1,0,0,3,3,4,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,12,2012-03-19,2012-03-25,109,109,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,13,2012-03-26,2012-04-01,126,126,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,14,2012-04-02,2012-04-08,101,101,0,0,0,0,0,0,0,0,3,3,3,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,15,2012-04-09,2012-04-15,130,130,0,0,1,0,0,1,0,1,0,1,2,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,16,2012-04-16,2012-04-22,129,129,0,0,0,0,0,0,0,3,0,3,3,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,17,2012-04-23,2012-04-29,133,133,0,0,1,0,0,1,0,3,0,3,4,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,18,2012-04-30,2012-05-06,140,140,0,0,0,0,0,0,0,5,0,5,5,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,19,2012-05-07,2012-05-13,168,168,0,0,1,0,0,1,0,2,0,2,3,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,20,2012-05-14,2012-05-20,263,263,0,0,5,0,0,5,0,2,1,3,8,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,21,2012-05-21,2012-05-27,227,227,0,1,3,0,0,4,2,5,4,11,15,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,22,2012-05-28,2012-06-03,219,219,0,0,4,0,0,4,0,2,1,3,7,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,23,2012-06-04,2012-06-10,276,276,0,0,16,0,0,16,2,4,2,8,24,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,24,2012-06-11,2012-06-17,243,243,0,0,17,0,0,17,2,4,5,11,28,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,25,2012-06-18,2012-06-24,266,266,0,0,40,0,3,43,3,10,12,25,68,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,26,2012-06-25,2012-07-01,219,219,0,0,42,0,0,42,1,8,1,10,52,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,27,2012-07-02,2012-07-08,263,263,0,1,38,0,0,39,3,4,0,7,46,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,28,2012-07-09,2012-07-15,263,263,0,0,37,0,1,38,6,15,3,24,62,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,29,2012-07-16,2012-07-22,241,241,0,0,50,0,1,51,4,10,2,16,67,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,30,2012-07-23,2012-07-29,352,352,0,0,77,0,1,78,2,13,2,17,95,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,31,2012-07-30,2012-08-05,356,356,0,0,75,0,1,76,6,27,3,36,112,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,32,2012-08-06,2012-08-12,240,240,0,0,47,0,0,47,10,19,2,31,78,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,33,2012-08-13,2012-08-19,342,342,0,1,71,0,0,72,22,25,4,51,123,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,34,2012-08-20,2012-08-26,315,315,0,0,58,0,0,58,10,36,25,71,129,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,35,2012-08-27,2012-09-02,311,311,0,0,38,0,0,38,4,25,37,66,104,,Regional Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,36,2012-09-03,2012-09-09,226,226,0,0,16,0,0,16,0,28,17,45,61,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,37,2012-09-10,2012-09-16,261,261,0,0,15,0,0,15,8,29,15,52,67,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,38,2012-09-17,2012-09-23,221,221,0,0,12,0,0,12,6,8,30,44,56,,Local Outbreak
+
+South Africa,African Region of WHO,Southern Africa,2012,39,2012-09-24,2012-09-30,131,131,0,0,2,0,0,2,0,11,6,17,19,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,40,2012-10-01,2012-10-07,249,249,0,0,4,0,0,4,1,9,7,17,21,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,41,2012-10-08,2012-10-14,192,192,0,0,2,0,1,3,0,2,4,6,9,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,42,2012-10-15,2012-10-21,150,150,0,0,0,0,0,0,0,0,7,7,7,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,43,2012-10-22,2012-10-28,193,193,0,0,0,0,0,0,0,0,8,8,8,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,44,2012-10-29,2012-11-04,138,138,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,45,2012-11-05,2012-11-11,139,139,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,46,2012-11-12,2012-11-18,156,156,0,0,0,0,0,0,0,0,4,4,4,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,47,2012-11-19,2012-11-25,169,169,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,48,2012-11-26,2012-12-02,156,156,0,0,0,0,1,1,0,0,3,3,4,,Sporadic
+
+South Africa,African Region of WHO,Southern Africa,2012,49,2012-12-03,2012-12-09,45,45,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+South Africa,African Region of WHO,Southern Africa,2012,50,2012-12-10,2012-12-16,129,129,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,51,2012-12-17,2012-12-23,89,89,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+South Africa,African Region of WHO,Southern Africa,2012,52,2012-12-24,2012-12-30,12,12,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+
+

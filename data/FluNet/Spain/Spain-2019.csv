@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Spain,European Region of WHO,South West Europe,2018,1,2018-01-01,2018-01-07,137,3694,0,103,235,,662,1000,24,5,1940,1969,2969,78,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,2,2018-01-08,2018-01-14,156,3509,0,176,281,,540,997,25,3,1628,1656,2653,93,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,3,2018-01-15,2018-01-21,203,3301,0,190,280,0,447,917,35,7,1511,1553,2470,127,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,4,2018-01-22,2018-01-28,198,2894,0,171,237,,517,925,28,8,1225,1261,2186,123,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,5,2018-01-29,2018-02-04,176,2330,0,180,185,0,410,775,28,8,825,861,1636,105,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,6,2018-02-05,2018-02-11,167,1834,0,131,163,0,297,591,27,7,575,609,1200,92,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,7,2018-02-12,2018-02-18,232,2075,0,161,274,0,445,880,29,13,495,537,1417,125,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,8,2018-02-19,2018-02-25,197,1804,0,121,283,0,414,818,22,8,345,375,1193,100,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,9,2018-02-26,2018-03-04,190,1466,0,124,212,0,351,687,10,3,194,207,894,121,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,10,2018-03-05,2018-03-11,205,1364,0,115,222,0,317,654,6,0,162,168,822,128,Widespread Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,11,2018-03-12,2018-03-18,207,1059,0,74,211,,191,476,14,1,114,129,605,112,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,12,2018-03-19,2018-03-25,114,749,0,44,99,0,131,274,4,0,54,58,332,90,Regional Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,13,2018-03-26,2018-04-01,131,542,0,27,102,0,88,217,5,1,36,42,259,89,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,14,2018-04-02,2018-04-08,137,487,0,31,63,0,57,151,0,0,23,23,174,108,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,15,2018-04-09,2018-04-15,117,392,0,14,70,0,20,104,0,0,15,15,119,96,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,16,2018-04-16,2018-04-22,101,319,0,4,56,0,36,96,0,0,17,17,113,77,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,17,2018-04-23,2018-04-29,100,255,0,3,29,0,27,59,0,0,3,3,62,91,No Report
+
+Spain,European Region of WHO,South West Europe,2018,18,2018-04-30,2018-05-06,69,220,0,2,29,0,5,36,0,0,0,0,36,61,No Report
+
+Spain,European Region of WHO,South West Europe,2018,19,2018-05-07,2018-05-13,79,159,0,3,15,0,4,22,0,0,1,1,23,76,No Report
+
+Spain,European Region of WHO,South West Europe,2018,20,2018-05-14,2018-05-20,95,238,0,2,10,0,6,18,0,0,3,3,21,92,No Report
+
+Spain,European Region of WHO,South West Europe,2018,21,2018-05-21,2018-05-27,53,147,0,0,7,0,2,9,0,0,0,0,9,52,No Report
+
+Spain,European Region of WHO,South West Europe,2018,22,2018-05-28,2018-06-03,84,246,0,0,3,,2,5,0,0,1,1,6,83,No Report
+
+Spain,European Region of WHO,South West Europe,2018,23,2018-06-04,2018-06-10,93,257,0,0,1,,2,3,0,0,0,0,3,93,No Report
+
+Spain,European Region of WHO,South West Europe,2018,24,2018-06-11,2018-06-17,41,157,0,0,2,0,1,3,0,0,0,0,3,40,No Report
+
+Spain,European Region of WHO,South West Europe,2018,25,2018-06-18,2018-06-24,52,188,0,1,0,,1,2,0,0,0,0,2,52,No Report
+
+Spain,European Region of WHO,South West Europe,2018,26,2018-06-25,2018-07-01,58,175,0,1,1,,1,3,0,0,0,0,3,58,No Report
+
+Spain,European Region of WHO,South West Europe,2018,27,2018-07-02,2018-07-08,63,178,0,0,0,,1,1,0,0,0,0,1,63,No Report
+
+Spain,European Region of WHO,South West Europe,2018,28,2018-07-09,2018-07-15,47,136,0,0,0,,0,0,0,0,0,0,0,44,No Report
+
+Spain,European Region of WHO,South West Europe,2018,29,2018-07-16,2018-07-22,62,152,0,0,0,,1,1,0,0,0,0,1,62,No Report
+
+Spain,European Region of WHO,South West Europe,2018,30,2018-07-23,2018-07-29,40,109,0,0,0,,0,0,0,0,0,0,0,40,No Report
+
+Spain,European Region of WHO,South West Europe,2018,31,2018-07-30,2018-08-05,39,113,0,0,0,,0,0,0,0,0,0,0,39,No Report
+
+Spain,European Region of WHO,South West Europe,2018,32,2018-08-06,2018-08-12,35,106,0,0,0,,0,0,0,0,0,0,0,35,No Report
+
+Spain,European Region of WHO,South West Europe,2018,33,2018-08-13,2018-08-19,30,88,0,0,0,,0,0,0,0,0,0,0,30,No Report
+
+Spain,European Region of WHO,South West Europe,2018,34,2018-08-20,2018-08-26,34,94,0,0,0,,0,0,0,0,1,1,1,34,No Report
+
+Spain,European Region of WHO,South West Europe,2018,35,2018-08-27,2018-09-02,27,76,0,0,0,,1,1,0,0,0,0,1,27,No Report
+
+Spain,European Region of WHO,South West Europe,2018,36,2018-09-03,2018-09-09,19,72,0,0,0,,0,0,0,0,0,0,0,19,No Report
+
+Spain,European Region of WHO,South West Europe,2018,37,2018-09-10,2018-09-16,30,85,0,0,2,,0,2,0,0,0,0,2,29,No Report
+
+Spain,European Region of WHO,South West Europe,2018,38,2018-09-17,2018-09-23,34,128,0,0,0,,0,0,0,0,0,0,0,34,No Report
+
+Spain,European Region of WHO,South West Europe,2018,39,2018-09-24,2018-09-30,24,115,0,2,0,0,0,2,0,0,0,0,2,23,No Report
+
+Spain,European Region of WHO,South West Europe,2018,40,2018-10-01,2018-10-07,27,178,0,1,1,,2,4,0,0,1,1,5,27,No Report
+
+Spain,European Region of WHO,South West Europe,2018,41,2018-10-08,2018-10-14,26,174,0,1,0,,0,1,0,0,0,0,1,26,No Report
+
+Spain,European Region of WHO,South West Europe,2018,42,2018-10-15,2018-10-21,46,181,0,0,0,,0,0,0,0,0,0,0,46,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,43,2018-10-22,2018-10-28,59,230,0,1,2,0,1,4,0,0,1,1,5,58,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,44,2018-10-29,2018-11-04,44,231,0,0,0,,0,0,0,0,1,1,1,45,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,45,2018-11-05,2018-11-11,83,332,0,2,1,,1,4,0,0,2,2,6,81,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,46,2018-11-12,2018-11-18,77,347,0,8,1,0,0,9,0,0,1,1,10,87,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,47,2018-11-19,2018-11-25,79,401,0,6,3,0,5,14,0,0,0,0,14,83,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,48,2018-11-26,2018-12-02,95,462,0,4,5,,7,16,0,0,2,2,18,98,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,49,2018-12-03,2018-12-09,67,448,0,9,17,0,17,43,0,0,1,1,44,68,Sporadic
+
+Spain,European Region of WHO,South West Europe,2018,50,2018-12-10,2018-12-16,91,625,0,33,15,,57,105,0,0,3,3,108,90,Local Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,51,2018-12-17,2018-12-23,103,746,0,55,42,,93,190,0,0,1,1,191,102,Local Outbreak
+
+Spain,European Region of WHO,South West Europe,2018,52,2018-12-24,2018-12-30,74,841,0,86,49,0,217,352,0,0,0,0,352,74,Regional Outbreak
+
+

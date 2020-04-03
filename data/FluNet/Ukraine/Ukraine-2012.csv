@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Ukraine,European Region of WHO,Eastern Europe,2011,1,2011-01-03,2011-01-09,,514,0,0,0,,0,0,0,0,166,166,166,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,2,2011-01-10,2011-01-16,,754,0,10,0,,2,12,0,0,270,270,282,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,3,2011-01-17,2011-01-23,,390,0,6,0,,36,42,0,0,104,104,146,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,4,2011-01-24,2011-01-30,,818,0,24,0,,46,70,0,0,156,156,226,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,5,2011-01-31,2011-02-06,,738,0,18,40,,50,108,0,0,178,178,286,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,6,2011-02-07,2011-02-13,,568,0,36,0,,6,42,0,0,86,86,128,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,7,2011-02-14,2011-02-20,,596,0,82,4,,22,108,0,0,96,96,204,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,8,2011-02-21,2011-02-27,,680,0,216,0,,14,230,0,0,60,60,290,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,9,2011-02-28,2011-03-06,,968,0,330,0,,16,346,0,0,46,46,392,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,10,2011-03-07,2011-03-13,,646,0,232,0,,30,262,0,0,34,34,296,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,11,2011-03-14,2011-03-20,,1372,0,554,0,,42,596,0,0,24,24,620,,Local Outbreak
+
+Ukraine,European Region of WHO,Eastern Europe,2011,12,2011-03-21,2011-03-27,,676,0,176,2,,66,244,0,0,8,8,252,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,13,2011-03-28,2011-04-03,,512,0,150,0,,6,156,0,0,0,0,156,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,14,2011-04-04,2011-04-10,,412,0,34,0,,12,46,0,0,8,8,54,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,15,2011-04-11,2011-04-17,,406,0,40,0,,10,50,0,0,2,2,52,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,16,2011-04-18,2011-04-24,,122,0,6,0,,30,36,0,0,2,2,38,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,17,2011-04-25,2011-05-01,,128,0,6,0,,0,6,0,0,6,6,12,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,18,2011-05-02,2011-05-08,,62,0,0,0,,0,0,0,0,2,2,2,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,19,2011-05-09,2011-05-15,,38,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,20,2011-05-16,2011-05-22,,84,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,21,2011-05-23,2011-05-29,,12,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,22,2011-05-30,2011-06-05,,57,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,23,2011-06-06,2011-06-12,,24,0,0,0,,0,0,0,0,1,1,1,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,24,2011-06-13,2011-06-19,,30,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,25,2011-06-20,2011-06-26,,20,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,26,2011-06-27,2011-07-03,,100,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,27,2011-07-04,2011-07-10,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,28,2011-07-11,2011-07-17,,24,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,29,2011-07-18,2011-07-24,,28,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,30,2011-07-25,2011-07-31,,30,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,31,2011-08-01,2011-08-07,,20,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,32,2011-08-08,2011-08-14,,34,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,33,2011-08-15,2011-08-21,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,34,2011-08-22,2011-08-28,,24,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,35,2011-08-29,2011-09-04,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,36,2011-09-05,2011-09-11,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,37,2011-09-12,2011-09-18,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Ukraine,European Region of WHO,Eastern Europe,2011,38,2011-09-19,2011-09-25,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,39,2011-09-26,2011-10-02,,90,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,40,2011-10-03,2011-10-09,,25,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,41,2011-10-10,2011-10-16,,18,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,42,2011-10-17,2011-10-23,,100,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+
+Ukraine,European Region of WHO,Eastern Europe,2011,43,2011-10-24,2011-10-30,,64,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,44,2011-10-31,2011-11-06,,136,0,0,0,,0,0,0,0,6,6,6,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,45,2011-11-07,2011-11-13,,170,0,0,0,,2,2,0,0,0,0,2,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,46,2011-11-14,2011-11-20,,282,0,0,2,,0,2,0,0,0,0,2,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,47,2011-11-21,2011-11-27,,164,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,48,2011-11-28,2011-12-04,,142,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,49,2011-12-05,2011-12-11,,220,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,50,2011-12-12,2011-12-18,,108,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,51,2011-12-19,2011-12-25,,116,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+Ukraine,European Region of WHO,Eastern Europe,2011,52,2011-12-26,2012-01-01,,96,0,0,0,,0,0,0,0,0,0,0,,No Activity
+
+

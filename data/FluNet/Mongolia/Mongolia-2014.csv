@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,1,2012-12-31,2013-01-06,30,30,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,2,2013-01-07,2013-01-13,135,135,0,2,9,0,0,11,0,0,0,0,11,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,3,2013-01-14,2013-01-20,116,116,0,4,21,0,0,25,0,0,0,0,25,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,4,2013-01-21,2013-01-27,149,149,0,14,43,0,0,57,0,0,0,0,57,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,5,2013-01-28,2013-02-03,174,174,0,13,77,0,0,90,0,0,0,0,90,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,6,2013-02-04,2013-02-10,186,186,0,15,80,0,0,95,0,0,0,0,95,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,7,2013-02-11,2013-02-17,13,13,0,0,5,0,0,5,0,0,0,0,5,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,8,2013-02-18,2013-02-24,122,122,0,6,40,0,0,46,0,0,0,0,46,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,9,2013-02-25,2013-03-03,147,147,0,12,13,0,0,25,0,0,0,0,25,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,10,2013-03-04,2013-03-10,81,81,0,4,2,0,0,6,0,0,0,0,6,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,11,2013-03-11,2013-03-17,120,120,0,7,1,0,0,8,0,0,0,0,8,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,12,2013-03-18,2013-03-24,118,118,0,10,7,0,0,17,0,0,0,0,17,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,13,2013-03-25,2013-03-31,114,114,0,3,2,0,0,5,0,0,0,0,5,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,14,2013-04-01,2013-04-07,120,120,0,3,0,0,0,3,0,0,0,0,3,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,15,2013-04-08,2013-04-14,120,120,0,3,0,0,0,3,0,0,0,0,3,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,16,2013-04-15,2013-04-21,110,110,0,3,0,0,0,3,0,0,0,0,3,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,17,2013-04-22,2013-04-28,92,92,0,1,0,0,0,1,0,0,1,1,2,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,18,2013-04-29,2013-05-05,59,59,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,19,2013-05-06,2013-05-12,54,54,1,0,0,0,0,1,0,0,0,0,1,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,20,2013-05-13,2013-05-19,43,43,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,21,2013-05-20,2013-05-26,37,37,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,22,2013-05-27,2013-06-02,25,25,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,23,2013-06-03,2013-06-09,22,22,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,24,2013-06-10,2013-06-16,22,22,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,25,2013-06-17,2013-06-23,15,15,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,26,2013-06-24,2013-06-30,15,15,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,27,2013-07-01,2013-07-07,22,22,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,28,2013-07-08,2013-07-14,6,6,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,29,2013-07-15,2013-07-21,9,9,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,30,2013-07-22,2013-07-28,15,15,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,31,2013-07-29,2013-08-04,10,10,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,32,2013-08-05,2013-08-11,0,0,0,0,0,0,0,0,0,0,0,0,0,,No Report
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,33,2013-08-12,2013-08-18,9,9,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,34,2013-08-19,2013-08-25,11,11,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,35,2013-08-26,2013-09-01,22,22,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,36,2013-09-02,2013-09-08,9,9,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,37,2013-09-09,2013-09-15,20,20,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,38,2013-09-16,2013-09-22,27,27,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,39,2013-09-23,2013-09-29,19,19,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,40,2013-09-30,2013-10-06,30,30,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,41,2013-10-07,2013-10-13,56,56,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,42,2013-10-14,2013-10-20,64,64,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,43,2013-10-21,2013-10-27,70,70,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,44,2013-10-28,2013-11-03,94,94,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,45,2013-11-04,2013-11-10,76,76,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,46,2013-11-11,2013-11-17,102,102,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,47,2013-11-18,2013-11-24,100,100,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,48,2013-11-25,2013-12-01,128,128,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,49,2013-12-02,2013-12-08,90,90,0,0,1,0,0,1,0,0,0,0,1,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,50,2013-12-09,2013-12-15,136,136,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,51,2013-12-16,2013-12-22,107,107,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+
+Mongolia,Western Pacific Region of WHO,Eastern Asia,2013,52,2013-12-23,2013-12-29,101,101,0,0,0,0,0,0,0,0,3,3,3,,Sporadic
+
+

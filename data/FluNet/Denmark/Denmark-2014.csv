@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Denmark,European Region of WHO,Northern Europe,2013,1,2012-12-31,2013-01-06,,1157,0,5,128,,196,329,17,0,49,66,395,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,2,2013-01-07,2013-01-13,,893,0,8,91,,79,178,22,1,4,27,205,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,3,2013-01-14,2013-01-20,,865,0,11,67,,83,161,16,0,16,32,193,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,4,2013-01-21,2013-01-27,,893,0,9,66,,113,188,23,0,35,58,246,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,5,2013-01-28,2013-02-03,,974,0,18,84,,150,252,29,0,53,82,334,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,6,2013-02-04,2013-02-10,,915,0,14,46,,107,167,34,1,76,111,278,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,7,2013-02-11,2013-02-17,,981,0,12,53,,81,146,54,1,86,141,287,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,8,2013-02-18,2013-02-24,,939,0,22,47,,40,109,61,0,90,151,260,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,9,2013-02-25,2013-03-03,,849,0,15,18,,48,81,43,2,102,147,228,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,10,2013-03-04,2013-03-10,,681,0,4,14,,32,50,22,0,89,111,161,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,11,2013-03-11,2013-03-17,,575,0,3,5,,24,32,24,2,66,92,124,,Widespread Outbreak
+
+Denmark,European Region of WHO,Northern Europe,2013,12,2013-03-18,2013-03-24,,490,0,6,3,,27,36,30,0,47,77,113,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,13,2013-03-25,2013-03-31,,392,0,2,5,,11,18,20,2,37,59,77,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,14,2013-04-01,2013-04-07,,415,0,0,3,,10,13,18,1,33,52,65,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,15,2013-04-08,2013-04-14,,349,0,1,2,,2,5,16,0,19,35,40,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,16,2013-04-15,2013-04-21,,223,0,0,1,,2,3,4,0,11,15,18,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,17,2013-04-22,2013-04-28,,210,0,0,0,,0,0,0,0,6,6,6,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,18,2013-04-29,2013-05-05,,204,0,0,0,,1,1,0,0,3,3,4,,No Activity
+
+Denmark,European Region of WHO,Northern Europe,2013,19,2013-05-06,2013-05-12,,154,0,0,0,,0,0,0,0,5,5,5,,No Activity
+
+Denmark,European Region of WHO,Northern Europe,2013,20,2013-05-13,2013-05-19,,166,0,0,0,,0,0,0,0,1,1,1,,No Activity
+
+Denmark,European Region of WHO,Northern Europe,2013,21,2013-05-20,2013-05-26,,143,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,22,2013-05-27,2013-06-02,,144,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,23,2013-06-03,2013-06-09,,137,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,24,2013-06-10,2013-06-16,,151,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,25,2013-06-17,2013-06-23,,84,0,0,1,,2,3,0,0,1,1,4,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,26,2013-06-24,2013-06-30,,125,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,27,2013-07-01,2013-07-07,,113,0,0,0,,3,3,0,0,1,1,4,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,28,2013-07-08,2013-07-14,,13,0,0,1,,0,1,0,0,0,0,1,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,29,2013-07-15,2013-07-21,,82,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,30,2013-07-22,2013-07-28,,84,0,0,0,,1,1,0,0,0,0,1,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,31,2013-07-29,2013-08-04,,74,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,32,2013-08-05,2013-08-11,,90,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,33,2013-08-12,2013-08-18,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,34,2013-08-19,2013-08-25,,47,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,35,2013-08-26,2013-09-01,,16,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,36,2013-09-02,2013-09-08,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,37,2013-09-09,2013-09-15,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,38,2013-09-16,2013-09-22,,17,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,39,2013-09-23,2013-09-29,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,40,2013-09-30,2013-10-06,,126,0,0,0,,1,1,1,0,0,1,2,,No Activity
+
+Denmark,European Region of WHO,Northern Europe,2013,41,2013-10-07,2013-10-13,,178,0,0,1,,0,1,0,0,0,0,1,,No Activity
+
+Denmark,European Region of WHO,Northern Europe,2013,42,2013-10-14,2013-10-20,,167,0,2,0,,0,2,0,0,0,0,2,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,43,2013-10-21,2013-10-27,,168,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,44,2013-10-28,2013-11-03,,191,0,2,1,,0,3,0,0,0,0,3,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,45,2013-11-04,2013-11-10,,223,0,0,0,,1,1,0,0,2,2,3,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,46,2013-11-11,2013-11-17,,198,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,47,2013-11-18,2013-11-24,,227,0,0,0,,1,1,0,0,0,0,1,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,48,2013-11-25,2013-12-01,,243,0,1,0,,1,2,0,0,0,0,2,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,49,2013-12-02,2013-12-08,,253,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,50,2013-12-09,2013-12-15,,249,0,0,0,,1,1,1,0,1,2,3,,Sporadic
+
+Denmark,European Region of WHO,Northern Europe,2013,51,2013-12-16,2013-12-22,,259,0,2,0,,7,9,0,0,1,1,10,,No Report
+
+Denmark,European Region of WHO,Northern Europe,2013,52,2013-12-23,2013-12-29,,195,0,4,1,,6,11,0,0,0,0,11,,Sporadic
+
+

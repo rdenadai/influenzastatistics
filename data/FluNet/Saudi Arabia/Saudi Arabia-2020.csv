@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,1,2018-12-31,2019-01-06,294,289,,17,,,20,37,,,6,6,43,251,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,2,2019-01-07,2019-01-13,263,262,,10,,,18,28,,,6,6,34,229,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,3,2019-01-14,2019-01-20,289,275,,26,,,12,38,,,5,5,43,246,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,4,2019-01-21,2019-01-27,277,269,,23,,,15,38,,,6,6,44,233,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,5,2019-01-28,2019-02-03,315,306,,20,,,24,44,,,7,7,51,264,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,6,2019-02-04,2019-02-10,365,356,,24,,,12,36,,,15,15,51,314,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,7,2019-02-11,2019-02-17,332,349,,22,,,13,35,,,15,15,50,282,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,8,2019-02-18,2019-02-24,335,322,,20,,,21,41,,,16,16,57,278,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,9,2019-02-25,2019-03-03,395,375,,26,,,19,45,,,17,17,62,333,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,10,2019-03-04,2019-03-10,332,324,,20,,,16,36,,,18,18,54,278,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,11,2019-03-11,2019-03-17,351,337,,23,,,17,40,,,24,24,64,287,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,12,2019-03-18,2019-03-24,333,333,,23,,,12,35,,,25,25,60,274,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,13,2019-03-25,2019-03-31,304,295,,24,,,18,42,,,23,23,65,239,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,14,2019-04-01,2019-04-07,295,287,,17,,,16,33,,,18,18,51,244,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,15,2019-04-08,2019-04-14,325,317,,34,,,12,46,,,26,26,72,253,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,16,2019-04-15,2019-04-21,307,291,,21,,,9,30,,,24,24,54,251,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,17,2019-04-22,2019-04-28,275,272,,17,,,6,23,,,20,20,43,232,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,18,2019-04-29,2019-05-05,271,259,,17,,,6,23,,,7,7,30,243,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,19,2019-05-06,2019-05-12,245,210,,10,,,11,21,,,6,6,27,219,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,20,2019-05-13,2019-05-19,329,249,,8,,,5,13,,,19,19,32,295,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,21,2019-05-20,2019-05-26,325,256,,13,,,10,23,,,8,8,31,284,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,22,2019-05-27,2019-06-02,194,190,,13,,,4,17,,,2,2,19,175,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,23,2019-06-03,2019-06-09,184,178,,9,,,1,10,,,6,6,16,168,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,24,2019-06-10,2019-06-16,215,213,,8,,,4,12,,,7,7,19,196,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,25,2019-06-17,2019-06-23,197,194,,8,,,3,11,,,8,8,19,178,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,26,2019-06-24,2019-06-30,131,129,,1,,,1,2,,,7,7,9,122,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,27,2019-07-01,2019-07-07,158,150,,,,,,0,,,5,5,5,153,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,28,2019-07-08,2019-07-14,149,145,,,,,,0,,,2,2,2,147,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,29,2019-07-15,2019-07-21,148,146,,2,,,,2,,,3,3,5,143,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,30,2019-07-22,2019-07-28,173,168,,1,,,2,3,,,1,1,4,169,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,31,2019-07-29,2019-08-04,162,156,,4,,,,4,,,1,1,5,157,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,32,2019-08-05,2019-08-11,174,170,,13,,,3,16,,,1,1,17,157,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,33,2019-08-12,2019-08-18,283,252,,31,,,7,38,,,8,8,46,237,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,34,2019-08-19,2019-08-25,231,225,,23,,,5,28,,,3,3,31,200,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,35,2019-08-26,2019-09-01,158,153,,13,,,3,16,,,0,0,16,142,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,36,2019-09-02,2019-09-08,194,185,,9,,,5,14,,,5,5,19,175,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,37,2019-09-09,2019-09-15,169,164,,15,,,3,18,,,1,1,19,150,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,38,2019-09-16,2019-09-22,154,151,,14,,,2,16,,,4,4,20,134,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,39,2019-09-23,2019-09-29,210,205,,9,,,6,15,,,10,10,25,185,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,40,2019-09-30,2019-10-06,198,184,,8,,,5,13,,,10,10,23,175,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,41,2019-10-07,2019-10-13,182,177,,17,,,1,18,,,19,19,37,145,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,42,2019-10-14,2019-10-20,206,200,,15,,,16,31,,,17,17,48,158,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,43,2019-10-21,2019-10-27,237,228,,31,,,27,58,,,12,12,70,167,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,44,2019-10-28,2019-11-03,299,290,,24,,,44,68,,,24,24,92,207,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,45,2019-11-04,2019-11-10,311,298,,35,,,50,85,,,16,16,101,210,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,46,2019-11-11,2019-11-17,344,335,,35,,,64,99,,,30,30,129,215,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,47,2019-11-18,2019-11-24,399,381,,41,,,61,102,,,20,20,122,277,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,48,2019-11-25,2019-12-01,343,331,,45,,,39,84,,,27,27,111,232,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,49,2019-12-02,2019-12-08,376,370,,44,,,52,96,,,27,27,123,253,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,50,2019-12-09,2019-12-15,370,351,,34,,,33,67,,,24,24,91,279,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,51,2019-12-16,2019-12-22,402,376,,36,,,35,71,,,14,14,85,317,No Report
+
+Saudi Arabia,Eastern Mediterranean Region of WHO,Western Asia,2019,52,2019-12-23,2019-12-29,372,318,,34,,,28,62,,,15,15,77,295,No Report
+
+

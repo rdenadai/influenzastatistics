@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,1,2019-12-30,2020-01-05,53,53,,,1,,,1,,,4,4,5,48,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,2,2020-01-06,2020-01-12,114,114,,,5,,,5,,,9,9,14,100,Sporadic
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,3,2020-01-13,2020-01-19,73,73,,2,7,,,9,,,4,4,13,60,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,4,2020-01-20,2020-01-26,123,123,,9,9,,,18,,,6,6,24,99,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,5,2020-01-27,2020-02-02,144,144,,7,29,,,36,,,4,4,40,104,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,6,2020-02-03,2020-02-09,68,68,,5,16,,,21,,,1,1,22,46,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,7,2020-02-10,2020-02-16,46,46,,4,15,,,19,,,1,1,20,26,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,8,2020-02-17,2020-02-23,65,65,,,16,,,16,,,0,0,16,49,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,9,2020-02-24,2020-03-01,58,58,,4,20,,,24,,,1,1,25,33,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,10,2020-03-02,2020-03-08,20,20,,3,3,,,6,,,1,1,7,13,Local Outbreak
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,11,2020-03-09,2020-03-15,,,,,,,,,,,,,,,No Report
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,12,2020-03-16,2020-03-22,,,,,,,,,,,,,,,No Report
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Morocco,Eastern Mediterranean Region of WHO,Northern Africa,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

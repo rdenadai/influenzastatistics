@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,1,2013-12-30,2014-01-05,51,51,0,6,17,0,0,23,0,0,3,3,26,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,2,2014-01-06,2014-01-12,130,130,0,19,44,0,0,63,0,0,7,7,70,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,3,2014-01-13,2014-01-19,106,106,0,6,42,0,0,48,0,0,6,6,54,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,4,2014-01-20,2014-01-26,139,139,0,19,51,0,0,70,0,0,7,7,77,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,5,2014-01-27,2014-02-02,113,113,0,9,32,0,0,41,0,0,8,8,49,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,6,2014-02-03,2014-02-09,97,97,0,6,22,0,0,28,0,0,4,4,32,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,7,2014-02-10,2014-02-16,143,143,0,6,25,0,0,31,0,0,20,20,51,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,8,2014-02-17,2014-02-23,139,139,0,4,19,0,0,23,0,0,12,12,35,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,9,2014-02-24,2014-03-02,145,145,0,1,23,0,0,24,0,0,18,18,42,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,10,2014-03-03,2014-03-09,175,175,0,2,24,0,0,26,0,0,27,27,53,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,11,2014-03-10,2014-03-16,152,152,0,2,11,0,0,13,0,0,26,26,39,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,12,2014-03-17,2014-03-23,116,116,0,2,10,0,0,12,0,0,20,20,32,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,13,2014-03-24,2014-03-30,121,121,0,1,6,0,0,7,0,0,16,16,23,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,14,2014-03-31,2014-04-06,97,97,0,0,9,0,0,9,0,0,23,23,32,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,15,2014-04-07,2014-04-13,105,105,0,1,8,0,0,9,0,0,11,11,20,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,16,2014-04-14,2014-04-20,114,114,0,1,7,0,0,8,0,0,8,8,16,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,17,2014-04-21,2014-04-27,164,164,0,4,10,0,0,14,0,0,16,16,30,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,18,2014-04-28,2014-05-04,128,128,0,1,4,0,0,5,0,0,12,12,17,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,19,2014-05-05,2014-05-11,128,128,0,0,5,0,0,5,0,0,11,11,16,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,20,2014-05-12,2014-05-18,117,117,0,4,3,0,0,7,0,0,8,8,15,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,21,2014-05-19,2014-05-25,135,135,0,0,4,0,0,4,0,0,8,8,12,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,22,2014-05-26,2014-06-01,105,105,0,0,4,0,0,4,0,0,8,8,12,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,23,2014-06-02,2014-06-08,123,123,0,0,2,1,0,3,0,0,7,7,10,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,24,2014-06-09,2014-06-15,110,110,0,1,5,0,0,6,0,0,7,7,13,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,25,2014-06-16,2014-06-22,100,100,0,1,1,0,0,2,0,0,4,4,6,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,26,2014-06-23,2014-06-29,86,86,0,1,5,0,0,6,0,0,8,8,14,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,27,2014-06-30,2014-07-06,103,103,0,0,3,0,0,3,0,0,5,5,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,28,2014-07-07,2014-07-13,60,60,0,0,3,0,0,3,0,0,3,3,6,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,29,2014-07-14,2014-07-20,78,78,0,0,6,0,0,6,0,0,2,2,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,30,2014-07-21,2014-07-27,65,65,0,0,3,0,0,3,0,0,0,0,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,31,2014-07-28,2014-08-03,8,8,0,1,3,0,0,4,0,0,0,0,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,32,2014-08-04,2014-08-10,72,72,0,0,2,0,0,2,0,0,3,3,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,33,2014-08-11,2014-08-17,75,75,0,0,3,0,0,3,0,0,3,3,6,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,34,2014-08-18,2014-08-24,79,79,0,0,2,0,0,2,0,0,3,3,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,35,2014-08-25,2014-08-31,103,103,0,0,4,0,0,4,0,0,5,5,9,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,36,2014-09-01,2014-09-07,84,84,0,2,1,0,0,3,0,0,2,2,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,37,2014-09-08,2014-09-14,129,129,0,0,7,0,0,7,0,0,4,4,11,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,38,2014-09-15,2014-09-21,111,111,0,0,5,0,0,5,0,0,4,4,9,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,39,2014-09-22,2014-09-28,97,97,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,40,2014-09-29,2014-10-05,82,82,0,0,0,0,0,0,0,0,5,5,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,41,2014-10-06,2014-10-12,100,100,0,0,4,0,0,4,0,0,7,7,11,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,42,2014-10-13,2014-10-19,74,74,0,1,0,0,0,1,0,0,4,4,5,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,43,2014-10-20,2014-10-26,92,92,0,2,6,0,0,8,0,0,7,7,15,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,44,2014-10-27,2014-11-02,98,98,0,3,2,0,0,5,0,0,8,8,13,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,45,2014-11-03,2014-11-09,90,90,0,2,2,0,0,4,0,0,4,4,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,46,2014-11-10,2014-11-16,71,71,0,1,2,0,0,3,0,0,5,5,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,47,2014-11-17,2014-11-23,88,88,0,0,2,0,0,2,0,0,2,2,4,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,48,2014-11-24,2014-11-30,73,73,0,1,3,0,0,4,0,0,4,4,8,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,49,2014-12-01,2014-12-07,59,59,0,0,2,0,0,2,0,0,1,1,3,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,50,2014-12-08,2014-12-14,67,67,0,1,4,0,0,5,0,0,1,1,6,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,51,2014-12-15,2014-12-21,84,84,0,0,13,0,0,13,0,0,1,1,14,,Sporadic
+
+Indonesia,South-East Asia Region of WHO,South-East Asia,2014,52,2014-12-22,2014-12-28,27,27,0,0,4,0,0,4,0,0,1,1,5,,Sporadic
+
+

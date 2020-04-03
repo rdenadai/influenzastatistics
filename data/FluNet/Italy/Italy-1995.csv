@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Italy,European Region of WHO,South West Europe,2020,1,2019-12-30,2020-01-05,761,761,,25,30,,5,60,,3,22,25,85,676,Local Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,2,2020-01-06,2020-01-12,932,932,,55,70,,3,128,,10,40,50,178,754,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,3,2020-01-13,2020-01-19,1372,12372,,131,166,,12,309,,40,105,145,454,918,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,4,2020-01-20,2020-01-26,1240,1240,,116,147,,19,282,,39,98,137,419,821,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,5,2020-01-27,2020-02-02,1581,1581,,148,191,,20,359,1,47,137,185,544,1037,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,6,2020-02-03,2020-02-09,1519,1519,,125,179,,24,328,2,69,115,186,514,1005,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,7,2020-02-10,2020-02-16,1303,1303,,118,193,,32,343,,61,143,204,547,756,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,8,2020-02-17,2020-02-23,1139,1139,,86,143,,60,289,,30,124,154,443,696,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,9,2020-02-24,2020-03-01,817,817,,57,117,,13,187,,18,73,91,278,539,Widespread Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,10,2020-03-02,2020-03-08,498,498,,23,45,,9,77,,3,31,34,111,387,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,11,2020-03-09,2020-03-15,239,228,,6,5,,2,13,,6,6,12,25,203,Regional Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,12,2020-03-16,2020-03-22,97,89,,,,,,0,,,0,0,0,89,Local Outbreak
+
+Italy,European Region of WHO,South West Europe,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Italy,European Region of WHO,South West Europe,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

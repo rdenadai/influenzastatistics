@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,1,2017-01-02,2017-01-08,164,164,,0,0,0,0,0,0,0,0,0,0,164,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,2,2017-01-09,2017-01-15,148,148,,0,0,0,0,0,0,1,0,1,1,147,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,3,2017-01-16,2017-01-22,155,155,,0,0,0,0,0,1,0,0,1,1,154,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,4,2017-01-23,2017-01-29,131,131,,0,0,0,0,0,0,0,0,0,0,131,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,5,2017-01-30,2017-02-05,176,176,,0,0,0,0,0,2,0,0,2,2,174,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,6,2017-02-06,2017-02-12,184,184,,0,1,0,0,1,0,0,0,0,1,183,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,7,2017-02-13,2017-02-19,145,145,,1,0,0,0,1,0,0,0,0,1,144,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,8,2017-02-20,2017-02-26,130,130,,1,0,0,0,1,0,1,0,1,2,128,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,9,2017-02-27,2017-03-05,141,141,,0,1,0,0,1,0,1,0,1,2,139,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,10,2017-03-06,2017-03-12,180,180,,0,1,0,0,1,0,0,0,0,1,179,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,11,2017-03-13,2017-03-19,141,141,,0,1,0,0,1,0,0,0,0,1,140,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,12,2017-03-20,2017-03-26,136,136,,0,2,0,0,2,0,0,0,0,2,134,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,13,2017-03-27,2017-04-02,107,107,,1,0,0,0,1,0,1,0,1,2,105,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,14,2017-04-03,2017-04-09,159,159,,4,0,0,0,4,1,0,0,1,5,154,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,15,2017-04-10,2017-04-16,156,156,,5,1,0,0,6,1,3,0,4,10,146,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,16,2017-04-17,2017-04-23,105,105,,1,1,0,0,2,0,1,0,1,3,102,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,17,2017-04-24,2017-04-30,111,111,,5,2,0,0,7,0,0,0,0,7,104,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,18,2017-05-01,2017-05-07,139,139,,23,5,0,0,28,1,1,0,2,30,109,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,19,2017-05-08,2017-05-14,163,163,,28,2,0,0,30,0,2,0,2,32,131,Sporadic
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,20,2017-05-15,2017-05-21,81,81,,20,3,0,0,23,0,0,0,0,23,58,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,21,2017-05-22,2017-05-28,148,148,,57,8,0,0,65,0,0,0,0,65,83,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,22,2017-05-29,2017-06-04,195,195,,61,22,0,0,83,0,2,0,2,85,110,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,23,2017-06-05,2017-06-11,258,258,,62,44,0,0,106,2,2,0,4,110,148,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,24,2017-06-12,2017-06-18,155,155,,51,22,0,0,73,0,0,0,0,73,82,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,25,2017-06-19,2017-06-25,166,166,,33,32,0,0,65,0,1,0,1,66,100,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,26,2017-06-26,2017-07-02,75,75,,15,12,0,0,27,0,0,0,0,27,48,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,27,2017-07-03,2017-07-09,309,309,,93,58,0,0,151,2,10,0,12,163,146,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,28,2017-07-10,2017-07-16,197,197,,23,39,0,0,62,3,8,,11,73,124,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,29,2017-07-17,2017-07-23,188,188,,19,24,0,0,43,5,12,,17,60,128,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,30,2017-07-24,2017-07-30,148,148,,7,21,0,0,28,5,7,0,12,40,108,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,31,2017-07-31,2017-08-06,185,185,,6,11,0,0,17,10,25,0,35,52,133,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,32,2017-08-07,2017-08-13,196,196,,7,6,0,0,13,9,25,0,34,47,149,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,33,2017-08-14,2017-08-20,52,52,,0,0,0,0,0,4,6,0,10,10,42,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,34,2017-08-21,2017-08-27,168,168,,1,0,0,0,1,20,19,0,39,40,128,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,35,2017-08-28,2017-09-03,76,76,,,,,,0,5,4,0,9,9,67,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,36,2017-09-04,2017-09-10,208,208,,,,,,0,19,21,0,40,40,168,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,37,2017-09-11,2017-09-17,125,125,,,,,,0,8,13,0,21,21,104,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,38,2017-09-18,2017-09-24,84,84,,,,,,0,8,13,0,21,21,63,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,39,2017-09-25,2017-10-01,81,81,,1,,,,1,6,2,,8,9,72,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,40,2017-10-02,2017-10-08,122,122,,,,,,0,8,11,,19,19,103,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,41,2017-10-09,2017-10-15,130,130,,,,,,0,4,8,,12,12,118,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,42,2017-10-16,2017-10-22,89,89,,,,,,0,4,7,,11,11,78,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,43,2017-10-23,2017-10-29,32,32,,0,0,0,0,0,2,3,0,5,5,27,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,44,2017-10-30,2017-11-05,48,48,,0,0,0,0,0,2,1,0,3,3,45,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,45,2017-11-06,2017-11-12,,,,,,,,,,,,,,,No Report
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,46,2017-11-13,2017-11-19,23,23,,0,0,0,0,0,0,0,0,0,0,23,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,47,2017-11-20,2017-11-26,28,28,,0,0,0,0,0,0,0,0,0,0,28,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,48,2017-11-27,2017-12-03,18,18,,0,0,0,0,0,0,1,0,1,1,17,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,49,2017-12-04,2017-12-10,48,48,,0,0,0,0,0,0,2,0,2,2,46,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,50,2017-12-11,2017-12-17,17,17,,0,0,0,0,0,0,0,0,0,0,17,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,51,2017-12-18,2017-12-24,33,33,,1,0,0,0,1,0,0,0,0,1,32,No Activity
+
+Bangladesh,South-East Asia Region of WHO,Southern Asia,2017,52,2017-12-25,2017-12-31,3,3,,0,0,0,0,0,0,0,0,0,0,3,No Activity
+
+

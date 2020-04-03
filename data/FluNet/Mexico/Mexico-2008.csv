@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,1,2007-01-01,2007-01-07,,26,0,,0,,0,0,,,0,0,0,26,No Activity
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,2,2007-01-08,2007-01-14,,82,1,,0,,0,1,,,1,1,2,80,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,3,2007-01-15,2007-01-21,,142,0,,3,,0,3,,,4,4,7,135,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,4,2007-01-22,2007-01-28,,163,1,,0,,1,2,,,0,0,2,161,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,5,2007-01-29,2007-02-04,,142,0,,1,,2,3,,,1,1,4,138,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,6,2007-02-05,2007-02-11,,115,2,,1,,1,4,,,1,1,5,110,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,7,2007-02-12,2007-02-18,,134,0,,1,,1,2,,,2,2,4,130,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,8,2007-02-19,2007-02-25,,210,7,,3,,2,12,,,2,2,14,196,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,9,2007-02-26,2007-03-04,,186,6,,4,,1,11,,,3,3,14,172,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,10,2007-03-05,2007-03-11,,216,5,,2,,0,7,,,8,8,15,201,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,11,2007-03-12,2007-03-18,,188,11,,10,,3,24,,,5,5,29,159,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,12,2007-03-19,2007-03-25,,153,4,,8,,3,15,,,1,1,16,137,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,13,2007-03-26,2007-04-01,,129,6,,20,,0,26,,,1,1,27,102,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,14,2007-04-02,2007-04-08,,34,1,,3,,0,4,,,1,1,5,29,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,15,2007-04-09,2007-04-15,,73,1,,6,,0,7,,,0,0,7,66,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,16,2007-04-16,2007-04-22,,84,1,,2,,2,5,,,1,1,6,78,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,17,2007-04-23,2007-04-29,,63,2,,4,,0,6,,,1,1,7,56,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,18,2007-04-30,2007-05-06,,77,2,,7,,1,10,,,0,0,10,67,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,19,2007-05-07,2007-05-13,,72,2,,5,,0,7,,,1,1,8,64,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,20,2007-05-14,2007-05-20,,82,2,,3,,0,5,,,0,0,5,77,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,21,2007-05-21,2007-05-27,,88,1,,3,,3,7,,,1,1,8,80,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,22,2007-05-28,2007-06-03,,40,0,,0,,0,0,,,0,0,0,40,No Activity
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,23,2007-06-04,2007-06-10,,63,0,,4,,0,4,,,0,0,4,59,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,24,2007-06-11,2007-06-17,,76,1,,0,,0,1,,,0,0,1,75,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,25,2007-06-18,2007-06-24,,62,1,,0,,0,1,,,0,0,1,61,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,26,2007-06-25,2007-07-01,,60,1,,0,,2,3,,,0,0,3,57,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,27,2007-07-02,2007-07-08,,51,0,,0,,1,1,,,0,0,1,50,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,28,2007-07-09,2007-07-15,,42,0,,0,,1,1,,,1,1,2,40,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,29,2007-07-16,2007-07-22,,29,1,,0,,0,1,,,1,1,2,27,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,30,2007-07-23,2007-07-29,,36,1,,0,,0,1,,,2,2,3,33,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,31,2007-07-30,2007-08-05,,34,0,,0,,1,1,,,0,0,1,33,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,32,2007-08-06,2007-08-12,,21,1,,0,,0,1,,,0,0,1,20,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,33,2007-08-13,2007-08-19,,31,0,,0,,0,0,,,0,0,0,31,No Activity
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,34,2007-08-20,2007-08-26,,24,0,,0,,0,0,,,0,0,0,24,No Activity
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,35,2007-08-27,2007-09-02,,59,3,,2,,3,8,,,0,0,8,51,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,36,2007-09-03,2007-09-09,,52,1,,2,,0,3,,,0,0,3,49,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,37,2007-09-10,2007-09-16,,78,0,,0,,2,2,,,0,0,2,76,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,38,2007-09-17,2007-09-23,,100,2,,0,,1,3,,,0,0,3,97,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,39,2007-09-24,2007-09-30,,77,0,,0,,0,0,,,0,0,0,77,No Activity
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,40,2007-10-01,2007-10-07,,76,0,,0,,2,2,,,0,0,2,74,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,41,2007-10-08,2007-10-14,,68,0,,0,,3,3,,,0,0,3,65,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,42,2007-10-15,2007-10-21,,95,1,,1,,5,7,,,0,0,7,88,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,43,2007-10-22,2007-10-28,,104,0,,0,,1,1,,,0,0,1,103,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,44,2007-10-29,2007-11-04,,63,0,,0,,4,4,,,0,0,4,59,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,45,2007-11-05,2007-11-11,,191,5,,0,,2,7,,,0,0,7,184,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,46,2007-11-12,2007-11-18,,167,3,,0,,18,21,,,0,0,21,146,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,47,2007-11-19,2007-11-25,,220,0,,0,,34,34,,,0,0,34,186,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,48,2007-11-26,2007-12-02,,231,0,,0,,31,31,,,0,0,31,200,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,49,2007-12-03,2007-12-09,,379,0,,0,,26,26,,,0,0,26,353,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,50,2007-12-10,2007-12-16,,340,0,,0,,21,21,,,0,0,21,319,Local Outbreak
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,51,2007-12-17,2007-12-23,,123,0,,0,,2,2,,,0,0,2,121,Sporadic
+
+Mexico,Region of the Americas of WHO,Central America and Caribbean,2007,52,2007-12-24,2007-12-30,,46,0,,0,,0,0,,,0,0,0,46,No Activity
+
+

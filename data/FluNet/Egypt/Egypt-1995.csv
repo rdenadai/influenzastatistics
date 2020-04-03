@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,1,2019-12-30,2020-01-05,577,577,,156,4,0,0,160,,,41,41,201,376,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,2,2020-01-06,2020-01-12,496,496,,68,3,0,0,71,,,23,23,94,402,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,3,2020-01-13,2020-01-19,407,407,,38,0,0,0,38,,,25,25,63,344,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,4,2020-01-20,2020-01-26,485,485,,32,4,0,0,36,,,37,37,73,412,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,5,2020-01-27,2020-02-02,406,406,,15,3,0,0,18,,,27,27,45,361,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,6,2020-02-03,2020-02-09,452,452,,22,11,0,0,33,,,33,33,66,386,Local Outbreak
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,7,2020-02-10,2020-02-16,388,388,,11,4,0,0,15,,,21,21,36,352,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,8,2020-02-17,2020-02-23,352,352,,5,6,0,0,11,,,5,5,16,336,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,9,2020-02-24,2020-03-01,,,,,,,,,,,,,,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,10,2020-03-02,2020-03-08,,,,,,,,,,,,,,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,11,2020-03-09,2020-03-15,,,,,,,,,,,,,,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,12,2020-03-16,2020-03-22,,,,,,,,,,,,,,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Egypt,Eastern Mediterranean Region of WHO,Northern Africa,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

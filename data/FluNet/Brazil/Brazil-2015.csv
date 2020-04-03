@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,1,2013-12-30,2014-01-05,72,59,0,2,5,0,0,7,0,0,3,3,10,57,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,2,2014-01-06,2014-01-12,126,113,0,6,11,0,0,17,0,0,3,3,20,104,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,3,2014-01-13,2014-01-19,106,93,0,4,12,0,0,16,0,0,1,1,17,86,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,4,2014-01-20,2014-01-26,105,97,0,2,6,0,0,8,0,0,2,2,10,93,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,5,2014-01-27,2014-02-02,109,106,0,0,4,0,0,4,0,0,1,1,5,104,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,6,2014-02-03,2014-02-09,110,100,0,1,4,0,0,5,0,0,2,2,7,98,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,7,2014-02-10,2014-02-16,99,93,0,1,3,0,0,4,0,0,3,3,7,88,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,8,2014-02-17,2014-02-23,139,136,0,1,16,0,0,17,0,0,2,2,19,118,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,9,2014-02-24,2014-03-02,137,131,0,5,6,0,0,11,0,0,1,1,12,123,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,10,2014-03-03,2014-03-09,105,99,0,3,7,0,0,10,0,0,0,0,10,92,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,11,2014-03-10,2014-03-16,142,137,0,6,7,0,0,13,0,0,0,0,13,127,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,12,2014-03-17,2014-03-23,175,162,0,7,15,0,0,22,0,0,1,1,23,141,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,13,2014-03-24,2014-03-30,156,150,0,7,18,0,0,25,0,0,2,2,27,127,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,14,2014-03-31,2014-04-06,161,151,0,11,22,0,0,33,0,0,1,1,34,121,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,15,2014-04-07,2014-04-13,270,268,0,8,24,0,0,32,0,0,2,2,34,236,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,16,2014-04-14,2014-04-20,223,216,0,10,24,0,0,34,0,0,1,1,35,184,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,17,2014-04-21,2014-04-27,264,257,0,10,29,0,0,39,0,0,9,9,48,216,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,18,2014-04-28,2014-05-04,257,241,0,15,37,0,0,52,0,0,4,4,56,199,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,19,2014-05-05,2014-05-11,433,422,0,28,49,0,0,77,0,0,3,3,80,350,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,20,2014-05-12,2014-05-18,390,375,0,16,50,0,0,66,0,0,3,3,69,314,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,21,2014-05-19,2014-05-25,399,379,0,14,60,0,0,74,0,0,4,4,78,317,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,22,2014-05-26,2014-06-01,444,425,0,10,70,0,0,80,0,0,2,2,82,360,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,23,2014-06-02,2014-06-08,546,520,0,13,99,0,0,112,0,0,7,7,119,426,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,24,2014-06-09,2014-06-15,420,405,0,14,61,0,0,75,0,0,4,4,79,339,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,25,2014-06-16,2014-06-22,305,285,0,12,28,0,0,40,0,0,3,3,43,261,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,26,2014-06-23,2014-06-29,348,337,0,9,30,0,0,39,0,0,1,1,40,308,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,27,2014-06-30,2014-07-06,405,396,0,6,28,0,0,34,0,0,6,6,40,364,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,28,2014-07-07,2014-07-13,282,262,0,6,31,0,0,37,0,0,8,8,45,235,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,29,2014-07-14,2014-07-20,278,261,0,4,25,0,0,29,0,0,8,8,37,240,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,30,2014-07-21,2014-07-27,223,213,0,6,19,0,0,25,0,0,5,5,30,193,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,31,2014-07-28,2014-08-03,238,220,0,5,20,0,0,25,0,0,11,11,36,198,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,32,2014-08-04,2014-08-10,252,238,0,5,24,0,0,29,0,0,14,14,43,207,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,33,2014-08-11,2014-08-17,308,287,0,6,20,0,0,26,0,0,15,15,41,265,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,34,2014-08-18,2014-08-24,258,239,0,7,22,0,0,29,0,0,19,19,48,206,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,35,2014-08-25,2014-08-31,223,205,0,10,19,0,0,29,0,0,21,21,50,172,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,36,2014-09-01,2014-09-07,210,195,0,8,13,0,0,21,0,0,30,30,51,159,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,37,2014-09-08,2014-09-14,189,170,0,5,10,0,0,15,0,0,25,25,40,139,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,38,2014-09-15,2014-09-21,212,208,0,5,8,0,0,13,0,0,23,23,36,172,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,39,2014-09-22,2014-09-28,166,165,0,8,14,0,0,22,0,0,19,19,41,124,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,40,2014-09-29,2014-10-05,142,142,0,7,5,0,0,12,0,0,18,18,30,112,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,41,2014-10-06,2014-10-12,174,174,0,10,5,0,0,15,0,0,22,22,37,137,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,42,2014-10-13,2014-10-19,143,143,0,8,3,0,0,11,0,0,19,19,30,113,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,43,2014-10-20,2014-10-26,161,161,0,11,7,0,0,18,0,0,18,18,36,125,Regional Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,44,2014-10-27,2014-11-02,152,152,0,2,2,0,0,4,0,0,15,15,19,133,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,45,2014-11-03,2014-11-09,126,126,0,3,1,0,0,4,0,0,10,10,14,112,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,46,2014-11-10,2014-11-16,126,126,0,1,5,0,0,6,0,0,10,10,16,110,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,47,2014-11-17,2014-11-23,124,124,0,3,1,0,0,4,0,0,6,6,10,114,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,48,2014-11-24,2014-11-30,135,135,0,1,2,0,0,3,0,0,8,8,11,124,Local Outbreak
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,49,2014-12-01,2014-12-07,121,121,0,1,2,0,0,3,0,0,3,3,6,115,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,50,2014-12-08,2014-12-14,132,132,0,1,4,0,0,5,0,0,3,3,8,124,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,51,2014-12-15,2014-12-21,115,115,0,0,5,0,0,5,0,0,5,5,10,105,Sporadic
+
+Brazil,Region of the Americas of WHO,Tropical South America,2014,52,2014-12-22,2014-12-28,88,88,0,0,1,0,0,1,0,0,1,1,2,86,Sporadic
+
+

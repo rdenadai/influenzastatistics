@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+France,European Region of WHO,South West Europe,2017,1,2017-01-02,2017-01-08,,8662,0,3,449,,1591,2043,0,0,10,10,2053,,No Report
+
+France,European Region of WHO,South West Europe,2017,2,2017-01-09,2017-01-15,,8418,0,3,433,,1598,2034,0,0,6,6,2040,,No Report
+
+France,European Region of WHO,South West Europe,2017,3,2017-01-16,2017-01-22,,7162,0,3,362,,1161,1526,0,0,4,4,1530,,No Report
+
+France,European Region of WHO,South West Europe,2017,4,2017-01-23,2017-01-29,,6903,0,0,346,,1223,1569,0,0,9,9,1578,,No Report
+
+France,European Region of WHO,South West Europe,2017,5,2017-01-30,2017-02-05,,6874,0,7,383,,1138,1528,0,0,17,17,1545,,No Report
+
+France,European Region of WHO,South West Europe,2017,6,2017-02-06,2017-02-12,,5449,0,4,245,,592,841,0,0,11,11,852,,No Report
+
+France,European Region of WHO,South West Europe,2017,7,2017-02-13,2017-02-19,,4283,0,2,176,,354,532,0,0,17,17,549,,No Report
+
+France,European Region of WHO,South West Europe,2017,8,2017-02-20,2017-02-26,,3463,0,1,79,,143,223,1,0,17,18,241,,No Report
+
+France,European Region of WHO,South West Europe,2017,9,2017-02-27,2017-03-05,,2820,0,1,40,,87,128,1,0,8,9,137,,No Report
+
+France,European Region of WHO,South West Europe,2017,10,2017-03-06,2017-03-12,,2421,0,1,23,,44,68,0,0,7,7,75,,No Report
+
+France,European Region of WHO,South West Europe,2017,11,2017-03-13,2017-03-19,,1892,0,1,12,,25,38,0,0,14,14,52,,No Report
+
+France,European Region of WHO,South West Europe,2017,12,2017-03-20,2017-03-26,,1671,0,4,9,,12,25,0,0,4,4,29,,No Report
+
+France,European Region of WHO,South West Europe,2017,13,2017-03-27,2017-04-02,,1405,0,0,1,,4,5,0,0,8,8,13,,No Report
+
+France,European Region of WHO,South West Europe,2017,14,2017-04-03,2017-04-09,,1271,0,0,0,,1,1,0,0,2,2,3,,No Report
+
+France,European Region of WHO,South West Europe,2017,15,2017-04-10,2017-04-16,,578,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+France,European Region of WHO,South West Europe,2017,16,2017-04-17,2017-04-23,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,17,2017-04-24,2017-04-30,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,18,2017-05-01,2017-05-07,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,19,2017-05-08,2017-05-14,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,20,2017-05-15,2017-05-21,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,21,2017-05-22,2017-05-28,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,22,2017-05-29,2017-06-04,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,23,2017-06-05,2017-06-11,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,24,2017-06-12,2017-06-18,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,25,2017-06-19,2017-06-25,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,26,2017-06-26,2017-07-02,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,27,2017-07-03,2017-07-09,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,28,2017-07-10,2017-07-16,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,29,2017-07-17,2017-07-23,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,30,2017-07-24,2017-07-30,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,31,2017-07-31,2017-08-06,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,32,2017-08-07,2017-08-13,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,33,2017-08-14,2017-08-20,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,34,2017-08-21,2017-08-27,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,35,2017-08-28,2017-09-03,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,36,2017-09-04,2017-09-10,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,37,2017-09-11,2017-09-17,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,38,2017-09-18,2017-09-24,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,39,2017-09-25,2017-10-01,,,,,,,,,,,,,,,No Report
+
+France,European Region of WHO,South West Europe,2017,40,2017-10-02,2017-10-08,,1048,0,0,0,,2,2,0,0,1,1,3,,No Report
+
+France,European Region of WHO,South West Europe,2017,41,2017-10-09,2017-10-15,,1643,0,1,2,,4,7,0,0,1,1,8,,No Report
+
+France,European Region of WHO,South West Europe,2017,42,2017-10-16,2017-10-22,,1402,0,4,2,,2,8,0,0,1,1,9,,No Report
+
+France,European Region of WHO,South West Europe,2017,43,2017-10-23,2017-10-29,,1605,0,4,5,,7,16,0,0,2,2,18,,No Report
+
+France,European Region of WHO,South West Europe,2017,44,2017-10-30,2017-11-05,,1591,0,4,0,,18,22,0,0,4,4,26,,No Report
+
+France,European Region of WHO,South West Europe,2017,45,2017-11-06,2017-11-12,,1766,0,4,2,,9,15,1,0,7,8,23,,No Report
+
+France,European Region of WHO,South West Europe,2017,46,2017-11-13,2017-11-19,,2061,0,8,4,,18,30,1,0,6,7,37,,No Report
+
+France,European Region of WHO,South West Europe,2017,47,2017-11-20,2017-11-26,,2590,0,17,12,,33,62,3,0,15,18,80,,No Report
+
+France,European Region of WHO,South West Europe,2017,48,2017-11-27,2017-12-03,,3172,0,36,3,,65,104,4,1,24,29,133,,No Report
+
+France,European Region of WHO,South West Europe,2017,49,2017-12-04,2017-12-10,,3906,0,74,13,,175,262,8,0,71,79,341,,No Report
+
+France,European Region of WHO,South West Europe,2017,50,2017-12-11,2017-12-17,,5247,0,148,12,,374,534,14,0,143,157,691,,No Report
+
+France,European Region of WHO,South West Europe,2017,51,2017-12-18,2017-12-24,,6443,0,284,35,,700,1019,25,1,316,342,1361,,No Report
+
+France,European Region of WHO,South West Europe,2017,52,2017-12-25,2017-12-31,,7942,0,284,35,,1347,1666,23,1,540,564,2230,,No Report
+
+

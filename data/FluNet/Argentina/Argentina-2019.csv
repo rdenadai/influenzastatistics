@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,1,2018-01-01,2018-01-07,,432,0,0,0,,1,1,2,1,1,4,5,427,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,2,2018-01-08,2018-01-14,,489,0,0,0,,3,3,0,0,0,0,3,486,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,3,2018-01-15,2018-01-21,,451,0,0,0,,1,1,0,0,0,0,1,450,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,4,2018-01-22,2018-01-28,,453,0,0,0,,2,2,0,0,2,2,4,449,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,5,2018-01-29,2018-02-04,,464,0,1,1,,0,2,1,0,0,1,3,461,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,6,2018-02-05,2018-02-11,,421,0,0,0,,3,3,0,0,1,1,4,417,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,7,2018-02-12,2018-02-18,,342,0,0,0,,1,1,2,0,1,3,4,338,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,8,2018-02-19,2018-02-25,,512,0,0,1,,0,1,0,0,1,1,2,510,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,9,2018-02-26,2018-03-04,,495,0,0,1,,0,1,0,0,3,3,4,491,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,10,2018-03-05,2018-03-11,,436,0,0,0,,0,0,0,0,0,0,0,436,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,11,2018-03-12,2018-03-18,,644,0,0,0,,0,0,0,0,1,1,1,643,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,12,2018-03-19,2018-03-25,,813,0,0,0,,1,1,1,0,0,1,2,811,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,13,2018-03-26,2018-04-01,,615,0,1,0,,3,4,0,0,1,1,5,610,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,14,2018-04-02,2018-04-08,,755,0,0,0,,0,0,0,0,2,2,2,753,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,15,2018-04-09,2018-04-15,,750,0,1,0,,1,2,0,0,3,3,5,745,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,16,2018-04-16,2018-04-22,,694,0,0,1,,1,2,0,0,1,1,3,691,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,17,2018-04-23,2018-04-29,,591,0,0,0,,2,2,0,0,1,1,3,588,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,18,2018-04-30,2018-05-06,,1143,0,0,1,,2,3,0,1,1,2,5,1138,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,19,2018-05-07,2018-05-13,,1205,0,4,0,,6,10,0,0,1,1,11,1194,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,20,2018-05-14,2018-05-20,,1448,0,4,0,,1,5,4,0,7,11,16,1432,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,21,2018-05-21,2018-05-27,,1761,0,3,0,,5,8,1,0,6,7,15,1746,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,22,2018-05-28,2018-06-03,,2469,0,5,1,,11,17,3,0,6,9,26,2443,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,23,2018-06-04,2018-06-10,,2560,0,7,1,,16,24,4,3,8,15,39,2521,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,24,2018-06-11,2018-06-17,,2996,0,11,4,,16,31,2,4,14,20,51,2945,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,25,2018-06-18,2018-06-24,,3290,0,16,6,,27,49,8,1,10,19,68,3222,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,26,2018-06-25,2018-07-01,,3408,0,31,1,,25,57,2,6,10,18,75,3333,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,27,2018-07-02,2018-07-08,,3353,0,38,3,,33,74,4,2,22,28,102,3251,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,28,2018-07-09,2018-07-15,,3090,0,17,7,,74,98,7,2,35,44,142,2948,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,29,2018-07-16,2018-07-22,,3425,0,59,9,,83,151,15,3,69,87,238,3187,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,30,2018-07-23,2018-07-29,,3106,0,49,5,,80,134,17,3,56,76,210,2896,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,31,2018-07-30,2018-08-05,,2681,0,62,2,,49,113,16,3,56,75,188,2493,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,32,2018-08-06,2018-08-12,,2642,0,101,6,,87,194,41,6,77,124,318,2324,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,33,2018-08-13,2018-08-19,,2616,0,128,14,,84,226,38,8,102,148,374,2242,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,34,2018-08-20,2018-08-26,,2599,0,148,8,,121,277,37,6,106,149,426,2173,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,35,2018-08-27,2018-09-02,,2790,0,179,4,,185,368,52,10,115,177,545,2245,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,36,2018-09-03,2018-09-09,,2773,0,218,13,,32,263,61,6,74,141,404,2369,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,37,2018-09-10,2018-09-16,,2772,0,176,9,,56,241,54,14,84,152,393,2379,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,38,2018-09-17,2018-09-23,,2206,0,122,10,,39,171,41,12,47,100,271,1935,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,39,2018-09-24,2018-09-30,,2116,0,85,8,,35,128,30,10,33,73,201,1915,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,40,2018-10-01,2018-10-07,,1628,,39,5,,22,66,18,3,29,50,116,1512,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,41,2018-10-08,2018-10-14,,1561,,25,2,,28,55,7,0,41,48,103,1458,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,42,2018-10-15,2018-10-21,,1350,,16,3,,10,29,5,2,19,26,55,1295,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,43,2018-10-22,2018-10-28,,1305,,8,2,,15,25,4,1,21,26,51,1254,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,44,2018-10-29,2018-11-04,,1145,,7,1,,7,15,4,1,16,21,36,1109,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,45,2018-11-05,2018-11-11,,949,,4,4,,12,20,4,1,16,21,41,908,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,46,2018-11-12,2018-11-18,,799,,1,1,,3,5,1,0,13,14,19,780,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,47,2018-11-19,2018-11-25,,757,,2,1,,4,7,0,0,3,3,10,747,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,48,2018-11-26,2018-12-02,,581,,1,6,,1,8,1,0,0,1,9,572,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,49,2018-12-03,2018-12-09,,469,,0,0,,1,1,0,0,1,1,2,467,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,50,2018-12-10,2018-12-16,,445,,0,0,,0,0,0,0,0,0,0,445,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,51,2018-12-17,2018-12-23,,188,,0,0,,0,0,0,0,4,4,4,184,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2018,52,2018-12-24,2018-12-30,,65,,0,0,,0,0,0,0,0,0,0,65,No Report
+
+

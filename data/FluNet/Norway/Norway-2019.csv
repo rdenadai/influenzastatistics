@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Norway,European Region of WHO,Northern Europe,2018,1,2018-01-01,2018-01-07,,7933,0,48,111,,382,541,102,1,1083,1186,1727,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,2,2018-01-08,2018-01-14,,8417,0,29,68,,403,500,56,1,1206,1263,1763,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,3,2018-01-15,2018-01-21,,7894,0,31,96,,402,529,71,4,1386,1461,1990,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,4,2018-01-22,2018-01-28,,8475,0,25,115,,554,694,64,0,1715,1779,2473,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,5,2018-01-29,2018-02-04,,8998,0,30,116,,708,854,66,2,2115,2183,3037,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,6,2018-02-05,2018-02-11,,8878,0,38,117,,650,805,79,1,2157,2237,3042,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,7,2018-02-12,2018-02-18,,9093,0,51,135,,789,975,56,1,2239,2296,3271,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,8,2018-02-19,2018-02-25,,8190,0,56,140,,727,923,70,1,1790,1861,2784,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,9,2018-02-26,2018-03-04,,7677,0,73,97,,663,833,65,0,1404,1469,2302,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,10,2018-03-05,2018-03-11,,7417,0,51,153,,694,898,74,1,1143,1218,2116,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,11,2018-03-12,2018-03-18,,7073,0,43,109,,737,889,54,0,926,980,1869,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,12,2018-03-19,2018-03-25,,6562,0,47,126,,685,858,40,0,728,768,1626,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,13,2018-03-26,2018-04-01,,3601,0,34,116,,287,437,50,1,284,335,772,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,14,2018-04-02,2018-04-08,,4783,0,35,92,,435,562,42,1,221,264,826,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,15,2018-04-09,2018-04-15,,4793,0,28,74,,345,447,51,1,155,207,654,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,16,2018-04-16,2018-04-22,,4021,0,36,48,,185,269,33,0,60,93,362,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,17,2018-04-23,2018-04-29,,3808,0,34,56,,125,215,12,0,33,45,260,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,18,2018-04-30,2018-05-06,,3185,0,15,37,,44,96,13,0,17,30,126,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,19,2018-05-07,2018-05-13,,3041,0,11,18,,23,52,6,0,6,12,64,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,20,2018-05-14,2018-05-20,,3012,0,13,6,,16,35,3,0,11,14,49,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,21,2018-05-21,2018-05-27,,1377,0,3,7,,4,14,1,0,1,2,16,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,22,2018-05-28,2018-06-03,,1195,0,0,4,,5,9,1,0,0,1,10,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,23,2018-06-04,2018-06-10,,599,0,3,0,,0,3,0,0,1,1,4,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,24,2018-06-11,2018-06-17,,436,0,0,2,,3,5,0,0,1,1,6,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,25,2018-06-18,2018-06-24,,612,0,0,5,,2,7,1,0,0,1,8,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,26,2018-06-25,2018-07-01,,850,0,2,3,,3,8,1,0,0,1,9,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,27,2018-07-02,2018-07-08,,414,0,1,1,,1,3,1,0,1,2,5,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,28,2018-07-09,2018-07-15,,166,0,0,1,,0,1,1,0,0,1,2,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,29,2018-07-16,2018-07-22,,767,0,1,3,,4,8,0,0,0,0,8,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,30,2018-07-23,2018-07-29,,357,0,4,2,,0,6,0,1,0,1,7,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,31,2018-07-30,2018-08-05,,241,0,6,1,,4,11,0,0,2,2,13,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,32,2018-08-06,2018-08-12,,573,0,3,0,,8,11,0,0,0,0,11,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,33,2018-08-13,2018-08-19,,369,0,1,2,,1,4,1,0,1,2,6,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,34,2018-08-20,2018-08-26,,234,0,2,0,,1,3,0,1,0,1,4,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,35,2018-08-27,2018-09-02,,502,0,1,2,,0,3,0,0,0,0,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,36,2018-09-03,2018-09-09,,588,0,0,2,,0,2,0,0,1,1,3,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,37,2018-09-10,2018-09-16,,351,0,1,2,,0,3,0,0,1,1,4,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,38,2018-09-17,2018-09-23,,298,0,0,5,,1,6,0,0,0,0,6,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,39,2018-09-24,2018-09-30,,856,0,0,0,,5,5,0,0,0,0,5,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,40,2018-10-01,2018-10-07,,3459,0,0,4,,0,4,1,0,3,4,8,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,41,2018-10-08,2018-10-14,,3465,0,2,5,,7,14,1,0,2,3,17,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,42,2018-10-15,2018-10-21,,3531,0,6,10,,8,24,2,0,4,6,30,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,43,2018-10-22,2018-10-28,,3698,0,5,8,,12,25,2,0,0,2,27,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,44,2018-10-29,2018-11-04,,3852,0,29,11,,19,59,0,0,2,2,61,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,45,2018-11-05,2018-11-11,,4140,0,23,12,,44,79,0,0,2,2,81,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,46,2018-11-12,2018-11-18,,4312,0,40,19,,39,98,0,0,2,2,100,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,47,2018-11-19,2018-11-25,,4541,0,22,6,,56,84,0,0,2,2,86,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,48,2018-11-26,2018-12-02,,4832,0,40,9,,48,97,0,0,0,0,97,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,49,2018-12-03,2018-12-09,,5015,0,55,23,,92,170,0,1,1,2,172,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,50,2018-12-10,2018-12-16,,5636,0,56,21,,186,263,0,0,2,2,265,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,51,2018-12-17,2018-12-23,,5804,0,95,28,,280,403,0,0,6,6,409,,No Report
+
+Norway,European Region of WHO,Northern Europe,2018,52,2018-12-24,2018-12-30,,3178,0,92,18,,258,368,1,1,0,2,370,,No Report
+
+

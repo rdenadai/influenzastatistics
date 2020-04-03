@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,1,2016-01-04,2016-01-10,7,467,0,1,0,0,0,1,0,4,5,9,10,457,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,2,2016-01-11,2016-01-17,5,402,0,1,0,0,1,2,0,1,1,2,4,398,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,3,2016-01-18,2016-01-24,1,412,0,1,0,0,3,4,0,1,0,1,5,407,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,4,2016-01-25,2016-01-31,1,388,0,0,3,0,1,4,0,0,1,1,5,383,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,5,2016-02-01,2016-02-07,3,385,0,0,0,0,4,4,0,0,0,0,4,381,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,6,2016-02-08,2016-02-14,1,296,0,3,0,0,1,4,0,0,0,0,4,292,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,7,2016-02-15,2016-02-21,2,376,0,2,1,0,2,5,1,0,1,2,7,369,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,8,2016-02-22,2016-02-28,2,380,0,4,0,0,1,5,0,1,2,3,8,372,No Activity
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,9,2016-02-29,2016-03-06,2,444,0,4,0,0,1,5,0,0,0,0,5,439,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,10,2016-03-07,2016-03-13,1,561,0,10,0,0,4,14,1,1,1,3,17,544,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,11,2016-03-14,2016-03-20,5,722,0,22,0,0,4,26,0,3,1,4,30,692,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,12,2016-03-21,2016-03-27,4,591,0,30,0,0,1,31,1,1,2,4,35,556,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,13,2016-03-28,2016-04-03,4,823,0,20,1,0,22,43,0,3,5,8,51,772,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,14,2016-04-04,2016-04-10,7,842,0,30,1,0,17,48,0,4,4,8,56,786,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,15,2016-04-11,2016-04-17,11,1010,0,49,1,0,42,92,1,3,12,16,108,902,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,16,2016-04-18,2016-04-24,5,1168,0,60,0,0,31,91,0,3,10,13,104,1064,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,17,2016-04-25,2016-05-01,12,1535,0,72,0,0,41,113,1,0,6,7,120,1415,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,18,2016-05-02,2016-05-08,26,1985,0,110,0,0,26,136,0,6,15,21,157,1828,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,19,2016-05-09,2016-05-15,55,2356,0,257,0,0,61,318,0,2,6,8,326,2030,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,20,2016-05-16,2016-05-22,84,3206,0,503,0,0,125,628,0,7,9,16,644,2562,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,21,2016-05-23,2016-05-29,90,4422,0,725,1,0,159,885,1,3,16,20,905,3517,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,22,2016-05-30,2016-06-05,77,5394,0,651,0,0,359,1010,0,11,51,62,1072,4322,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,23,2016-06-06,2016-06-12,90,5431,0,581,1,0,266,848,0,10,27,37,885,4546,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,24,2016-06-13,2016-06-19,73,4806,0,369,1,0,288,658,0,6,31,37,695,4111,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,25,2016-06-20,2016-06-26,54,4862,0,236,0,0,247,483,2,3,20,25,508,4354,Local Outbreak
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,26,2016-06-27,2016-07-03,33,4578,0,147,0,0,173,320,1,7,38,46,366,4212,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,27,2016-07-04,2016-07-10,28,3355,0,70,0,0,88,158,1,3,13,17,175,3180,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,28,2016-07-11,2016-07-17,25,3657,0,33,0,0,64,97,2,3,21,26,123,3534,Sporadic
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,29,2016-07-18,2016-07-24,,3099,0,24,1,,42,67,0,3,17,20,87,3012,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,30,2016-07-25,2016-07-31,,2609,0,11,0,,38,49,0,2,8,10,59,2550,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,31,2016-08-01,2016-08-07,,2326,0,5,0,,14,19,0,12,11,23,42,2284,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,32,2016-08-08,2016-08-14,,1910,0,1,0,,6,7,0,9,10,19,26,1884,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,33,2016-08-15,2016-08-21,,1748,0,0,0,,9,9,0,5,17,22,31,1717,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,34,2016-08-22,2016-08-28,,1592,0,1,0,,7,8,0,10,13,23,31,1561,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,35,2016-08-29,2016-09-04,,1602,0,1,0,,5,6,0,1,8,9,15,1587,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,36,2016-09-05,2016-09-11,,1286,0,6,0,,4,10,1,8,26,35,45,1241,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,37,2016-09-12,2016-09-18,,1262,0,0,1,,3,4,0,9,24,33,37,1225,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,38,2016-09-19,2016-09-25,,1201,0,3,0,,3,6,0,7,20,27,33,1168,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,39,2016-09-26,2016-10-02,,1108,0,1,0,,2,3,0,10,24,34,37,1071,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,40,2016-10-03,2016-10-09,,1016,0,1,0,,1,2,1,10,24,35,37,979,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,41,2016-10-10,2016-10-16,,855,0,0,0,,0,0,0,6,22,28,28,827,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,42,2016-10-17,2016-10-23,,823,0,0,0,,2,2,1,8,8,17,19,804,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,43,2016-10-24,2016-10-30,,703,0,0,0,,0,0,0,3,15,18,18,685,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,44,2016-10-31,2016-11-06,,647,0,0,0,,1,1,1,5,11,17,18,629,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,45,2016-11-07,2016-11-13,,651,0,0,0,,1,1,0,5,9,14,15,636,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,46,2016-11-14,2016-11-20,,601,0,0,16,,0,16,0,2,3,5,21,580,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,47,2016-11-21,2016-11-27,,464,0,0,2,,0,2,1,1,4,6,8,456,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,48,2016-11-28,2016-12-04,,393,0,0,0,,1,1,0,2,11,13,14,379,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,49,2016-12-05,2016-12-11,,268,0,0,0,,0,0,0,0,3,3,3,265,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,50,2016-12-12,2016-12-18,,214,0,0,0,,0,0,0,0,1,1,1,213,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,51,2016-12-19,2016-12-25,,97,0,0,0,,0,0,0,0,1,1,1,96,No Report
+
+Argentina,Region of the Americas of WHO,Temperate South America,2016,52,2016-12-26,2017-01-01,,138,0,0,0,,1,1,0,1,0,1,2,136,No Report
+
+

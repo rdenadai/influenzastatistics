@@ -1,0 +1,109 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Israel,European Region of WHO,Western Asia,2009,1,2008-12-29,2009-01-04,,35,4,,,,,4,,,2,2,6,,Sporadic
+
+Israel,European Region of WHO,Western Asia,2009,2,2009-01-05,2009-01-11,,40,7,,6,,4,17,,,2,2,19,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,3,2009-01-12,2009-01-18,,42,5,,5,,,10,,,6,6,16,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,4,2009-01-19,2009-01-25,,48,13,,13,,,26,,2,3,5,31,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,5,2009-01-26,2009-02-01,,61,8,,19,,0,27,,,13,13,40,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,6,2009-02-02,2009-02-08,,67,8,,17,,2,27,,,11,11,38,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,7,2009-02-09,2009-02-15,,54,9,,17,,3,29,,,6,6,35,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,8,2009-02-16,2009-02-22,,37,3,,7,,10,20,,,11,11,31,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,9,2009-02-23,2009-03-01,,37,9,,12,,0,21,,,6,6,27,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,10,2009-03-02,2009-03-08,,,2,,3,,0,5,,,11,11,16,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,11,2009-03-09,2009-03-15,,29,2,,3,,2,7,,,7,7,14,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,12,2009-03-16,2009-03-22,,12,,,1,,0,1,,,7,7,8,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,13,2009-03-23,2009-03-29,,12,,,1,,0,1,,,6,6,7,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,14,2009-03-30,2009-04-05,,14,1,,,,0,1,,,3,3,4,,Sporadic
+
+Israel,European Region of WHO,Western Asia,2009,15,2009-04-06,2009-04-12,,10,,,,,1,1,,,0,0,1,,Sporadic
+
+Israel,European Region of WHO,Western Asia,2009,16,2009-04-13,2009-04-19,,3,0,0,0,,0,0,0,0,3,3,3,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,17,2009-04-20,2009-04-26,,1,0,0,0,,0,0,0,0,0,0,0,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,18,2009-04-27,2009-05-03,,27,0,0,0,,0,0,0,0,1,1,1,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,19,2009-05-04,2009-05-10,,273,0,33,0,,0,33,0,0,1,1,34,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,20,2009-05-11,2009-05-17,,133,0,0,0,,0,0,0,0,1,1,1,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,21,2009-05-18,2009-05-24,,37,0,0,0,,2,2,0,0,0,0,2,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,22,2009-05-25,2009-05-31,,78,0,21,0,,1,22,0,0,0,0,22,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,23,2009-06-01,2009-06-07,,66,0,18,0,,0,18,0,0,1,1,19,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,24,2009-06-08,2009-06-14,,98,0,44,0,,0,44,0,0,1,1,45,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,25,2009-06-15,2009-06-21,,280,0,163,0,,0,163,0,0,0,0,163,,Local Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,26,2009-06-22,2009-06-28,494,494,,168,,,,168,,,0,0,168,,Regional Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,27,2009-06-29,2009-07-05,,509,0,217,0,,0,217,0,0,0,0,217,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,28,2009-07-06,2009-07-12,,223,0,139,0,,0,139,0,0,0,0,139,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,29,2009-07-13,2009-07-19,,462,0,296,0,,0,296,0,0,0,0,296,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,30,2009-07-20,2009-07-26,,571,0,343,0,,0,343,0,0,0,0,343,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,31,2009-07-27,2009-08-02,,693,0,485,0,,0,485,0,0,0,0,485,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,32,2009-08-03,2009-08-09,,906,0,290,0,,0,290,0,0,0,0,290,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,33,2009-08-10,2009-08-16,,846,0,249,0,,0,249,0,0,0,0,249,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,34,2009-08-17,2009-08-23,,737,0,225,0,,0,225,0,0,0,0,225,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,35,2009-08-24,2009-08-30,,737,0,196,0,,0,196,0,0,0,0,196,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,36,2009-08-31,2009-09-06,,878,0,197,0,,0,197,0,0,0,0,197,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,37,2009-09-07,2009-09-13,,715,0,167,0,,0,167,0,0,0,0,167,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,38,2009-09-14,2009-09-20,,940,0,194,0,,0,194,0,0,0,0,194,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,39,2009-09-21,2009-09-27,,762,0,146,0,,0,146,0,0,0,0,146,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,40,2009-09-28,2009-10-04,,711,0,197,0,,0,197,0,0,0,0,197,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,41,2009-10-05,2009-10-11,,750,0,171,0,,0,171,0,0,0,0,171,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,42,2009-10-12,2009-10-18,,635,0,108,0,,1,109,0,0,0,0,109,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,43,2009-10-19,2009-10-25,,607,0,161,0,,1,162,0,0,1,1,163,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,44,2009-10-26,2009-11-01,,795,0,313,1,,1,315,0,0,0,0,315,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,45,2009-11-02,2009-11-08,,742,0,324,1,,0,325,0,0,0,0,325,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,46,2009-11-09,2009-11-15,,1277,0,569,5,,20,594,0,0,1,1,595,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,47,2009-11-16,2009-11-22,,941,0,415,0,,5,420,0,0,0,0,420,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,48,2009-11-23,2009-11-29,,953,0,428,7,,9,444,0,0,0,0,444,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,49,2009-11-30,2009-12-06,,825,0,328,1,,0,329,0,0,0,0,329,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,50,2009-12-07,2009-12-13,,679,0,234,0,,3,237,0,0,0,0,237,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,51,2009-12-14,2009-12-20,,606,0,147,0,,1,148,0,0,0,0,148,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,52,2009-12-21,2009-12-27,,596,0,109,0,,3,112,0,0,1,1,113,,Widespread Outbreak
+
+Israel,European Region of WHO,Western Asia,2009,53,2009-12-28,2010-01-03,,593,0,48,1,,5,54,0,0,0,0,54,,Widespread Outbreak
+
+

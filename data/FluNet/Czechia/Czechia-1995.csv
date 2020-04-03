@@ -1,0 +1,31 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Czechia,European Region of WHO,Eastern Europe,2020,1,2019-12-30,2020-01-05,,24,0,0,0,,0,0,0,0,0,0,0,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,2,2020-01-06,2020-01-12,,75,0,8,22,,0,30,0,0,0,0,30,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,3,2020-01-13,2020-01-19,,36,0,4,10,,1,15,0,0,0,0,15,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,4,2020-01-20,2020-01-26,,54,0,3,18,,0,21,0,0,1,1,22,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,5,2020-01-27,2020-02-02,,82,0,10,28,,4,42,0,4,0,4,46,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,6,2020-02-03,2020-02-09,,107,0,12,48,,2,62,0,4,0,4,66,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,7,2020-02-10,2020-02-16,,110,0,21,40,,3,64,0,6,0,6,70,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,8,2020-02-17,2020-02-23,,,,,,,,,,,,,,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,9,2020-02-24,2020-03-01,,110,0,6,29,,2,37,0,3,6,9,46,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,10,2020-03-02,2020-03-08,,,,,,,,,,,,,,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,11,2020-03-09,2020-03-15,,,,,,,,,,,,,,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,12,2020-03-16,2020-03-22,,,,,,,,,,,,,,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,13,2020-03-23,2020-03-29,,,,,,,,,,,,,,,No Report
+
+Czechia,European Region of WHO,Eastern Europe,2020,14,2020-03-30,2020-04-05,,,,,,,,,,,,,,,No Report
+
+

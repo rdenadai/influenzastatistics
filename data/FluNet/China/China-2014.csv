@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,1,2012-12-31,2013-01-06,1217,,0,21,280,0,40,341,2,0,17,19,360,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,2,2013-01-07,2013-01-13,7803,5380,0,159,563,0,21,743,10,8,10,28,771,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,3,2013-01-14,2013-01-20,8392,4875,0,88,497,0,48,633,2,4,15,21,654,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,4,2013-01-21,2013-01-27,8308,5941,0,765,417,0,55,1237,14,3,16,33,1270,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,5,2013-01-28,2013-02-03,7739,4797,0,589,282,0,25,896,7,0,19,26,922,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,6,2013-02-04,2013-02-10,5920,2679,0,320,136,0,19,475,2,0,4,6,481,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,7,2013-02-11,2013-02-17,5293,2968,0,349,140,0,4,493,1,2,7,10,503,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,8,2013-02-18,2013-02-24,7106,3945,0,444,127,0,18,589,5,5,7,17,606,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,9,2013-02-25,2013-03-03,7760,5858,0,597,215,0,11,823,6,4,15,25,848,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,10,2013-03-04,2013-03-10,7979,5766,0,662,183,0,5,850,9,6,12,27,877,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,11,2013-03-11,2013-03-17,7909,5218,0,576,141,0,8,725,9,7,11,27,752,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,12,2013-03-18,2013-03-24,7578,5784,0,572,120,0,0,693,16,2,10,28,721,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,13,2013-03-25,2013-03-31,7105,5368,0,457,93,0,0,550,8,3,4,15,565,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,14,2013-04-01,2013-04-07,7396,5563,0,472,92,0,0,566,6,2,12,20,586,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,15,2013-04-08,2013-04-14,9235,6866,0,567,73,0,0,642,22,5,13,40,682,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,16,2013-04-15,2013-04-21,9362,6653,0,499,75,0,2,576,9,1,23,33,609,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,17,2013-04-22,2013-04-28,8602,6354,0,417,69,0,7,497,4,2,28,34,531,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,18,2013-04-29,2013-05-05,7256,5330,0,338,52,0,5,395,6,9,11,26,421,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,19,2013-05-06,2013-05-12,7777,5848,0,296,34,0,1,331,2,0,8,10,341,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,20,2013-05-13,2013-05-19,7285,5260,0,193,31,0,2,226,4,5,13,22,248,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,21,2013-05-20,2013-05-26,7607,5751,0,226,29,0,2,257,4,4,12,20,277,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,22,2013-05-27,2013-06-02,7228,5170,0,138,22,0,0,160,5,4,16,25,185,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,23,2013-06-03,2013-06-09,7013,4761,0,124,37,0,7,168,4,1,18,23,191,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,24,2013-06-10,2013-06-16,6751,4963,0,123,35,0,0,158,8,4,6,18,176,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,25,2013-06-17,2013-06-23,7435,5537,0,119,47,0,4,170,7,3,13,23,193,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,26,2013-06-24,2013-06-30,6956,4835,0,123,50,0,7,180,10,1,21,32,212,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,27,2013-07-01,2013-07-07,6871,5253,0,111,79,0,5,195,5,1,21,27,222,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,28,2013-07-08,2013-07-14,6726,4875,0,88,90,0,0,178,7,0,11,18,196,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,29,2013-07-15,2013-07-21,6972,4986,0,82,108,0,2,192,5,2,14,21,213,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,30,2013-07-22,2013-07-28,7193,5270,0,77,157,0,0,234,6,1,18,25,259,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,31,2013-07-29,2013-08-04,6767,4548,0,82,188,0,6,276,5,0,11,16,292,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,32,2013-08-05,2013-08-11,7391,5321,0,67,203,0,6,276,7,2,15,24,300,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,33,2013-08-12,2013-08-18,7463,5544,0,72,261,0,3,336,8,0,32,40,376,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,34,2013-08-19,2013-08-25,7373,5711,0,56,191,0,1,248,9,3,17,29,277,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,35,2013-08-26,2013-09-01,7047,5219,0,54,227,0,1,282,8,2,21,31,313,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,36,2013-09-02,2013-09-08,7041,4831,0,53,274,0,5,332,14,2,39,55,387,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,37,2013-09-09,2013-09-15,7685,5701,0,59,427,0,0,486,20,7,53,80,566,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,38,2013-09-16,2013-09-22,7103,5111,0,44,398,0,0,442,27,1,62,90,532,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,39,2013-09-23,2013-09-29,7987,5936,0,33,340,0,3,376,30,6,66,102,478,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,40,2013-09-30,2013-10-06,6855,4931,0,21,268,0,3,292,25,0,47,72,364,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,41,2013-10-07,2013-10-13,9611,7858,0,50,283,0,1,334,33,2,50,85,419,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,42,2013-10-14,2013-10-20,9625,7874,0,46,217,0,3,266,30,1,63,94,360,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,43,2013-10-21,2013-10-27,9855,7321,0,53,181,0,6,240,14,0,88,102,342,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,44,2013-10-28,2013-11-03,10335,8313,0,97,215,0,8,320,44,2,86,132,452,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,45,2013-11-04,2013-11-10,10268,7365,0,92,221,0,5,318,21,6,115,142,460,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,46,2013-11-11,2013-11-17,10718,8711,0,166,258,0,2,426,90,5,144,239,665,,Sporadic
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,47,2013-11-18,2013-11-24,10899,8107,0,131,322,0,10,463,52,5,211,268,731,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,48,2013-11-25,2013-12-01,11744,9906,0,273,512,0,4,790,178,11,241,430,1220,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,49,2013-12-02,2013-12-08,12378,10069,0,349,710,0,2,1062,197,13,341,551,1613,,Local Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,50,2013-12-09,2013-12-15,12723,9987,0,511,844,0,7,1362,186,31,450,667,2029,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,51,2013-12-16,2013-12-22,12805,9571,0,647,1014,0,12,1673,117,16,592,725,2398,,Regional Outbreak
+
+China,Western Pacific Region of WHO,Eastern Asia,2013,52,2013-12-23,2013-12-29,13752,11193,0,1238,1285,0,10,2534,346,23,655,1024,3558,,Regional Outbreak
+
+

@@ -1,0 +1,107 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,1,2007-01-01,2007-01-07,,217,1,,,,1,2,,,1,1,3,214,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,2,2007-01-08,2007-01-14,,238,,,,,2,2,,,1,1,3,235,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,3,2007-01-15,2007-01-21,,266,,,,,1,1,,,5,5,6,260,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,4,2007-01-22,2007-01-28,,227,,,,,1,1,,,4,4,5,222,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,5,2007-01-29,2007-02-04,,212,0,,,,,0,,,0,0,0,212,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,6,2007-02-05,2007-02-11,,182,0,,,,,0,,,0,0,0,182,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,7,2007-02-12,2007-02-18,,203,0,,,,,0,,,0,0,0,203,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,8,2007-02-19,2007-02-25,,203,,,,,3,3,,,0,0,3,200,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,9,2007-02-26,2007-03-04,,205,0,,,,,0,,,0,0,0,205,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,10,2007-03-05,2007-03-11,,221,,,,,1,1,,,0,0,1,220,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,11,2007-03-12,2007-03-18,,300,,,,,2,2,,,1,1,3,297,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,12,2007-03-19,2007-03-25,,307,,,,,4,4,,,2,2,6,301,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,13,2007-03-26,2007-04-01,,297,,,1,,1,2,,,2,2,4,293,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,14,2007-04-02,2007-04-08,,218,,,,,1,1,,,2,2,3,215,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,15,2007-04-09,2007-04-15,,334,,,1,,2,3,,,0,0,3,331,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,16,2007-04-16,2007-04-22,,348,,,1,,4,5,,,0,0,5,343,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,17,2007-04-23,2007-04-29,,422,,,2,,10,12,,,5,5,17,405,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,18,2007-04-30,2007-05-06,,438,,,8,,13,21,,,5,5,26,412,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,19,2007-05-07,2007-05-13,,535,,,13,,18,31,,,6,6,37,498,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,20,2007-05-14,2007-05-20,,616,,,22,,7,29,,,9,9,38,578,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,21,2007-05-21,2007-05-27,,661,,,46,,0,46,,,6,6,52,609,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,22,2007-05-28,2007-06-03,,892,,,33,,31,64,,,11,11,75,817,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,23,2007-06-04,2007-06-10,,963,,,53,,32,85,,,10,10,95,868,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,24,2007-06-11,2007-06-17,,1070,,,43,,28,71,,,18,18,89,981,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,25,2007-06-18,2007-06-24,,1127,,,30,,21,51,,,12,12,63,1064,Local Outbreak
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,26,2007-06-25,2007-07-01,,1297,1,,22,,22,45,,,5,5,50,1247,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,27,2007-07-02,2007-07-08,,1083,,,11,,22,33,,,10,10,43,1040,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,28,2007-07-09,2007-07-15,,1234,,,14,,18,32,,,13,13,45,1189,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,29,2007-07-16,2007-07-22,,970,,,5,,17,22,,,14,14,36,934,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,30,2007-07-23,2007-07-29,,842,,,3,,13,16,,,11,11,27,815,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,31,2007-07-30,2007-08-05,,706,,,2,,13,15,,,9,9,24,682,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,32,2007-08-06,2007-08-12,,579,,,,,2,2,,,2,2,4,575,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,33,2007-08-13,2007-08-19,,501,,,,,4,4,,,4,4,8,493,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,34,2007-08-20,2007-08-26,,526,,,,,2,2,,,0,0,2,524,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,35,2007-08-27,2007-09-02,,466,,,,,2,2,,,5,5,7,459,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,36,2007-09-03,2007-09-09,,455,1,,,,,1,,,2,2,3,452,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,37,2007-09-10,2007-09-16,,423,,,,,0,0,,,0,0,0,423,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,38,2007-09-17,2007-09-23,,280,1,,,,,1,,,0,0,1,279,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,39,2007-09-24,2007-09-30,,381,,,,,0,0,,,0,0,0,381,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,40,2007-10-01,2007-10-07,,427,,,,,1,1,,,3,3,4,423,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,41,2007-10-08,2007-10-14,,377,,,,,0,0,,,0,0,0,377,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,42,2007-10-15,2007-10-21,,308,,,,,1,1,,,0,0,1,307,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,43,2007-10-22,2007-10-28,,346,,,,,0,0,,,0,0,0,346,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,44,2007-10-29,2007-11-04,,332,,,,,,0,,,1,1,1,331,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,45,2007-11-05,2007-11-11,,265,,,,,0,0,,,0,0,0,265,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,46,2007-11-12,2007-11-18,,314,1,,,,,1,,,0,0,1,313,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,47,2007-11-19,2007-11-25,,,,,,,,,,,,,,,No Report
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,48,2007-11-26,2007-12-02,,286,2,,,,,2,,,0,0,2,284,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,49,2007-12-03,2007-12-09,,266,0,,,,,0,,,0,0,0,266,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,50,2007-12-10,2007-12-16,,254,,,,,1,1,,,0,0,1,253,Sporadic
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,51,2007-12-17,2007-12-23,,247,,,,,0,0,,,0,0,0,247,No Activity
+
+Chile,Region of the Americas of WHO,Temperate South America,2007,52,2007-12-24,2007-12-30,,162,,,,,,0,,,2,2,2,160,Sporadic
+
+
