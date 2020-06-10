@@ -15,14 +15,14 @@ df[df["CAUSABAS"] == "J09"]
 df[df["CAUSABAS"] == "J108"]
 ```
 
-| Código         	| Descrição                                                                                                	|
+| Código (CID 10   	| Descrição                                                                                                	|
 |----------------	|----------------------------------------------------------------------------------------------------------	|
-| CID 10 - J09   	| Influenza (gripe) devida a vírus identificado da gripe aviária                                           	|
-| CID 10 - J10   	| Influenza devida a outro vírus da influenza (gripe) identificado                                         	|
-| CID 10 - J10.0 	| Influenza com pneumonia devida a outro vírus da influenza (gripe) identificado                           	|
-| CID 10 - J10.1 	| Influenza com outras manifestações respiratórias, devida a outro vírus da influenza (gripe) identificado 	|
-| CID 10 - J10.8 	| Influenza com outras manifestações, devida a outro vírus da influenza (gripe) identificado               	|
-| CID 10 - J11   	| Influenza (gripe) devida a vírus não identificado                                                        	|
-| CID 10 - J11.0 	| Influenza (gripe) com pneumonia, devida a vírus não identificado                                         	|
-| CID 10 - J11.1 	| Influenza (gripe) com outras manifestações respiratórias, devida a vírus não identificado                	|
-| CID 10 - J11.8 	| Influenza (gripe) com outras manifestações, devida a vírus não identificado                              	|
+| J09   	        | Influenza (gripe) devida a vírus identificado da gripe aviária                                           	|
+| J10   	        | Influenza devida a outro vírus da influenza (gripe) identificado                                         	|
+| J10.0 	        | Influenza com pneumonia devida a outro vírus da influenza (gripe) identificado                           	|
+| J10.1 	        | Influenza com outras manifestações respiratórias, devida a outro vírus da influenza (gripe) identificado 	|
+| J10.8 	        | Influenza com outras manifestações, devida a outro vírus da influenza (gripe) identificado               	|
+| J11   	        | Influenza (gripe) devida a vírus não identificado                                                        	|
+| J11.0 	        | Influenza (gripe) com pneumonia, devida a vírus não identificado                                         	|
+| J11.1 	        | Influenza (gripe) com outras manifestações respiratórias, devida a vírus não identificado                	|
+| J11.8 	        | Influenza (gripe) com outras manifestações, devida a vírus não identificado                              	|
