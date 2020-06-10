@@ -4,7 +4,9 @@ Simple compilation and presentation of some stats about Influenza data, from Wor
 
 ## Data
 
-- FluNet by WHO: https://apps.who.int/flumart/Default?ReportNo=12
+- FluNet by WHO
+    - Dataset:
+        - https://apps.who.int/flumart/Default?ReportNo=12
 
 - DATASUS : 
     - Dataset:
