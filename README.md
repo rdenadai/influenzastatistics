@@ -1,6 +1,6 @@
 # Influenza Statistics
 
-Simple compilation and presentation of some stats about Influenza data
+Simple compilation and presentation of some stats about Influenza data, from World and Brazil.
 
 ## Data
 
@@ -8,8 +8,8 @@ Simple compilation and presentation of some stats about Influenza data
 
 - DATASUS : 
     - Dataset:
-        - CID9 : ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID9/DORES/
-        - CID10 : ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/
+        - CID9 : [ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID9/DORES/](ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID9/DORES/)
+        - CID10 : [ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/](ftp://ftp.datasus.gov.br/dissemin/publicos/SIM/CID10/DORES/)
     - Referência:
         - Tabela CID9 : http://tabnet.datasus.gov.br/cgi/sih/mxcid9br.htm
         - Tabela CID10 : http://tabnet.datasus.gov.br/cgi/sih/mxcid10lm.htm
